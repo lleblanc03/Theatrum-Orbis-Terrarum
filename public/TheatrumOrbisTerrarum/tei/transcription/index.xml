@@ -2,7 +2,12 @@
 <body><div>
     <pb facs="#f000"/>
 <ab>
-<lb/>--Translation for Seq.1
+  <lb/><fw type="header" place="top">THEATRVM ORBIS TERRARVM</fw>
+  <lb/><hi rend="bold">THEA</hi>
+  <lb/><hi rend="bold">TRVM</hi>
+  <lb/><placeName ref="#world">ORBIS TERRA</placeName>
+  <lb/><persName ref="#ortelius">Abraham Ortelius</persName>
+  <lb/><date when="1606">1606</date>
 </ab>
 
 <pb facs="#f001"/>
