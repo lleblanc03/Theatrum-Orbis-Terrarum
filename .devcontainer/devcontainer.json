@@ -1,0 +1,10 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/javascript-node",
+  "hostRequirements": {
+    "cpus": 2
+  },
+  "waitFor": "onCreateCommand",
+  "postCreateCommand": "npm install -g @cu-mkp/editioncrafter-cli",
+  "updateContentCommand": "npm install",
+  "forwardPorts": [3000]
+}

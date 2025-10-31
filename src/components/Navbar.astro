@@ -1,0 +1,44 @@
+---
+import { getUrl } from '../util/path'
+
+---
+
+<div class="navbar">
+  <a href={import.meta.env.BASE_URL} class="logo">
+    <img alt="EditionCrafter logo" src=`${getUrl('ec_logo.svg')}` />
+    <img alt="EditionCrafter" src=`${getUrl('ec_name.svg')}` />
+  </a>
+  <a href=`${getUrl('records')}`>Record List</a>
+  <a href=`${getUrl('about')}`>About</a>
+</div>
+<style>
+  .navbar {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    gap: 20px;
+    padding: 0 20px;
+    font-family: serif;
+    font-size: 30px;
+    background-color: #f7f7f7;
+  }
+
+  .navbar a {
+    text-decoration: none;
+    color: #000000;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+
+  a.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 50px !important;
+    /* line up the SVG name with the text links */
+    position: relative;
+    top: -4px;
+  }
+</style>

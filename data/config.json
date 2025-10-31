@@ -1,0 +1,9 @@
+{
+  "id": "ec",
+  "documentName": "<DOCUMENT_NAME>",
+  "iiifManifest": "/<BASE_DIR>/<DOCUMENT_ID>/iiif/manifest.json",
+  "transcriptionTypes": {
+    "transcription": "Transcription"
+  },
+  "viewerUrl": "/<BASE_DIR>"
+}
