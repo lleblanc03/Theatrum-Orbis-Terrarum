@@ -1,9 +1,9 @@
 {
   "id": "ec",
-  "documentName": "<DOCUMENT_NAME>",
-  "iiifManifest": "/<BASE_DIR>/<DOCUMENT_ID>/iiif/manifest.json",
+  "documentName": "Theatrum Orbis Terrarum",
+  "iiifManifest": "/Theatrum-Orbis-Terrarum/TheatrumOrbisTerrarum/iiif/manifest.json",
   "transcriptionTypes": {
     "transcription": "Transcription"
   },
-  "viewerUrl": "/<BASE_DIR>"
+  "viewerUrl": "/Theatrum-Orbis-Terrarum"
 }
