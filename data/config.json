@@ -3,7 +3,8 @@
   "documentName": "Theatrum Orbis Terrarum",
   "iiifManifest": "/Theatrum-Orbis-Terrarum/TheatrumOrbisTerrarum/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": "Transcription"
+    "transcription": "Transcription",
+    "translation": "Translation"
   },
   "viewerUrl": "/Theatrum-Orbis-Terrarum"
 }
