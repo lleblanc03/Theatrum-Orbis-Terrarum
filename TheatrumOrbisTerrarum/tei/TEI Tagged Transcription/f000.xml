@@ -1,12 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI Tagged Transcription"><body><div><pb facs="#f000"/>
+<personalstmt> <!--This my personal Statement--> </personalstmt>
 <ab>
-  <lb/><fw type="header" place="top">THEATRVM ORBIS TERRARVM</fw>
-  <lb/><hi rend="bold">THEA</hi>
-  <lb/><hi rend="bold">TRVM</hi>
-  <lb/><placeName ref="#world">ORBIS TERRA</placeName>
-  <lb/><persName ref="#ortelius">Abraham Ortelius</persName>
-  <lb/><date when="1606">1606</date>
-  <lb/>Alternate Version
+        <lb/><fw type="header" place="top">THEATRVM ORBIS TERRARVM</fw>
+        <lb/><hi rend="italic">THEA</hi>
+        <lb/><placeName ref="#antwerp">ORBIS TERRA</placeName>
+        <lb/><persName ref="#ortelius">Abraham Ortelius</persName>
+        <lb/><date when="1606">1606</date>
+        <lb/><foreign xml:lang="la">Braccas meas vescimini!</foreign>
+        <lb/><note type="historical"><!--This edition was printed in--><placeName ref="#london"><!--London--></placeName> <!--during --><persName ref="#james1"><!--King James--></persName><!--’ reign.--></note>
+        <lb/><unclear reason="faded" cert="low">Ortel...</unclear>
+        <lb/><supplied reason="lost" resp="#leblanc">Ortelius</supplied>
+        <lb/>
+            <choice>
+                <orig>IOHN</orig>
+                <reg>John</reg>
+            </choice>
+        <lb/>
+            <choice>
+                <unclear>Orteli...</unclear>
+                <supplied reason="lost">Ortelius</supplied>
+            </choice>
+        <lb/><hi rend="italic">The Theatre of the Whole World</hi>
+        <lb/><fw type="catch" place="bottom">WORLD</fw>
+        <lb/><fw type="pageNum" place="top">1</fw>
+        <lb/><figure type="ornament">
+                <head>Fleuron</head>
+                <figDesc>Decorative floral ornament</figDesc>
+            </figure>
+        <lb/><signature type="printed">LL</signature>
 </ab>
-
 </div></body></text>
