@@ -56,7 +56,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f000.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f000.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -82,7 +82,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f000.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f000.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -156,7 +156,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f001.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -182,7 +182,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f001.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -256,7 +256,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f002.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f002.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -282,7 +282,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f002.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f002.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -356,7 +356,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f003.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f003.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -382,7 +382,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f003.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f003.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -456,7 +456,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f004.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f004.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -482,7 +482,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f004.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f004.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -556,7 +556,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f005.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f005.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -582,7 +582,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f005.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f005.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -656,7 +656,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f006.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f006.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -682,7 +682,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f006.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f006.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -756,7 +756,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f007.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f007.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -782,7 +782,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f007.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f007.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -856,7 +856,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f008.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f008.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -882,7 +882,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f008.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f008.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -956,7 +956,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f009.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f009.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -982,7 +982,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f009.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f009.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1056,7 +1056,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f010.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f010.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1082,7 +1082,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f010.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f010.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1156,7 +1156,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f011.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f011.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1182,7 +1182,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f011.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f011.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1256,7 +1256,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f012.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f012.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1282,7 +1282,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f012.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f012.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1356,7 +1356,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f013.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f013.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1382,7 +1382,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f013.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f013.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1456,7 +1456,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f014.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f014.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1482,7 +1482,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f014.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f014.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1556,7 +1556,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f015.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f015.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1582,7 +1582,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f015.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f015.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1656,7 +1656,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f016.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f016.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1682,7 +1682,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f016.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f016.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1756,7 +1756,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f017.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f017.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1782,7 +1782,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f017.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f017.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1856,7 +1856,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f018.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f018.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1882,7 +1882,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f018.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f018.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1956,7 +1956,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f019.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f019.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1982,7 +1982,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f019.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f019.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2056,7 +2056,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f020.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f020.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2082,7 +2082,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f020.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f020.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2156,7 +2156,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f021.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f021.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2182,7 +2182,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f021.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f021.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2256,7 +2256,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f022.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f022.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2282,7 +2282,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f022.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f022.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2356,7 +2356,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f023.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f023.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2382,7 +2382,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f023.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f023.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2456,7 +2456,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f024.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f024.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2482,7 +2482,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f024.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f024.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2556,7 +2556,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f025.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f025.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2582,7 +2582,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f025.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f025.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2656,7 +2656,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f026.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f026.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2682,7 +2682,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f026.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f026.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2756,7 +2756,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f027.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f027.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2782,7 +2782,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f027.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f027.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2856,7 +2856,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f028.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f028.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2882,7 +2882,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f028.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f028.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2956,7 +2956,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f029.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f029.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2982,7 +2982,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f029.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f029.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3056,7 +3056,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f030.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f030.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3082,7 +3082,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f030.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f030.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3156,7 +3156,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f031.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f031.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3182,7 +3182,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f031.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f031.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3256,7 +3256,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f032.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f032.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3282,7 +3282,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f032.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f032.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3356,7 +3356,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f033.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f033.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3382,7 +3382,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f033.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f033.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3456,7 +3456,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f034.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f034.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3482,7 +3482,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f034.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f034.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3556,7 +3556,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f035.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f035.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3582,7 +3582,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f035.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f035.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3656,7 +3656,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f036.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f036.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3682,7 +3682,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f036.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f036.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3756,7 +3756,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f037.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f037.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3782,7 +3782,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f037.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f037.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3856,7 +3856,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f038.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f038.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3882,7 +3882,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f038.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f038.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3956,7 +3956,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f039.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f039.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3982,7 +3982,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f039.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f039.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4056,7 +4056,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f040.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f040.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4082,7 +4082,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f040.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f040.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4156,7 +4156,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f041.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f041.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4182,7 +4182,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f041.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f041.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4256,7 +4256,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f042.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f042.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4282,7 +4282,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f042.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f042.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4356,7 +4356,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f043.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f043.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4382,7 +4382,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f043.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f043.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4456,7 +4456,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f044.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f044.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4482,7 +4482,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f044.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f044.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4556,7 +4556,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f045.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f045.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4582,7 +4582,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f045.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f045.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4656,7 +4656,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f046.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f046.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4682,7 +4682,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f046.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f046.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4756,7 +4756,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f047.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f047.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4782,7 +4782,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f047.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f047.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4856,7 +4856,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f048.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f048.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4882,7 +4882,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f048.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f048.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4956,7 +4956,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/translation/f049.xml",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/tei/transcription/f049.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4982,7 +4982,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/translation/f049.html",
+								"id": "https://lleblanc03.github.io/OrteliTest//TheatrumOrbisTerrarum/html/transcription/f049.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
