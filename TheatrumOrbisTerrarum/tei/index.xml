@@ -732,8 +732,8 @@
             </choice>
         <lb/>
             <choice>
-                <unclear>Orteli...</unclear>
-                <supplied reason="lost">Ortelius</supplied>
+                <orig><unclear>Orteli...</unclear></orig>
+                <reg><supplied reason="lost">Ortelius</supplied></reg>
             </choice>
         <lb/><hi rend="italic">The Theatre of the Whole World</hi>
         <lb/><fw type="catch" place="bottom">WORLD</fw>
