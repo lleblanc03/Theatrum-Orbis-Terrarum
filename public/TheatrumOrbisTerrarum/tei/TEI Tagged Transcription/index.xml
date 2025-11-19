@@ -309,7 +309,43 @@
 
 <pb facs="#f015"/>
 <ab>
-<lb/>--TEI Translation for Seq.16
+<div>
+    <!-- Column: left, top -->
+    <p rend="left-top">
+        This is the left column at the top of the page.
+        Put your transcription here.
+    </p>
+
+    <!-- Column: right, top -->
+    <p rend="right-top">
+        This is the right column at the top of the page.
+    </p>
+
+    <!-- Column: wide top banner (optional) -->
+    <p rend="top">
+        This spans the top between columns.
+    </p>
+
+    <!-- Column: left, middle -->
+    <p rend="left-middle" style="tall">
+        This is the left middle column. Add “style=tall” if it needs more height.
+    </p>
+
+    <!-- Column: right, middle -->
+    <p rend="right-middle">
+        This is the right middle column.
+    </p>
+
+    <!-- Column: left, bottom -->
+    <p rend="left-bottom">
+        Bottom-left column text.
+    </p>
+
+    <!-- Column: right, bottom -->
+    <p rend="right-bottom">
+        Bottom-right column text.
+    </p>
+</div>
 </ab>
 
 <pb facs="#f016"/>
