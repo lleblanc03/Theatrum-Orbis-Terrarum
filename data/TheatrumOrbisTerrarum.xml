@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <!--
+Link that has the live editioncrafter
+
+https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
+
+-->
       <teiHeader>
           <fileDesc>
               <titleStmt>
