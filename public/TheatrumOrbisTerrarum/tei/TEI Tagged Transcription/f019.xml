@@ -1,6 +1,27 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI Tagged Transcription"><body><div><pb facs="#f019"/>
+<personalstmt> <!--Transcribed and first encoded by Mary Zouharis from Framingham State University!--> </personalstmt>
 <ab>
-<lb/>--TEI Translation for Seq.20
+<lb/><figure rend="left-top"><foreign xml:lang="la">EVROPAM, SIVE CEL
+<lb/>TICAM VETEREM,
+<lb/><hi rend="italic">sic describere conabar <persName>Abrah, Ortelius</persName></hi></foreign></figure>
+</ab>
+<ab>
+<lb/><figure red="left-bottom"><foreign xml:lang="la">CLARISS, D, NICOLAO
+<lb/>ROCCOXIO I,V,L, PATRICIO <placeName>ANTVERP</placeName>
+<lb/>EIVSDEMQ. VRBIS SENATORI, HANC
+<lb/>ANTIQV<note type="letter"><!--this is the weird ae letter-->AE</note> EVROP<note type="letter"><!--this is the weird ae letter-->AE</note>, NOVAM TABVLAM,
+<lb/><persName>ABRAH.ORTELIVS</persName> DECOTISSIME DEDICAB.</foreign></figure>
+</ab>
+<ab>
+<lb/><figure rend="right-bottom"><foreign xml:lang="la">CVM
+<lb/>PRIVILE:
+<lb/>GIO DECEN
+<lb/>NALI, IMP.
+<lb/>REGI<hi rend="italic">S</hi> ET
+<lb/>BRABANTI
+<lb/><note type="letter"><!--this is the weird ae letter-->AE</note> CANCEL
+<lb/>LARIAE</foreign>
+<lb/><hi rend="italic"><date when="1595">[1595.]</date></hi></figure>
 </ab>
 
 </div></body></text>
