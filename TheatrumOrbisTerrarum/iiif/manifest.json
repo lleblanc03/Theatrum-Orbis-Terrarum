@@ -1569,7 +1569,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://lleblanc03.github.io/Theatrum-Orbis-Terrarum//TheatrumOrbisTerrarum/tei/TEI Tagged Transcription/f015.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lleblanc03.github.io/Theatrum-Orbis-Terrarum//TheatrumOrbisTerrarum/iiif/canvas/f015"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lleblanc03.github.io/Theatrum-Orbis-Terrarum//TheatrumOrbisTerrarum/iiif/canvas/f015/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://lleblanc03.github.io/Theatrum-Orbis-Terrarum//TheatrumOrbisTerrarum/html/transcription/f015.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lleblanc03.github.io/Theatrum-Orbis-Terrarum//TheatrumOrbisTerrarum/iiif/canvas/f015"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lleblanc03.github.io/Theatrum-Orbis-Terrarum//TheatrumOrbisTerrarum/iiif/canvas/f015/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lleblanc03.github.io/Theatrum-Orbis-Terrarum//TheatrumOrbisTerrarum/html/TEI Tagged Transcription/f015.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
