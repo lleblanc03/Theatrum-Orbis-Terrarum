@@ -1,29 +1,27 @@
-/* ===============================
-   COLUMN LAYOUT FOR EDITIONCRAFTER
-   =============================== */
-
-/* Outer wrapper that activates 2-column display */
 .ec-columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1.25rem;
 }
 
-tei-p[rend="left-top"],
-tei-p[rend="left-middle"],
-tei-p[rend="left-bottom"] {
+/* left column */
+p[rend="left-top"],
+p[rend="left-middle"],
+p[rend="left-bottom"] {
   grid-column: 1;
 }
 
-tei-p[rend="right-top"],
-tei-p[rend="right-middle"],
-tei-p[rend="right-bottom"] {
+/* right column */
+p[rend="right-top"],
+p[rend="right-middle"],
+p[rend="right-bottom"] {
   grid-column: 2;
 }
 
-tei-p[rend="top"],
-tei-p[rend="wide"],
-tei-p[rend="bottom"] {
+/* full width */
+p[rend="top"],
+p[rend="wide"],
+p[rend="bottom"] {
   grid-column: 1 / span 2;
 }
 

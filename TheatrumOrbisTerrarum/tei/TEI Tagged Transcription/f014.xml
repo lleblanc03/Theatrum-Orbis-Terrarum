@@ -3,4 +3,39 @@
 <lb/>--TEI Transcription for Seq.15
 </ab>
 
+<tei-pb facs="#f015" data-origname="pb" data-empty=""/>
+
+<tei-div class="ec-columns" data-origname="div">
+
+    <tei-p rend="left-top" data-origname="p">
+        This is the left column at the top of the page.
+    </tei-p>
+
+    <tei-p rend="right-top" data-origname="p">
+        This is the right column at the top of the page.
+    </tei-p>
+
+    <tei-p rend="top" data-origname="p">
+        This spans both columns.
+    </tei-p>
+
+    <tei-p rend="left-middle" class="tall" data-origname="p">
+        This is the left middle column…
+    </tei-p>
+
+    <tei-p rend="right-middle" data-origname="p">
+        This is the right middle column…
+    </tei-p>
+
+    <tei-p rend="left-bottom" data-origname="p">
+        Bottom-left text…
+    </tei-p>
+
+    <tei-p rend="right-bottom" data-origname="p">
+        Bottom-right text…
+    </tei-p>
+
+</tei-div>
+
+
 </div></body></text>
