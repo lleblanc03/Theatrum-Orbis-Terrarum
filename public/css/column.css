@@ -5,44 +5,28 @@
 /* Outer wrapper that activates 2-column display */
 .ec-columns {
   display: grid;
-  grid-template-columns: 1fr 1fr; /* Two equal columns */
-  gap: 1.5rem;
-  margin: 1rem 0;
-  align-items: start;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
 }
 
-/* Default paragraph spacing */
-.ec-columns p {
-  margin: 0 0 1rem 0;
-  line-height: 1.4;
-}
-
-/* LEFT column positioning */
-p[rend="left-top"],
-p[rend="left-middle"],
-p[rend="left-bottom"] {
+tei-p[rend="left-top"],
+tei-p[rend="left-middle"],
+tei-p[rend="left-bottom"] {
   grid-column: 1;
 }
 
-/* RIGHT column positioning */
-p[rend="right-top"],
-p[rend="right-middle"],
-p[rend="right-bottom"] {
+tei-p[rend="right-top"],
+tei-p[rend="right-middle"],
+tei-p[rend="right-bottom"] {
   grid-column: 2;
 }
 
-/* FULL-WIDTH sections */
-p[rend="top"],
-p[rend="wide"],
-p[rend="bottom"] {
+tei-p[rend="top"],
+tei-p[rend="wide"],
+tei-p[rend="bottom"] {
   grid-column: 1 / span 2;
 }
 
-/* Height modifiers */
-p[style*="tall"] {
+.tall {
   min-height: 6rem;
-}
-
-p[style*="short"] {
-  min-height: 2rem;
 }
