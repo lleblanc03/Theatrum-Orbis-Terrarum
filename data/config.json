@@ -8,6 +8,6 @@
   },
   "viewerUrl": "/Theatrum-Orbis-Terrarum",
   "stylesheets": [
-    "/Theatrum-Orbis-Terrarum/css/columns.css"
+    "/Theatrum-Orbis-Terrarum/html/css/column.css"
   ]
 }
