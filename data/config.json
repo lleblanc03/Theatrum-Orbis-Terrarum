@@ -4,7 +4,10 @@
   "iiifManifest": "/Theatrum-Orbis-Terrarum/TheatrumOrbisTerrarum/iiif/manifest.json",
   "transcriptionTypes": {
     "transcription": "Transcription",
-    "TEI Tagged Transcription": "TEI Tagged Transcription" 
+    "TEI Tagged Transcription": "TEI Tagged Transcription"
   },
-  "viewerUrl": "/Theatrum-Orbis-Terrarum"
+  "viewerUrl": "/Theatrum-Orbis-Terrarum",
+  "stylesheets": [
+    "/Theatrum-Orbis-Terrarum/css/columns.css"
+  ]
 }
