@@ -307,7 +307,6 @@
 <lb/>--TEI Transcription for Seq.15
 </ab>
 
-<pb facs="#f015"/>
 <tei-pb facs="#f015" data-origname="pb" data-empty=""/>
 
 <tei-div class="ec-columns" data-origname="div">
@@ -321,7 +320,7 @@
     </tei-p>
 
     <tei-p rend="top" data-origname="p">
-        This spans the top between columns.
+        This spans both columns.
     </tei-p>
 
     <tei-p rend="left-middle" class="tall" data-origname="p">
@@ -339,8 +338,8 @@
     <tei-p rend="right-bottom" data-origname="p">
         Bottom-right text…
     </tei-p>
-</tei-div>
 
+</tei-div>
 
 
 <pb facs="#f016"/>
