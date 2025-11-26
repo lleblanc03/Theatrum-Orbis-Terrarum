@@ -419,7 +419,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 
 <pb facs="#f004" />
 <ab>
-<figure rend="left-top">
+<figure rend="middle-top">
 <lb />THEA
 <lb />TRVM
 <lb />ORBIS
@@ -515,6 +515,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <pb facs="#f008" />
 <ab>
 <lb /><!-- Following transcription is partial -->
+<figure rend="middle-top">
 <lb/>THE LIFE OF
 <lb/>ABRAHAM ORTELL,
 <lb/>COSMOGRAPHER TO PHILIP THE
@@ -523,6 +524,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <lb/>and louing friend, and now translated into English by
 <lb/>W.B., as great a louer of his learning 
 <lb/>and vertues.
+</figure>
 
 <lb/>THe stocke of the ORTELS flourished not long since, and liued in good state and credit at
 <lb/>Ausburg in Bayern, (Augustam vindelicorum, the Latines called it.) From that family came
@@ -548,11 +550,13 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <pb facs="#f010" />
 <ab>
 <personalstmt><!--I, Iz Shields, worked on sequence 11, facsimile 10, of this text.--></personalstmt>
+<figure rend="middle-top">
 <lb />Abraham Orte-
 <lb />lius Citizen of Ant-
 <lb />-werpe,and Georgrapher to Philip the
 <lb />second, King of Spaine, to the cour-
 <lb />teous Reader.
+</figure>
 <lb />
 <lb />Seeing, that as I thinke, there is no man, gentle Reader, but knoweth what, 
 <lb />and how great profit the knowledge of Histories doth bring to those which are serious students
