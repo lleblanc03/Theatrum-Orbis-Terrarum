@@ -1,11 +1,13 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#f010"/>
 <ab>
 <personalstmt><!--I, Iz Shields, worked on sequence 11, facsimile 10, of this text.--></personalstmt>
+<figure rend="middle-top">
 <lb/>Abraham Orte-
 <lb/>lius Citizen of Ant-
 <lb/>-werpe,and Georgrapher to Philip the
 <lb/>second, King of Spaine, to the cour-
 <lb/>teous Reader.
+</figure>
 <lb/>
 <lb/>Seeing, that as I thinke, there is no man, gentle Reader, but knoweth what, 
 <lb/>and how great profit the knowledge of Histories doth bring to those which are serious students
