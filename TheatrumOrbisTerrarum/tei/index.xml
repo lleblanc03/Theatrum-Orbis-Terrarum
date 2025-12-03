@@ -1726,109 +1726,117 @@ t<lb />ions printed at Venice in Italian: but especially John Gonfaluo, who in t
 -->
 
 <pb facs="#f004" />
-<ab>
-<figure rend="middle-top">
-<lb />THEA
-<lb />TRVM
-<lb />ORBIS
-<lb />TERRA
-<lb />RVM
-</figure>
-</ab>
-<ab>
-<figure rend="left-top">
-<lb />ABRAHAMI ORTELI ANTVERP.
-<lb />GEOGRAPHI REGII.
-</figure>
-</ab>
-<ab>
-<figure rend="left-top">
-<lb />THE THEATRE OF THE WHOLE
-<lb />WORLD: SET FORTH BY THAT
-<lb /><hi rend="italic">Excellent Geographer Abraham Ortelius.</hi>
-</figure>
-</ab>
-<ab>
-<figure rend="right-top">
-<lb />LONDON,
-<lb />Printed by IOHN NORTON; Printer to the Kings most excellent Maiestie in 
-<lb />Hebrew, Greeke, and Latine. 1606.
-</figure>
-</ab>
+    <ab>
+        <figure rend="middle-top">
+            <figDesc xml:lang="la">
+                <lb />THEA
+                <lb />TRVM
+                <lb />ORBIS
+                <lb />TERRA
+                <lb />RVM
+            </figDesc>
+        </figure>
+    </ab>
+    <ab>
+        <figure rend="left-top">
+            <figDesc xml:lang="la">
+                <lb /><persName ref="#ortelius">ABRAHAMI ORTELI </persName> <placeName ref="#antwerp">ANTVERP</placeName>.
+                <lb />GEOGRAPHI REGII.
+            </figDesc>
+        </figure>
+    </ab>
+    <ab>
+        <figure rend="left-top">
+            <lb />THE THEATRE OF THE WHOLE
+            <lb />WORLD: SET FORTH BY THAT
+            <lb /><hi rend="italic">Excellent Geographer <persName ref="#ortelius">Abraham Ortelius</persName>.</hi>
+        </figure>
+    </ab>
+    <ab>
+        <figure rend="right-top">
+            <lb /><placeName ref="#london">LONDON</placeName>,
+            <lb />Printed by <persName ref="#johnNorton">IOHN NORTON</persName>; Printer to the Kings most excellent Maiestie in 
+            <lb />Hebrew, Greeke, and Latine. <date when="1606">1606</date>.
+        </figure>
+    </ab>
 
 <pb facs="#f005" />
-<ab>
-<hi rend="italic">
-<lb />The sway, by Sea &amp; Land, grat IAMES doth beare,
-<lb />His Birth, His Bloud, These Kingdomes figure here:
-</hi>
-</ab>
-<ab>
-<hi rend="italic">
-<lb />But, were his seuerall vertues to be crown'd
-<lb />A World, past thine, Ortelius, must be found.
-</hi>
-</ab>
+    <ab>
+        <hi rend="italic">
+            <lb />The sway, by Sea &amp; Land, grat <persName ref="#johnNorton">IAMES</persName> doth beare,
+            <lb />His Birth, His Bloud, These Kingdomes figure here:
+        </hi>
+    </ab>
+    <ab>
+        <hi rend="italic">
+            <lb />But, were his seuerall vertues to be crown'd
+            <lb />A World, past thine, <persName ref="#ortelius">Ortelius</persName>, must be found.
+        </hi>
+    </ab>
 
 <pb facs="#f006" />
-<ab>
-<figure rend="middle-top">
-<lb />ABRAHAMI ORTELII
-<lb />QVEM VRBS VRBIVM ANTVERPIA EDITIT,
-<lb />REX REGVM PHILLIPVS GEOGRAPHVM HABVIT,
-<lb />MONVMENVM HIC VIDES.
-<lb />BREVIS TERRA EVM CAPTIT
-<lb />QVI IPSE ORBEM TERRARVM CEPIT,
-<lb />QVI IPSE ORBEM TERRARVM CEPTIT,
-<lb />STILO ET TABVLIS ILLVSTRAVIT:
-<lb />SED MENTE CONTEMPSIT,
-<lb />QVA CAELVM ET ALTA SVSPEXIT
-<lb />CONSTANS ADVERSVM SPES AVT METVS.
-<lb />AMICITIAE CVLTOR, CANDORE FIDE, OFFICIIS,
-<lb />QVIETIS CVLTOR, SINE LITE, VXORE, PROLE.
-<lb />VITAM HABVIT, QVALE ALIVS, VOTVM.
-<lb />VT NVNC QVOQVE AETERNA EI QVIES SIT
-<lb />VOTIS FAVE LECTOR.
-<lb />OBIIT IIII.KAL. IVLII. ANNO CIƆ.XCIIX.
-<lb />VIXIT ANN. LXXI. MENSS.II. DIES IIXX.
-<lb />COLII EX SORORE NEPOTES B.M.POSS.
-</figure>
-</ab>
-<ab>
-<figure rend="middle-top">
-<lb />CONTEMNO ET ORNO MENTE, MANV
-</figure>
-</ab>
+    <ab>
+        <figure rend="middle-top">
+            <figDesc xml:lang="la">
+                <lb /><persName ref="#ortelius">ABRAHAMI ORTELII</persName>
+                <lb />QVEM VRBS VRBIVM <placeName ref="#antwerp">ANTVERPIA</placeName> EDITIT,
+                <lb />REX REGVM <persName ref="#philipII">PHILLIPVS</persName> GEOGRAPHVM HABVIT,
+                <lb />MONVMENVM HIC VIDES.
+                <lb />BREVIS TERRA EVM CAPTIT
+                <lb />QVI IPSE ORBEM TERRARVM CEPIT,
+                <lb />QVI IPSE ORBEM TERRARVM CEPTIT,
+                <lb />STILO ET TABVLIS ILLVSTRAVIT:
+                <lb />SED MENTE CONTEMPSIT,
+                <lb />QVA CAELVM ET ALTA SVSPEXIT
+                <lb />CONSTANS ADVERSVM SPES AVT METVS.
+                <lb />AMICITIAE CVLTOR, CANDORE FIDE, OFFICIIS,
+                <lb />QVIETIS CVLTOR, SINE LITE, VXORE, PROLE.
+                <lb />VITAM HABVIT, QVALE ALIVS, VOTVM.
+                <lb />VT NVNC QVOQVE AETERNA EI QVIES SIT
+                <lb />VOTIS FAVE LECTOR.
+                <lb />OBIIT IIII.KAL. IVLII. <date when="1598-06-28">ANNO CIƆ.XCIIX</date>.
+                <lb />VIXIT ANN. LXXI. MENSS.II. DIES IIXX.
+                <lb />COLII EX SORORE NEPOTES B.M.POSS.
+            </figDesc>
+        </figure>
+    </ab>
+    <ab>
+        <figure rend="middle-top">
+            <figDesc xml:lang="la">
+                <lb />CONTEMNO ET ORNO MENTE, MANV
+            </figDesc>
+        </figure>
+    </ab>
 
 <pb facs="#f007" />
-<ab>
-<figure rend="middle-top">
-<lb />TO THE
-<lb />MOST HIGH,
-<lb />MOST MIGHT,
-<lb />AND MOST HAPPY 
-<lb />PRINCE, IAMES BY THE
-<lb />GRACE OF GOD, KING
-<lb />OF GREAT BRITAINE,
-<lb />FRANCE AND IRE-
-<lb />LAND, DEFEN-
-<lb />DER OF THE FAITH, &amp;c.
-<lb />IOHN NORTON
-<lb />HIS MA-
-<lb />IESTIES MOST 
-<lb />HVMBLE AND
-<lb />FAITHFVLL SER-
-<lb />[V]ANT CONSECRATETH
-<lb />THESE IMMORTALL LA-
-<lb />BOVRS OF ABRAHAM
-<lb />[OR]TELIVS, TRANS-
-<lb />[L]ATED INTO
-<lb />ENGLISH
-</figure>
-</ab>
-<ab>
-<lb />[fleurons]
-</ab>
+    <ab>
+        <figure rend="middle-top">
+            <lb />TO THE
+            <lb />MOST HIGH,
+            <lb />MOST MIGHT,
+            <lb />AND MOST HAPPY 
+            <lb />PRINCE, <persName ref="#kingJamesI">IAMES</persName> BY THE
+            <lb />GRACE OF GOD, KING
+            <lb />OF GREAT <placeName ref="#greatBritain">BRITAINE</placeName>,
+            <lb /><placeName ref="#france">FRANCE</placeName> AND <placeName ref="#ireland">IRE-
+            <lb />LAND</placeName>, DEFEN-
+            <lb />DER OF THE FAITH, &amp;c.
+            <lb /><persName ref="#johnNorton">IOHN NORTON</persName>
+            <lb />HIS MA-
+            <lb />IESTIES MOST 
+            <lb />HVMBLE AND
+            <lb />FAITHFVLL SER-
+            <lb />[V]ANT CONSECRATETH
+            <lb />THESE IMMORTALL LA-
+            <lb />BOVRS OF ABRAHAM
+            <lb /><persName ref="#ortelius">[OR]TELIVS</persName>, TRANS-
+            <lb />[L]ATED INTO
+            <lb />ENGLISH
+        </figure>
+    </ab>
+    <ab>
+        <lb />[fleurons]
+    </ab>
 
 <pb facs="#f008" />
 <ab>

@@ -1,32 +1,36 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f004"/>
-<ab>
-<figure rend="middle-top">
-<lb/>THEA
-<lb/>TRVM
-<lb/>ORBIS
-<lb/>TERRA
-<lb/>RVM
-</figure>
-</ab>
-<ab>
-<figure rend="left-top">
-<lb/>ABRAHAMI ORTELI ANTVERP.
-<lb/>GEOGRAPHI REGII.
-</figure>
-</ab>
-<ab>
-<figure rend="left-top">
-<lb/>THE THEATRE OF THE WHOLE
-<lb/>WORLD: SET FORTH BY THAT
-<lb/><hi rend="italic">Excellent Geographer Abraham Ortelius.</hi>
-</figure>
-</ab>
-<ab>
-<figure rend="right-top">
-<lb/>LONDON,
-<lb/>Printed by IOHN NORTON; Printer to the Kings most excellent Maiestie in 
-<lb/>Hebrew, Greeke, and Latine. 1606.
-</figure>
-</ab>
+    <ab>
+        <figure rend="middle-top">
+            <figDesc xml:lang="la">
+                <lb/>THEA
+                <lb/>TRVM
+                <lb/>ORBIS
+                <lb/>TERRA
+                <lb/>RVM
+            </figDesc>
+        </figure>
+    </ab>
+    <ab>
+        <figure rend="left-top">
+            <figDesc xml:lang="la">
+                <lb/><persName ref="#ortelius">ABRAHAMI ORTELI </persName> <placeName ref="#antwerp">ANTVERP</placeName>.
+                <lb/>GEOGRAPHI REGII.
+            </figDesc>
+        </figure>
+    </ab>
+    <ab>
+        <figure rend="left-top">
+            <lb/>THE THEATRE OF THE WHOLE
+            <lb/>WORLD: SET FORTH BY THAT
+            <lb/><hi rend="italic">Excellent Geographer <persName ref="#ortelius">Abraham Ortelius</persName>.</hi>
+        </figure>
+    </ab>
+    <ab>
+        <figure rend="right-top">
+            <lb/><placeName ref="#london">LONDON</placeName>,
+            <lb/>Printed by <persName ref="#johnNorton">IOHN NORTON</persName>; Printer to the Kings most excellent Maiestie in 
+            <lb/>Hebrew, Greeke, and Latine. <date when="1606">1606</date>.
+        </figure>
+    </ab>
 
 </div></body></text>
