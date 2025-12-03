@@ -72,7 +72,7 @@
 </figure>
 </ab>
 <ab>
-<figure rend="left-top">
+<figure rend="right-top">
 <lb/>LONDON,
 <lb/>Printed by IOHN NORTON; Printer to the Kings most excellent Maiestie in 
 <lb/>Hebrew, Greeke, and Latine. 1606.
@@ -81,16 +81,21 @@
 
 <pb facs="#f005"/>
 <ab>
+<hi rend="italic">
 <lb/>The sway, by Sea &amp; Land, grat IAMES doth beare,
 <lb/>His Birth, His Bloud, These Kingdomes figure here:
+</hi>
 </ab>
 <ab>
+<hi rend="italic">
 <lb/>But, were his seuerall vertues to be crown'd
 <lb/>A World, past thine, Ortelius, must be found.
+</hi>
 </ab>
 
 <pb facs="#f006"/>
 <ab>
+<figure rend="middle-top">
 <lb/>ABRAHAMI ORTELII
 <lb/>QVEM VRBS VRBIVM ANTVERPIA EDITIT,
 <lb/>REX REGVM PHILLIPVS GEOGRAPHVM HABVIT,
@@ -110,13 +115,17 @@
 <lb/>OBIIT IIII.KAL. IVLII. ANNO CIƆ.XCIIX.
 <lb/>VIXIT ANN. LXXI. MENSS.II. DIES IIXX.
 <lb/>COLII EX SORORE NEPOTES B.M.POSS.
+</figure>
 </ab>
 <ab>
+<figure rend="middle-top">
 <lb/>CONTEMNO ET ORNO MENTE, MANV
+</figure>
 </ab>
 
 <pb facs="#f007"/>
 <ab>
+<figure rend="middle-top">
 <lb/>TO THE
 <lb/>MOST HIGH,
 <lb/>MOST MIGHT,
@@ -138,6 +147,7 @@
 <lb/>[OR]TELIVS, TRANS-
 <lb/>[L]ATED INTO
 <lb/>ENGLISH
+</figure>
 </ab>
 <ab>
 <lb/>[fleurons]
@@ -146,14 +156,14 @@
 <pb facs="#f008"/>
 <ab>
     <lb/><!-- Following transcription is partial. TEI by KAB to see if adding attributes to persName tags will work, and to test centering text, etc. -->
-    <lb/><hi style="text-align: center;">THE LIFE OF
+    <lb/><figure rend="middle-top">THE LIFE OF
         <lb/><persName>ABRAHAM ORTELL</persName>,
         <lb/>COSMOGRAPHER TO <persName>PHILIP</persName> THE
         <lb/>SECOND, LATE KING OF SPAINE,
         <lb/>written first in Latine by <persName style="font-style: italic;">Francis Sweert</persName> of Antwerpe, his familiar
         <lb/><hi style="font-style: italic;">and louing friend, and now translated into English by</hi>
         <lb/><persName>W.B.</persName>, <hi style="font-style:italic;">as great a louer of his learning 
-        <lb/>and vertues</hi>.</hi>
+        <lb/>and vertues</hi>.</figure>
         
         <lb/>THe stocke of the ORTELS flourished not long since, and liued in good state and credit at
         <lb/><placeName>Ausburg</placeName> in <placeName>Bayern</placeName>, (<foreign xml:lang="la" style="font-style: italic;">Augustam vindelicorum</foreign>, the Latines called it.) From that family came
@@ -179,11 +189,11 @@
 <pb facs="#f010"/>
 <ab>
 <personalstmt> <!--I, Iz Shields, worked on sequence 11, facsimile 10, of this text.--> </personalstmt>
-<lb/><fw type="header" place="top"><persName ref="#ortelius">Abraham Orte-</persName></fw>
+<lb/><figure rend="middle-top"><fw type="header" place="top"><persName ref="#ortelius">Abraham Orte-</persName></fw>
 <lb/><fw type="header" place="top"><persName ref="#ortelius">lius</persName> Citizen of <placeName ref="#antwerp">Ant-</placeName></fw>
 <lb/><fw type="header" place="top"><placeName ref="#antwerp">-werpe</placeName>,and Geographer to Philip the</fw>
 <lb/><fw type="header" place="top">second, King of<placeName ref="#spaine"> Spaine</placeName>, to the cour-</fw>
-<lb/><fw type="header" place="top">teous Reader.</fw>
+<lb/><fw type="header" place="top">teous Reader.</fw></figure>
 <lb/>
 <lb/><hi rend="italic">Seeing, that as I thinke, there is no man, gentle Reader, but knoweth what, 
 <lb/>and how great profit the knowledge of Histories doth bring to those which are serious students
@@ -349,8 +359,8 @@
 <pb facs="#f016"/>
 <ab>
 <lb/><personalstmt><!--I, Meghan Spargo, transcribed and tagged Seq.17 of this text.--> </personalstmt>
-<lb/><p rend="middle-top">A DESCRIPTION OF THE </p>
-<lb/><p rend="middle-top">WHOLE WORLD.</p>
+<lb/><figure rend="middle-top">A DESCRIPTION OF THE
+<lb/>WHOLE WORLD.</figure>
 <lb/> 
 <lb/>THIS Map next ensuing containeth and representeth the portraiture of the whole earth,
 <lb/>and of the maine Ocean that enuirons &amp; compasseth the same: all which earthly Globe
@@ -470,7 +480,7 @@
 <pb facs="#f017"/>
 <ab>
 <lb/> <personalstmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></personalstmt>
-<lb/> <foreign xml:lang="la">TYPVS ORBIS TERRAVM.</foreign>
+<lb/><figure rend="middle-top"> <foreign xml:lang="la">TYPVS ORBIS TERRAVM.</foreign></figure>
 <lb/>
 <lb/>HOMI 
 <lb/>NES HAC LEGE 
@@ -523,7 +533,7 @@
 <pb facs="#f018"/>
 <ab>
 <lb/><personalstmt><!--We, Audrey Gauthier and Haley Jensen, transcribed and encoded seq 19 of this text at Framingham State University.--></personalstmt>
-<lb/> <title><placeName>Evrope</placeName></title>
+<lb/><figure rend="middle-top"><title><placeName>Evrope</placeName></title></figure>
 <lb/><p>In the diuision of the world, diuers haue placed <placeName>Africa</placeName> in the third part : some few haue made no more but <placeName>Asia</placeName> and <placeName>Europe</placeName> only ; and <placeName>Africa</placeName> they make a part of <placeName>Europe</placeName>, saith <persName>Salustius</persName>. This is that which <persName>S. Paulinus</persName> in <placeName>Aulonius</placeName>, out o
 <lb/> the opinion of the same Saluit, thus writeth of : <foreign xml:lang="la">Europam Afiamque duo vel maxima terrae Membra, quibus Lybiam
 <lb/>dubie Sallustius addit, Europæ admixtram : poffit quum tertia dici</foreign> : <placeName>Europe</placeName> and <placeName>Asia</placeName> vast, the Earthly globe between 
@@ -730,7 +740,8 @@
 
 <pb facs="#f021"/>
 <ab> 
-<personalstmt><!--Transcribed and encoded by Nicholas Vitale and Karolina Rosberg--></personalstmt><placeName>ASIA</placeName>
+<personalstmt><!--Transcribed and encoded by Nicholas Vitale and Karolina Rosberg--></personalstmt>
+<lb/><figure rend="middle-top"><placeName>ASIA</placeName></figure>
 <lb/>
 <lb/><placeName>Asia</placeName> diuides it selfe from <placeName>Europe</placeName> by the river <placeName>Tanais</placeName>, and a streight line drawen
 <lb/>from the fountaines thereof to the <placeName>Bay of S. Nicolas</placeName> in the <placeName>North Ocean</placeName>:
@@ -788,12 +799,14 @@
 
 <pb facs="#f022"/>
 <ab>
-<lb/>ASIAE NOVA DECRIPTIO
+<lb/><figure rend="middle-top">ASIAE NOVA DECRIPTIO</figure>
 </ab>
 
 <pb facs="#f023"/>
 <ab>
-<lb/><personalstmt><!--Transcribed and Encoded by Avery Slavin--></personalstmt>This the Ancients have diuersly distinguished; but at this present it is divided by <persName>John Leo</persName> of
+<lb/><personalstmt><!--Transcribed and Encoded by Avery Slavin--></personalstmt>
+<lb/><figure rend="middle-top"> AFRICA </figure>
+<lb/>This the Ancients have diuersly distinguished; but at this present it is divided by <persName>John Leo</persName> of
 <lb/> <placeName>Africa</placeName>, into foure chiefe parts; <placeName>Barbaria</placeName>, <placeName>Numidia</placeName>, <placeName>Libya</placeName>, and the Land of Negros. <placeName>Barbarie</placeName>, 
 <lb/>which is accounted the best, they circumscribe with the <placeName>Atlantick</placeName> &amp; <placeName>Mediterranean seas</placeName>; with 
 <lb/>mount Atlas, &amp; whither region of Barca bordering upon <placeName>Ægypt</placeName>. <placeName>Numidia</placeName>, called by the 
@@ -899,7 +912,8 @@
 <pb facs="#f029"/>
 <ab>
 <personalstmt> <!--I, Alex Wheeler, transcribed and encoded seq. 30 of this text--> </personalstmt>
-<fw type="pageNum" place="top">7</fw>
+<figure rend="middle-top"><fw type="pageNum" place="top">7</fw></figure>
+<lb/><figure rend="middle-top">NEVV SPAINE</figure>
 <lb/>--This Prouince was about the yeere <date when="1518">1518</date> forcibly subdued to the
 <lb/>Spanish gouernment, vnder the command and conduct of <persName ref="#corlez">Fer-
 <lb/>nando Corlez</persName>: who with the great slaughter of his owne people,
@@ -954,7 +968,7 @@
 <pb facs="#f031"/>
 <ab>
 <personalstmt> <!--Transcribed and encoded by Tyrell Fuller. --> </personalstmt>
-<lb/><fw type="header" place="top">The Prouince of <placeName ref="#CVLIACAN">CVLIACAN</placeName></fw>
+<lb/><figure rend="middle-top"><fw type="header" place="top">The Prouince of <placeName ref="#CVLIACAN">CVLIACAN</placeName></fw></figure>
 <lb/>THis Prouince of <placeName ref="#CVLIACAN">CVLIACAN</placeName> is part of the kingdome of <placeName ref="#New Galicia">New Galicia</placeName>. It was discouered
 <lb/>vnder the gouernment of [Charles the fifth], in the year <date when="1530">1530</date>. In this region is one only colonie
 <lb/>of Spaniards called, The towne of <placeName ref="#S. Michael. Villages">S. Michael. Villages</placeName> here are very many, bujlt by the
@@ -965,7 +979,7 @@
 <lb/>liue by hunting. They goe naked, couering only their priuities with a piece of Cotton. They haue
 <lb/>many languages. They lodge for the most part in the open air. They are the most beggerly nation
 <lb/>
-<lb/><fw type="header" place="top"><placeName ref="#CVBA">CVBA</placeName> and <placeName ref="#HISPANIOLA">HISPANIOLA</placeName></fw>
+<lb/><figure rend="middle-top"><fw type="header" place="top"><placeName ref="#CVBA">CVBA</placeName> and <placeName ref="#HISPANIOLA">HISPANIOLA</placeName></fw></figure>
 <lb/>THis Island of <placeName ref="#Cuba">Cuba</placeName> is so called by the naturall inhabitants; but by the Spaniards <placeName ref="#Fernandina">Fernandina</placeName>
 <lb/>and <placeName ref="#Joanna">Joanna</placeName>; and (as <persName ref="#Peter">Peter</persName> Martyr reports) Alpha and Omega. In length it extendeth East and
 <lb/>West 300 Spanish leagues. The land is very mountainous, but rich of gold, and excellent copper.

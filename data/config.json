@@ -4,7 +4,7 @@
   "iiifManifest": "/Theatrum-Orbis-Terrarum/TheatrumOrbisTerrarum/iiif/manifest.json",
   "transcriptionTypes": {
     "Transcription": "Transcription",
-    "FirstPasss": "FirstPass"
+    "FirstPass": "FirstPass"
   },
   "viewerUrl": "/Theatrum-Orbis-Terrarum",
   "stylesheets": [

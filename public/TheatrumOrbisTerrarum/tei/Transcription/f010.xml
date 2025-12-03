@@ -1,11 +1,11 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f010"/>
 <ab>
 <personalstmt> <!--I, Iz Shields, worked on sequence 11, facsimile 10, of this text.--> </personalstmt>
-<lb/><fw type="header" place="top"><persName ref="#ortelius">Abraham Orte-</persName></fw>
+<lb/><figure rend="middle-top"><fw type="header" place="top"><persName ref="#ortelius">Abraham Orte-</persName></fw>
 <lb/><fw type="header" place="top"><persName ref="#ortelius">lius</persName> Citizen of <placeName ref="#antwerp">Ant-</placeName></fw>
 <lb/><fw type="header" place="top"><placeName ref="#antwerp">-werpe</placeName>,and Geographer to Philip the</fw>
 <lb/><fw type="header" place="top">second, King of<placeName ref="#spaine"> Spaine</placeName>, to the cour-</fw>
-<lb/><fw type="header" place="top">teous Reader.</fw>
+<lb/><fw type="header" place="top">teous Reader.</fw></figure>
 <lb/>
 <lb/><hi rend="italic">Seeing, that as I thinke, there is no man, gentle Reader, but knoweth what, 
 <lb/>and how great profit the knowledge of Histories doth bring to those which are serious students

@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f017"/>
 <ab>
 <lb/> <personalstmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></personalstmt>
-<lb/> <foreign xml:lang="la">TYPVS ORBIS TERRAVM.</foreign>
+<lb/><figure rend="middle-top"> <foreign xml:lang="la">TYPVS ORBIS TERRAVM.</foreign></figure>
 <lb/>
 <lb/>HOMI 
 <lb/>NES HAC LEGE 

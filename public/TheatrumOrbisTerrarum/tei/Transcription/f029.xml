@@ -1,7 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f029"/>
 <ab>
 <personalstmt> <!--I, Alex Wheeler, transcribed and encoded seq. 30 of this text--> </personalstmt>
-<fw type="pageNum" place="top">7</fw>
+<figure rend="middle-top"><fw type="pageNum" place="top">7</fw></figure>
+<lb/><figure rend="middle-top">NEVV SPAINE</figure>
 <lb/>--This Prouince was about the yeere <date when="1518">1518</date> forcibly subdued to the
 <lb/>Spanish gouernment, vnder the command and conduct of <persName ref="#corlez">Fer-
 <lb/>nando Corlez</persName>: who with the great slaughter of his owne people,
