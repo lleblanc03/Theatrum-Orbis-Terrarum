@@ -396,7 +396,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 
       </facsimile>
 
-      <text xml:id="transcription">
+      <text xml:id="FirstPass">
 <body><div>
 <!--
     <pb facs="#f000" />
@@ -1675,7 +1675,7 @@ t<lb />ions printed at Venice in Italian: but especially John Gonfaluo, who in t
   </div></body>
       </text>
 
-       <text xml:id="TEI Tagged Transcription">
+       <text xml:id="Transcription">
 <body><div>
 <!--
 <pb facs="#f000" />
@@ -1727,25 +1727,33 @@ t<lb />ions printed at Venice in Italian: but especially John Gonfaluo, who in t
 
 <pb facs="#f004" />
 <ab>
+<figure rend="middle-top">
 <lb />THEA
 <lb />TRVM
 <lb />ORBIS
 <lb />TERRA
 <lb />RVM
+</figure>
 </ab>
 <ab>
+<figure rend="left-top">
 <lb />ABRAHAMI ORTELI ANTVERP.
 <lb />GEOGRAPHI REGII.
+</figure>
 </ab>
 <ab>
+<figure rend="left-top">
 <lb />THE THEATRE OF THE WHOLE
 <lb />WORLD: SET FORTH BY THAT
-<lb />Excellent Geographer Abraham Ortelius.
+<lb /><hi rend="italic">Excellent Geographer Abraham Ortelius.</hi>
+</figure>
 </ab>
 <ab>
+<figure rend="left-top">
 <lb />LONDON,
 <lb />Printed by IOHN NORTON; Printer to the Kings most excellent Maiestie in 
 <lb />Hebrew, Greeke, and Latine. 1606.
+</figure>
 </ab>
 
 <pb facs="#f005" />

@@ -1,0 +1,1093 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription">
+<body><div>
+<!--
+<pb facs="#f000" />
+<personalstmt> <This my personal Statement </personalstmt>
+<ab>
+        <lb/><fw type="header" place="top">THEATRVM ORBIS TERRARVM</fw>
+        <lb/><hi rend="italic">THEA</hi>
+        <lb/><placeName ref="#antwerp">ORBIS TERRA</placeName>
+        <lb/><persName ref="#ortelius">Abraham Ortelius</persName>
+        <lb/><date when="1606">1606</date>
+        <lb/><foreign xml:lang="la">Braccas meas vescimini!</foreign>
+        <lb/><note type="historical"><!This edition was printed in><placeName ref="#london"><!London</placeName> <!during<persName ref="#james1"><!King James></persName><!’ reign.></note>
+        <lb/><unclear reason="faded" cert="low">Ortel...</unclear>
+        <lb/><supplied reason="lost" resp="#leblanc">Ortelius</supplied>
+        <lb/>
+            <choice>
+                <orig>IOHN</orig>
+                <reg>John</reg>
+            </choice>
+        <lb/>
+            <choice>
+                <orig><unclear>Orteli...</unclear></orig>
+                <reg><supplied reason="lost">Ortelius</supplied></reg>
+            </choice>
+        <lb/><hi rend="italic">The Theatre of the Whole World</hi>
+        <lb/><fw type="catch" place="bottom">WORLD</fw>
+        <lb/><fw type="pageNum" place="top">1</fw>
+        <lb/><figure type="ornament">
+                <head>Fleuron</head>
+                <figDesc>Decorative floral ornament</figDesc>
+            </figure>
+        <lb/><signature type="printed">LL</signature>
+</ab>
+<pb facs="#f001" />
+<ab>
+<lb />TEI Transcription for Seq.2
+</ab>
+
+<pb facs="#f002" />
+<ab>
+<lb />TEI Transcription for Seq.3
+</ab>
+
+<pb facs="#f003" />
+<ab>
+<lb />TEI Transcription for Seq.4
+</ab>
+-->
+
+<pb facs="#f004"/>
+<ab>
+<figure rend="middle-top">
+<lb/>THEA
+<lb/>TRVM
+<lb/>ORBIS
+<lb/>TERRA
+<lb/>RVM
+</figure>
+</ab>
+<ab>
+<figure rend="left-top">
+<lb/>ABRAHAMI ORTELI ANTVERP.
+<lb/>GEOGRAPHI REGII.
+</figure>
+</ab>
+<ab>
+<figure rend="left-top">
+<lb/>THE THEATRE OF THE WHOLE
+<lb/>WORLD: SET FORTH BY THAT
+<lb/><hi rend="italic">Excellent Geographer Abraham Ortelius.</hi>
+</figure>
+</ab>
+<ab>
+<figure rend="left-top">
+<lb/>LONDON,
+<lb/>Printed by IOHN NORTON; Printer to the Kings most excellent Maiestie in 
+<lb/>Hebrew, Greeke, and Latine. 1606.
+</figure>
+</ab>
+
+<pb facs="#f005"/>
+<ab>
+<lb/>The sway, by Sea &amp; Land, grat IAMES doth beare,
+<lb/>His Birth, His Bloud, These Kingdomes figure here:
+</ab>
+<ab>
+<lb/>But, were his seuerall vertues to be crown'd
+<lb/>A World, past thine, Ortelius, must be found.
+</ab>
+
+<pb facs="#f006"/>
+<ab>
+<lb/>ABRAHAMI ORTELII
+<lb/>QVEM VRBS VRBIVM ANTVERPIA EDITIT,
+<lb/>REX REGVM PHILLIPVS GEOGRAPHVM HABVIT,
+<lb/>MONVMENVM HIC VIDES.
+<lb/>BREVIS TERRA EVM CAPTIT
+<lb/>QVI IPSE ORBEM TERRARVM CEPIT,
+<lb/>QVI IPSE ORBEM TERRARVM CEPTIT,
+<lb/>STILO ET TABVLIS ILLVSTRAVIT:
+<lb/>SED MENTE CONTEMPSIT,
+<lb/>QVA CAELVM ET ALTA SVSPEXIT
+<lb/>CONSTANS ADVERSVM SPES AVT METVS.
+<lb/>AMICITIAE CVLTOR, CANDORE FIDE, OFFICIIS,
+<lb/>QVIETIS CVLTOR, SINE LITE, VXORE, PROLE.
+<lb/>VITAM HABVIT, QVALE ALIVS, VOTVM.
+<lb/>VT NVNC QVOQVE AETERNA EI QVIES SIT
+<lb/>VOTIS FAVE LECTOR.
+<lb/>OBIIT IIII.KAL. IVLII. ANNO CIƆ.XCIIX.
+<lb/>VIXIT ANN. LXXI. MENSS.II. DIES IIXX.
+<lb/>COLII EX SORORE NEPOTES B.M.POSS.
+</ab>
+<ab>
+<lb/>CONTEMNO ET ORNO MENTE, MANV
+</ab>
+
+<pb facs="#f007"/>
+<ab>
+<lb/>TO THE
+<lb/>MOST HIGH,
+<lb/>MOST MIGHT,
+<lb/>AND MOST HAPPY 
+<lb/>PRINCE, IAMES BY THE
+<lb/>GRACE OF GOD, KING
+<lb/>OF GREAT BRITAINE,
+<lb/>FRANCE AND IRE-
+<lb/>LAND, DEFEN-
+<lb/>DER OF THE FAITH, &amp;c.
+<lb/>IOHN NORTON
+<lb/>HIS MA-
+<lb/>IESTIES MOST 
+<lb/>HVMBLE AND
+<lb/>FAITHFVLL SER-
+<lb/>[V]ANT CONSECRATETH
+<lb/>THESE IMMORTALL LA-
+<lb/>BOVRS OF ABRAHAM
+<lb/>[OR]TELIVS, TRANS-
+<lb/>[L]ATED INTO
+<lb/>ENGLISH
+</ab>
+<ab>
+<lb/>[fleurons]
+</ab>
+
+<pb facs="#f008"/>
+<ab>
+    <lb/><!-- Following transcription is partial. TEI by KAB to see if adding attributes to persName tags will work, and to test centering text, etc. -->
+    <lb/><hi style="text-align: center;">THE LIFE OF
+        <lb/><persName>ABRAHAM ORTELL</persName>,
+        <lb/>COSMOGRAPHER TO <persName>PHILIP</persName> THE
+        <lb/>SECOND, LATE KING OF SPAINE,
+        <lb/>written first in Latine by <persName style="font-style: italic;">Francis Sweert</persName> of Antwerpe, his familiar
+        <lb/><hi style="font-style: italic;">and louing friend, and now translated into English by</hi>
+        <lb/><persName>W.B.</persName>, <hi style="font-style:italic;">as great a louer of his learning 
+        <lb/>and vertues</hi>.</hi>
+        
+        <lb/>THe stocke of the ORTELS flourished not long since, and liued in good state and credit at
+        <lb/><placeName>Ausburg</placeName> in <placeName>Bayern</placeName>, (<foreign xml:lang="la" style="font-style: italic;">Augustam vindelicorum</foreign>, the Latines called it.) From that family came
+        <lb/><persName>WILLIAM ORTELL</persName>, who about the yere of our Lord <date>1360</date> left his natiue country, and where he did many notable things worthily deseruing great commendation: among which 
+        <lb/>that is most memorable, that of his owne proper cost and charges he caused a goodly crosse
+        <lb/>of free stone to be set vp without the Emperours gate, in that place where the malefactours
+        <lb/>are vsusually woont to be executed and put to death. Beneath this crosse, at the base or foot
+        <lb/>of the same, stood Mary and Iohn, and beside them, a little farther off, hung the two theeues, the one vpon the 
+        <lb/>right hand and the other vpon the left, vpon thier seuerall gibbets. This <persName style="font-style: italic;">William</persName> died on the <date>seuenth day of Ia-
+        <lb/>nuary</date> in the yeere of our Lord God <date>1511</date>, and was buried in the cloisters of the Franciscane Friers in Antwerpe,
+        <lb/>leauing his sonne <persName>LEONARD ORTELL</persName> sole Exeutor, and heire, not only of his goods and substance, but also
+        <lb/>of his vertues and good qualities: for they report that he was a man so deuout and religious, that it was an hard 
+        <lb/>matter to finde him from his booke, serious meditation on heauly matters.
+        
+        <lb/>Transcription to be continued.
+</ab>
+
+<pb facs="#f009"/>
+<ab>
+<lb/>--TEI Transcription for Seq.10
+</ab>
+
+<pb facs="#f010"/>
+<ab>
+<personalstmt> <!--I, Iz Shields, worked on sequence 11, facsimile 10, of this text.--> </personalstmt>
+<lb/><fw type="header" place="top"><persName ref="#ortelius">Abraham Orte-</persName></fw>
+<lb/><fw type="header" place="top"><persName ref="#ortelius">lius</persName> Citizen of <placeName ref="#antwerp">Ant-</placeName></fw>
+<lb/><fw type="header" place="top"><placeName ref="#antwerp">-werpe</placeName>,and Geographer to Philip the</fw>
+<lb/><fw type="header" place="top">second, King of<placeName ref="#spaine"> Spaine</placeName>, to the cour-</fw>
+<lb/><fw type="header" place="top">teous Reader.</fw>
+<lb/>
+<lb/><hi rend="italic">Seeing, that as I thinke, there is no man, gentle Reader, but knoweth what, 
+<lb/>and how great profit the knowledge of Histories doth bring to those which are serious students
+<lb/>therein; I doe verily believe and perswade my selfe, that there is almost no man, be it that he
+<lb/>have made neuer so little an entrance into the same, and touched them neuer so lightly, that is
+<lb/>ignorant how necessary, for the understanding of them aright, the knowledge of </hi>Geogra-
+<lb/>phy<hi rend="italic"> is, which, in that respect therefore is of some, and not without just cause called The eye 
+<lb/>of history. For thou shalt meet with many things in the readings of Histories, (I will not say,
+<lb/>almost all) which, except thou have the knowledge of the countreys and places mentioned in
+<lb/>them, cannot onely not bee well conceived and understood, but also ost-times they are cleane
+<lb/>mistaken and otherwise understood then they ought to bee: which thing commeth to pass in many discourses: but especially
+<lb/>in the expeditions and voyages of great Kings, Captaines and Emperours: in the divers and sundry shirftings of Nations
+<lb/>from one place to another: and in the traveils and peregrinations of famous men, made into sundry countreys. But seeing
+<lb/>that this is a matter which even experience it selfe doeth teach us to be true, there is no reason why I should stand up
+<lb/>on the proofe of the same. This so necessary knowledge of </hi>Geography<hi rend="italic">, as many worthy and learned men have testified,
+<lb/>may very easily be learn'd out of </hi>Geographical charts<hi rend="italic"> or Mappes. And when we have acquainted our selves somewhat
+<lb/>with the use of these </hi>Tables<hi rend="italic"> or Mappes, or have attained thereby to some reasonable knowledge of </hi>Geography<hi rend="italic">
+<lb/>we shall read, these </hi>charts<hi rend="italic"> being placed, as it were certaine glasses before our eye, will the longer be kept in memory, and
+<lb/>make the deeper impression in us: by which means it commeth to pass, that now we do seeme to perceive some fruit of that
+<lb/>which we have read. I omit here, that the reading of </hi>Histories<hi rend="italic"> does both seem to be much more pleasant, and in deed so
+<lb/>it is, when the Mappe being layed before our eyes, we may behold things done, or places where they were done, as if they were
+<lb/>at this time present and in doing. For how much we are holpen, when as in the Holy Scripture, we read of the journey of the
+<lb/> <note type="historical"><!--members of the anchient Hebrew nation.-->Israelites</note>, which they made from </hi><placename ref="#egypt">Egypt</placename><hi rend="italic">, through the Red sea, and that same huge Wildernesse, into the land of promise,
+<lb/>when as looking upon the Mappe of </hi><placename ref="#palestina">Palestina</placename><hi rend="italic">, we doe almost aswell see it as if we were there, I think any student in Divini-
+<lb/>tie, or that History hath st made trial. Which things being so, how much those which are students and lovers of </hi>Histories<hi rend="italic">
+<lb/>are cornbred, hindred and stayd, yea, &amp; many times, even while they are in their race and continued course, drawne backe, it is
+<lb/>an easie matter to conceive, when either the description of all countreys cannot be gotten, or if they may be gotten, they are dea-
+<lb/>rer then that every mans money will reach and attaine unto especially those that are but poore, or none of the wealthiest.
+<lb/>For there are many that are much delighted with </hi>Geography<hi rend="italic"> or </hi>Chorography<hi rend="italic">, and especially with Mappes or Tables con-
+<lb/>tayning the plots and descriptions of Countreys, such as there are many now adayes extant and every where to be sold: Be
+<lb/>because that either they have not that, that should buy them; or if they have so much as they are worth, yet they will not lay it
+<lb/>out, they neglect them, neither do they any way satisfie themselves. Others there are who when they have that which will buy
+<lb/>them, would very willingly lay out the money, were it not that by reason of the narrownesse of the rooms and places, broad
+<lb/>and large Mappes cannot be opened or spread, that every thing in them may easily and well be seene and discern'd. For, that
+<lb/>I may speake that which is the trueth, those great and large </hi>Geographical<hi rend="italic"> Maps or Charts, which are folded or rowl'd up,
+<lb/>are not so commodious; not when any thing is peraduenture read in them, so easie to be look'd upon. And be that will in or-
+<lb/>der hang them all along upon a wall, had need have not only a very large &amp; wide house, but even a Princess gallery or spacious
+<lb/>Theatre. This I having of unmade trial of, I began to bethinke my selfe, what means might be found to redresse these discom-
+<lb/>modities, which I have spoken of, and either to make them somewhat lesse, or, if possibly might bee, to take them all cleane
+<lb/>away. And at length me thought it might be done by that means which we have obscured and set downe in this our booke, to
+<lb/>which I earnestly with that every student would afford a place in his Library, amongst the rest of his books.
+<lb/>	But that thou mayest the better understand, what it is that we have done in this our Theater, and what it is that thou
+<lb/>must expect and looke for in the same; I thinke it not amisse in few words briefly here to declare unto the. First
+<lb/>												     		my</hi>
+</ab>
+
+<pb facs="#f011"/>
+<ab>
+<lb/>my purpose was to represent unto thy view whatsoeuer heretofore thou had'st, or now hast, in any Geographical or Choro-
+<lb/>graphical Chartes here and there lately or long since set out that euer csame to my hands, or were possibly to bee gotten for
+<lb/>loue or money. Of all country's whose descriptions are set out in out in Geographicall Tables, we have selected one (for of some
+<lb/>there are diuers) which in our indgement seemed to bee the best and most exact: Which, notwithstanding that it were, by
+<lb/>the first draught of the <persName>Authour</persName> somewhat large and broad, we haue brought into that small forme, as might agree with this
+<lb/>our worke, and that the whole <placeName>Mappe</placeName> might be contein'd in one leafe: or, which sometime thou shalt obserue we haue done,
+<lb/>as thou may'st see, that in one leafe many might bee contein'd and expressed: yet so as nothing, no neuer so small a thing, is
+<lb/>either omitted or altered that was to bee found in the greater: except it be this, which oftentimes thou shalt finde, that the
+<lb/>names of places and other things, which in the first Copies could hardly be read,in these our Mappes we haue so expressed, that
+<lb/>they may perfectly be read of any man. And sometime, where occasion did serue,or need require,and the place would permit,
+<lb/>unto the modern and usuall names of certaine places, wee haue added the ancient names mentioned by old writers, but now
+<lb/>uulgary unknowne. Which, as we doubt not, we haue done with the good leaue and liking of the <persName>Authours</persName> themselues:
+<lb/>so I hope it will be a thing very well pleasing to all such as are readers and students of old Histories and Antiquities. In those
+<lb/>Mappes, which haue their Authours names written upon them, we haue, as I laid, altered nothing at all, excepting two or
+<lb/>three of the Marine tracts of the Low-countreys, which the see hath changed since the time that their descriptions
+<lb/>were first set foorth: As for examples sake,in Flaunders,ouer against <placeName>Zeland</placeName>,not farre from the towne Wateruliet, where
+<lb/>by the goodnesse and great benefit of <persName>Almighty God</persName>, long after that the description of this Countrey was first set out , 
+<lb/>the Maine-land was much enlarged and had gotten an advantage of the Sea: wee there haue altered the forme of that Mappe,
+<lb/>according as the place is found to be at this day. The description of which plot ground we obteined of Master Marke Lau-
+<lb/>rine,the Lord and owner, thereof, a braue gentleman, greatlt renowmedboth for the noble stocke from whence hee is descen-
+<lb/>ded, as also for his wisdome and great experience. Eut in other Mappes, which had no name of the <persName>Authour</persName> subscribed
+<lb/>unto them,we were somewhat more bold : for in these, in some places, at our discretion, where we thought good,wee haue al-
+<lb/>tered some-things, some-things we haue put out, and otherwhere, if it seemed to be necessary,we haue put in. Of some Coun-
+<lb/>treys also,that we might,as much as in us did lye,make up our iust number and fill up our ranke, be haue made some Mappes
+<lb/>of our owne, that there might as few Mappes be wanting, as possibly might be. In the abridgement and bringing of those
+<lb/>Mappes,which had as i said the names of the <persName>Authours</persName> added unto them,into a letter frome, we haue used that faithfulnesse
+<lb/>and diligence, that we hope to deserue thankes not onely of the Reader, but also euen of the Authours themselues, or at least
+<lb/>we haue dealt so in them , that no man need be asham'd of these of ours whatsoeuer they be; yea he may aswell acknowledge
+<lb/>and take this little one of ours,for his owne , as that first set out by himselfe. For wee have endeuoured to the
+<lb/>uttermost of our power in this our worke, if it were possible, to deserue thankes of the <persName>Authours</persName>, if not, uet by no meanes to
+<lb/>displease them: Not to follow or imitate that bad custome of some men in these our dayes, who, that they mat seeme to the
+<lb/>world to set fouurth some new thing, does nothing els but alter the workes and labours of other men, and ostentimes, out of those
+<lb/>which are good, to select that which is not good, and to sell it commonly for the best: Sometimes by adding something at their
+<lb/>pleasure, and in some places againe taking out and detracting something, and witball either by concealing the right <persName>Authors</persName>
+<lb/>names, or setting to their owne, or seyning a name of some one or other, they thinke to please the vulgar sort with nouelties,
+<lb/>that that their worke may sell the better; and they may rake money together they care not how: For we were not mooued to
+<lb/>undertake this labour by any couetous desire of getting much by it, but even of a willing and forward minde that wee had to
+<lb/>helpe and further those that had a love and affection to these studies, not any whit respecting the gayning of any vaine glory
+<lb/>and commendation by other mens labours. For what need we to make new Mappes, when as the old Mappes of other men,
+<lb/>now extant, would serue our turne? Some there are peraduenture, which will looke to finde in this our Theater more de-
+<lb/>scriptions of particular Countreys, (for every man naturally, for the love that he beareth to his native soil, would, I doubt
+<lb/>not, with that it were here seuerally described amongst the rest but let them know, that those which are here missing, are
+<lb/>not left out and omitted, either by our negligence, or for that we were lothe to be at that cost and charges: but because that ei-
+<lb/>ther we never saw any such, or at leastwayes for that there never came any such to our hands. If there be any man, which
+<lb/>either hath any such, or knoweth where there may be had, him we would earnestly entreate, that be would be the meanes to
+<lb/>helpe us unto them, assuredly promising him, that we will, at our owne coft and charges, not without great thankes to him,
+<lb/>and a most honourable mention of his name, cause them to be cut and imprinted apart and by themselves, that hereafter they
+<lb/>may be inserted into this our Booke, either in their owne place, elsewhere, as any man shall like best.
+<lb/>	
+<lb/>Of the Order also by us here obserued in the place of these our Mappes, I thinke it not amisse, gentle Reader, to speake a
+<lb/>word or two, and to acquaint thee with our purpose: that if peraduenture there be any man, which doeth thinke, that
+<lb/>can be looked for at our hands. First of all, we present unto thy view an Vniuersall Mappe of the whole world: Then,
+<lb/>the foure quarters of principall parts of the same; to wit, <placeName>Europe</placeName>, <placeName>Asia</placeName>, <placeName>Africa</placeName>, and <placeName>America</placeName>: in this following dame Na-
+<lb/>ture, in which alwayes before the parts can be, the whole, whereof they be the parts, must of necesitie first be. Next after
+<lb/>these we have put the seuerall and particular Countreys of these parts, beginning at the West part of the world, in this fol-
+<lb/>lowing Ptolemey the Prince of Geographers, and almost all others that have written of this argument: And so the Pro-
+<lb/>vinces and particular countreys of <placeName>America</placeName> do first put foorth and shew themselves: next to these do follow the Brittifh
+<lb/>Iles, after them Spaine, and then France. From hence we passe to Germany: whole Countreys being after our maner dili-
+<lb/>gently surueyed, from <placeName>Heluetia</placeName> or <placeName>Switzerland</placeName> we passed over the Mountaines into <placeName>Italy</placeName>, whiches the next countrey unto
+<lb/>it Eastward, purposing also to view all the Provinces thereof seuerally. From thence we croped the Sea Sayl'd into
+<lb/>Greece. Whereupon going into <placeName>Slauonia</placeName>, we surueyed all the Countreys seuerally which do vulgarly speake the Slaunian
+<lb/><figure rend="right"> tongue, </figure>
+</ab>
+
+<pb facs="#f012"/>
+<ab>
+<personalstmt><!--Transcribed and encoded Seq. 13/f012 - Valerie Hernandez FSU 28'--></personalstmt>
+<lb/> tongue, ( to wit, <placeName ref="#hungary">Hungary</placeName>, <placeName ref="#transsyluania">Transsyluania</placeName>,<placeName ref="#polonia"> Polonia</placeName>, <placeName ref="#scandia">Scandia</placeName>, and <placeName ref="#rusia">Rusia</placeName>.) Thus hausing finished <placeName ref="#europe">Europe</placeName>, we come vn-
+<lb/>to the <placeName ref="#isthmus">Isthmus</placeName> or <placeName ref="#straight-land">Straight-land</placeName>, which is betweene the head of the <placeName ref="#river-tanais">River Tanais</placeName> and the <placeName ref="#north-sea">North sea</placeName>, which is in deed the
+<lb/>bound of <placeName ref="#europe">Europe</placeName> and <placeName ref="#asia">Asia</placeName> : from it we step into <placeName ref="#asia">Asia</placeName>. Which, after we have a while beheld, we left, and so passed into <placeName ref="#africa">Afri-
+<lb/>ca</placeName>, by the <placeName ref="#streights">Streights</placeName>, or narrow piece of the <placeName ref="#mainland">Mainland</placeName>, which runneth between the <placeName ref="#bay-of-arabia">Bay of Arabia</placeName>, and the <placeName ref="#gulfe-of-damiata">gulfe of Damiata</placeName>,
+<lb/>(Sirbonus Lacus) made by the ouerflowing of the <placeName ref="#midland-sea">Midland-sea</placeName>. From thence passing through <placeName ref="#egypt">Egypt</placeName> and <placeName ref="#barbary">Barbary</placeName> wee
+<lb/>came vnto the <placeName ref="#streights-of-gibraltar">Streights of Gibraltar</placeName>, which we crossed, and at the length came home againe to our owne natiue countrey from
+<lb/>whence we first set foote; like vnto a trauailer or a Pilgrime, which hath viewed and trauailed through many and sundry
+<lb/>seuerall Nations and Countreys, pasing out of one into another, orderly as they lay and we situate one by another, ouer-
+<lb/>skipping none, at last returneth lasely and ioyfully from whence he first set foorth.
+<lb/> Thus farre of the Mappes themselues: Now let vs speake a word or two of the backside of the same. Because we thought
+<lb/>it would be a thing nothing pleasing to the Reader or Beholder, to see the backsides of the leaues altogether bare and empty;
+<lb/>we determined there to make a certaine briefe and short declaration and Historical discourse of euery Mappe, in the same
+<lb/>manner and order as we said we obserued in the Mappes themselues; omitting nor concealing any mans name, that we had oc-
+<lb/>casion to vse. Moreouer to these also we have added a Table of the names of all the Authors, that euer wee knew or had;
+<lb/>out of which, those that are so disposed, may fetch a more ample and larger <unclear reason="faded">discowse</unclear> and description of the seurall Countreys
+<lb/>handled by them.  Wherefore the students of Geography shall haue here, in the Authours thus named in order, and in the 
+<lb/>Catalogue of the Authours of the Geographicall Tables or Mappes, which we have set before this our worke, and lastly in 
+<lb/>these Tables themselues, a certaine shoppe, as it were, furnished with all kinde of instruments necessarily required in such 
+<lb/>like business : out of which, if peraduenture there may seeme any thing wanting, in his iudgement , either to be finishing of 
+<lb/>any Booke of that argument, or more fuller descriptions of any Countreys whatsoeuer, very easily, or in deed without any la-
+<lb/>bour at all be may see, from whence it may be and by be fetched.
+<lb/>	These things they are which I thought good to admonish the Reader of. It remaineth now, that wee doe entreate every 
+<lb/>man, to take this our labour and entertaine it, with no other minde then it was by vs both begunne and finished, at the length 
+<lb/>set out and Imprinted. Farewell, and wish well to<persName ref="#francis-hogenberg">Francis Hogenberg</persName>, <persName ref="#ferdinand">Ferdinand</persName>, and <persName ref="#ambrofe-arfen">Ambrofe Arfen</persName>, by whose skil-
+<lb/>full bands and extraordinary great paines and diligence almost all these Mappes were engrauen and cut.
+<lb/>	From <placeName ref="#antwerp">Antwerp</placeName>, this present yeere <date when="1570">1570</date>.
+<lb/>
+<lb/>
+<lb/>			THE
+</ab>
+
+<pb facs="#f013"/>
+<ab>
+<lb/>--TEI Transcription for Seq.14
+</ab>
+
+<pb facs="#f014"/>
+<ab>
+<lb/>--TEI Transcription for Seq.15
+</ab>
+
+<pb facs="#f015"/>
+<ab>
+<lb/>--TEI Transcription for Seq.16
+</ab>
+
+
+<pb facs="#f016"/>
+<ab>
+<lb/><personalstmt><!--I, Meghan Spargo, transcribed and tagged Seq.17 of this text.--> </personalstmt>
+<lb/><p rend="middle-top">A DESCRIPTION OF THE </p>
+<lb/><p rend="middle-top">WHOLE WORLD.</p>
+<lb/> 
+<lb/>THIS Map next ensuing containeth and representeth the portraiture of the whole earth,
+<lb/>and of the maine Ocean that enuirons &amp; compasseth the same: all which earthly Globe
+<lb/>the Ancients (who were not as then acquainted with the New world, not long since de-
+<lb/>scried) diuided into three parts; namely, <hi rend="italic"><placeName ref="#africa">Africa</placeName></hi>, <hi rend="italic"><placeName ref="#europe">Europe</placeName></hi>, and <hi rend="italic"><placeName ref="#asia">Asia</placeName></hi>. But since that discouery
+<lb/>of <hi rend="italic"><placeName ref="#america">America</placeName></hi>, the learned of our age haue made that a fourth part, and the huge Continent
+<lb/>vnder the <placeName ref="#southpole">South pole</placeName>, a fifth, <hi rend="italic"><persName>Gerardus Mercator</persName></hi> the Prince of modern Geographers in his
+<lb/>neuer-sufficiently-commended vniuersall Table or Map of the whole world, diuides this
+<lb/>Circumference of the earth into three Continents: the first he calles that, which the Anci-
+<lb/>ents diuided into three parts, and from whence the holy Writ beares record, that mankind had their first origi-
+<lb/>nall, &amp; first was seated: the second, is that which at this present is named <hi rend="italic"><placeName ref="#america">America</placeName></hi> or the <hi rend="italic"><placeName ref="#westindies">VVest Indies</placeName></hi>: for the third,
+<lb/>he appoints the <placeName ref="#southmaine">South maine</placeName>, which some call <hi rend="italic"><placeName ref="#magellanica">Magellanica</placeName></hi>, as yet on very few coasts thorowly discouered. That
+<lb/>this orbe or masse of the earthly Globe contains in circuit, where it is largest, 5400 German or 21600 Italian
+<lb/>miles, antiquity hath taught, &amp; late Writers haue subscribed to their opinion. <hi rend="italic">And these so manifold portions of earth</hi>
+<lb/>(sayth <hi rend="italic"><persName>Plinie</persName></hi> in the 11. booke of his Naturall historie) <hi rend="italic">yea rather, as some haue termed them, the pricke or center of the world
+<lb/>(for so small is the earth in comparison of the whole frame of the world) this is the matter, this is the seat of our glorie. Here we enioy
+<lb/>honours, here we exercise authoritie, here we hunt after riches, here men turmoile and tire themselues, here we moue and maintaine ciuill
+<lb/>dissensions, and by mutuall slaughter make more roome vpon the earth. And to let passe the publike tumults of the world, this in which
+<lb/>we force the borderers to giue place and remoue farther off, and where we incroch by stelth vpon our neighbors lands: as he that extends
+<lb/>his lands &amp; lordships farthest, and cannot abide that any should seat themselues too neere his nose, How great, or rather how small a por-
+<lb/>tion of earth doth he enioy? Or when he hath glutted his auarice to the full, How little shall his dead carcase possesse?</hi> Thus far <hi rend="italic"><persName>Plinie</persName>.</hi>
+<lb/>
+<lb/>The situation of this earth and sea, the disposition of the seuerall regions, with their inlets and gulfs, the maners and inclinations of the people, and other memorable and note-worthy matters are described by men of ancienter times, such as follow:
+<lb/>
+<lb/><p rend="left-bottom"><persName>PTOLEMEY</persName> <placeName ref="#alexandria">ALEXANDRIA.</placeName>
+<lb/><persName>CAIVS PLINIVS</persName> 2, 3, 4, 5, and 6 books of his Natural history.
+<lb/><persName ref="#aristotele">ARISTOTELES</persName><foreign xml:lang="la">DE MVNDO</foreign> written and dedicated to <hi rend="italic"><persName>Alexander the Great</persName></hi>.
+<lb/><persName>STRABO</persName> in 17. books.
+<lb/><persName>SOLINVS POLYHISTO<supplied reason="unclear">R</supplied></persName>.
+<lb/><persName>POMPONIVS MELA</persName>.
+<lb/><persName>DIONYSIVS APHER</persName> and his Expositor.
+<lb/><persName>EVSTATHIVS</persName>.
+<lb/><persName>APVLEIVS</persName> in his booke of the World.
+<lb/><persName>DIODORVS SICVLVS</persName> in his fiue former books.
+<lb/><persName>MARTIANVS CAPELLA</persName>.
+<lb/><persName>PAVLVS OROSIVS</persName> in the beginning of his History.
+<lb/><persName>AETHICVS</persName> and another of that name surnamed <persName>SOPHISTA</persName>, not
+	<lb/>yet printed.
+<lb/><persName>IVLIVS</persName> the Oratour called by <hi rend="italic"><persName>Cassiodore</persName></hi>, PRIMVS.
+<lb/><persName>BEROSVS</persName> described the antiquitie of the World.
+<lb/><persName>ANTONIVS AVGVSTVS</persName> (if the title be true) set downe the
+	<lb/>Iournals of the Romane empire.
+<lb/><persName>SEXTVS AVIENVS</persName>, the sea coasts.
+<lb/><persName>STEPHANVS</persName>, the cities.
+<lb/><persName>VIKIVS SEQVESTER</persName>, in an Alphabeticall order, the Riuers,
+	<lb/>Fountaines, Lakes, Woods, Hilles, and Nations thereof.
+<lb/>
+<lb/><hi style="text-align: center">By new Writers, as</hi>
+<lb/>
+<lb/><persName>RAPHAEL VOLATERANVS</persName>.
+<lb/><persName>ABILFEDEA ISHMAEL</persName>, in the Arabian tongue.
+<lb/><persName>IOANNES HONTERVS</persName>; and <persName>HIERONYMVS OLIVERIV<supplied reason="illegible">S</supplied></persName>:
+	<lb/>both in verse.
+<lb/><persName>BARTHOLIMVS</persName> in the eighth booke of <hi rend="italic"><placeName ref="#austria">Austria</placeName></hi>.
+<lb/><persName>SEBASTIAN MVNSTER</persName>, that learned Diuine, diligent Histori-
+	<lb/>an, painfull Hebrician and Linguist, well studied in all maner
+	<lb/>of learning, and vnto whom the learned Student is so much
+	<lb/>beholding.
+<lb/><persName>ANTONIVS</persName> the Archbishop of <hi rend="italic"><placeName ref="#florence">Florence</placeName></hi>, in his Historie, in the
+	<lb/>third chapter of the first Title.
+<lb/><persName>DOMINICVS NIGER</persName>.
+<lb/><persName>IOHN AVENTINE</persName> in his second booke of his Annals.
+<lb/><persName>IOHN CAMERS</persName> in his Commentaries vpon <hi rend="italic"><persName>Solinus</persName></hi>.
+<lb/><persName>GEORGE RYTHAIMER.</persName>
+<lb/><persName>IOACHIM VADIAN</persName>.
+<lb/><persName>PETRVS IOANNES OLIVARIVS</persName> vpon <hi rend="italic"><persName>Mela</persName></hi>.
+<lb/><persName>LAVRENTIVS CORVINVS NOVOF</persName>.
+<lb/><persName>ANTONIVS VERONENSIS.</persName></p>
+<lb/>
+<lb/><p rend="right-bottom"><persName>GVALTERVS LVDOVICVS</persName>, in his Mirrour of Looking-glasse
+	<lb/>of the World.
+<lb/><persName>S. ISIDORE of <placeName>SIVILL</placeName></persName> in <hi rend="italic"><placeName ref="#spaine">Spaine</placeName></hi>.
+<lb/><persName>MICHAEL</persName> of <placeName>VILLANOVA</placeName>, in his Commentary vpon <hi rend="italic">Ptolemey</hi>.
+<lb/><persName>ZACHARIAS LILIVS VICENT</persName>.
+<lb/>HIERONYMVS GIRAVA in the Spanish tongue.
+<lb/><persName>ALEXANDER CITOLINVS</persName>, in his <hi rend="italic">Typocosmia</hi> or Patern of the
+	<lb/>World written in the Italian tongue.
+<lb/><persName>VINCENTIVS BELVACENSIS</persName> in the Mirrour of Histories the
+	<lb/>second booke
+<lb/><persName>GVILIELMVS POSTELLVS <hi rend="italic">Barentonius</hi></persName>.
+<lb/><persName>Sr. IOHN MANDEVILL</persName> and his companion of his trauels.
+<lb/><persName>ODERICVS</persName> of <placeName>FRIVLY</placeName>.
+<lb/><persName>MICHAEL NEANDER</persName> of <hi rend="italic"><placeName>Soraw</placeName></hi>.
+<lb/><persName>GAVDENTIVS MERVLA</persName> in his 5. booke of memorable things.
+<lb/><persName>FRANCISCVS MONACHI</persName>, in his Epistle to the <persName>Archbishop of
+	<lb/><hi rend="italic"><placeName ref="#panormus">Panormus</placeName></hi></persName>.
+<lb/><persName>ANDREAS THEVETVS</persName>, <persName>FRANCISVS BELLEFORESTIVS</persName>,
+	<lb/>and <persName>PETRVS HEYNSIVS</persName>, in French: but this latter also in
+	<lb/>Dutch rythmes of verse.
+<lb/><persName>LAVRENTIVS ANANIENSIS</persName>, in the Italian tongue.
+<lb/><persName>ANTONIVS PINETVS</persName>, in French: and he hath withal set
+	<lb/>forth many Tables and Mappes (as the title sheweth) of Coun-
+	<lb/>tries, Cities and Townes, aswell of <hi rend="italic"><placeName ref="#europe">Europe</placeName></hi>, as of <hi rend="italic"><placeName ref="#africa">Afrike</placeName></hi>, <hi rend="italic"><placeName ref="#asia">Asia</placeName></hi>
+    <lb/>and <hi rend="italic"><placeName ref="#america">America</placeName></hi>.
+<lb/><persName>IVLIVS BALLINVS</persName>, hath put forth the Plots and drafts of the
+    <lb/>most famous Cities of the whole world, with a briefe historical
+	<lb/>discourse, written in the Tuscane tongue. The same is done by
+<lb/><persName>GEORGIVS BRVNO</persName>, in Latine, but much more beautifully and
+	<lb/>curiously.
+<lb/><persName>BENEDICTVS BORDONIVS</persName>, hath described all the Ilands of
+	<lb/>the World. So also hath
+<lb/><persName>THOMAS PORCACCIVS</persName>: both in the Italian tongue.
+<lb/><persName>WOLFGANGVS LASIVS</persName>, and
+<lb/><persName>IOANNES GOROPIVS BECANVS</persName>, the originall and shifting
+	<lb/>of the nations of the same.
+<lb/><persName>PETRVS APPIANVS</persName>, and
+<lb/><persName>BARTHOLOMAEVS AMANTIVS</persName>, haue gathered the ancient In-
+	<lb/>scriptions: and so hath
+<lb/><persName>MARTINVS SMETIVS</persName>, but with greater diligence and care than
+	<lb/>ordinary.
+<lb/><persName>IOANNES BOHEMVS</persName>, and <persName>ALEXANDER SARDVS</persName> haue writ-
+	<lb/>ten of the maners, rites and customes of all nations and people
+	<lb/>of it. The same hath
+<lb/><persName>FRANCISCVS BFLLEFORESTIVS</persName> done in the French tongue.</p>
+</ab>
+
+<pb facs="#f017"/>
+<ab>
+<lb/> <personalstmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></personalstmt>
+<lb/> <foreign xml:lang="la">TYPVS ORBIS TERRAVM.</foreign>
+<lb/>
+<lb/>HOMI 
+<lb/>NES HAC LEGE 
+<lb/>SVNT GENERATI, 
+<lb/>QVI TVERENTVR
+<lb/>ILLVM GLOBVM,
+<lb/>QVEM IN HOC TEM 
+<lb/>PLO MEDIVM VI
+<lb/>DES, QVAE TER 
+<lb/>RA DICITVR. 
+<lb/><hi rend="italic"><persName>Cicero</persName>.</hi>
+<lb/>
+<lb/>EQVS 
+<lb/>VEHENDI 
+<lb/>CAVSA, ARANDI 
+<lb/>BOS, VENAN'DI
+<lb/>ET CVSTODIENDI 
+<lb/>CANIS, HOMO AV 
+<lb/>TEM ORTVS AD 
+<lb/>MVNDVM CON 
+<lb/>TEMPLANDVM. 
+<lb/><hi rend="italic"><persName>Cicero</persName>.</hi>
+<lb/>
+<lb/>HOC 
+<lb/>EST PVNCTVM, 
+<lb/>QVOD INTER TOT. 
+<lb/>GENTES FERRO 
+<lb/>ET IGNI DIVIDI 
+<lb/>TVR,O QVAM RIDI 
+<lb/>CVLI SVNT MOR 
+<lb/>TALIVM TER
+<lb/>MINI?
+<lb/><hi rend="italic"><persName>Seneca</persName>.</hi>
+<lb/>
+<lb/>QVID EI POTEST VIDERI MAGNV <note type="editorial"><!--There is a rip in the page here--></note> IN REBVS HVMANIS, CVI AETER
+<lb/>NITAS OMNIS, TOTIVSQVE MVNDI <note type="editorial"><!--There is a rip in the page here--></note> NOTA SIT MAGNITVDO. <persName>CICERO</persName>
+<lb/>
+<lb/>VTINAM
+<lb/>QVEMADMO 
+<lb/>DVM VNIVERSA 
+<lb/>MVNDI FACIES 
+<lb/>IN CONSPECTVM 
+<lb/>VENIT, ITA PHI 
+<lb/>LOSOPHIA TOTA 
+<lb/>NOBIS POSSET 
+<lb/>OCCVRRERE. 
+<lb/><hi rend="italic"><persName>Seneca</persName>.</hi>
+</ab>
+
+<pb facs="#f018"/>
+<ab>
+<lb/><personalstmt><!--We, Audrey Gauthier and Haley Jensen, transcribed and encoded seq 19 of this text at Framingham State University.--></personalstmt>
+<lb/> <title><placeName>Evrope</placeName></title>
+<lb/><p>In the diuision of the world, diuers haue placed <placeName>Africa</placeName> in the third part : some few haue made no more but <placeName>Asia</placeName> and <placeName>Europe</placeName> only ; and <placeName>Africa</placeName> they make a part of <placeName>Europe</placeName>, saith <persName>Salustius</persName>. This is that which <persName>S. Paulinus</persName> in <placeName>Aulonius</placeName>, out o
+<lb/> the opinion of the same Saluit, thus writeth of : <foreign xml:lang="la">Europam Afiamque duo vel maxima terrae Membra, quibus Lybiam
+<lb/>dubie Sallustius addit, Europæ admixtram : poffit quum tertia dici</foreign> : <placeName>Europe</placeName> and <placeName>Asia</placeName> vast, the Earthly globe between 
+<lb/>them share. Yet whether <placeName>Africke</placeName> should a part of this our <placeName>Europe</placeName> be ; or make a third part by it selfe, Saluit doth doubt 
+<lb/>I see. But <persName>Philostratus</persName> also in <persName>Isocrates</persName> doth diuide the world into <placeName>Asia</placeName> and <placeName>Europe</placeName> : yea <persName>Isocrates</persName> himself, in his Pane-
+<lb/>gyricos. Moreouer in <persName>Varroes</persName> booke <foreign xml:lang="la">De lingua Latina</foreign> these words are read ; As all the world is diuided into <placeName>Heaven</placeName>
+<lb/>and <placeName>Earth</placeName> : so <placeName>Heaven</placeName> is seuered into his quarters : and the <placeName>Earth</placeName> into <placeName>Asia</placeName> and <placeName>Europe</placeName>. Againe the same author in his 
+<lb/>booke of Husbandrie writeth thus : first, when as the world, by <persName>Eratosthenes</persName>, was very fully and naturally divided into 
+<lb/>two parts, the one toward the South, <placeName>Asia</placeName> doubtlesse he meaneth the other in the north <placeName>Europe</placeName> we call it. <persName>S. Augu-
+<lb/>stine</persName> in his 16. booke <foreign xml:lang="la">De Ciuitate Dei</foreign> : <persName>Lucane</persName> in his 9. booke: and <persName>Orosius</persName> in the first booke of his history, haue the like
+<lb/>wordes to the same sense. Notwithstanding custome since hath preuailed with all historiographers and cosmographers which haue written either in Latine 
+<lb/>or Greeke, ioinly to diuide the globe of the earth into these three parts: <placeName>Asia</placeName>, <placeName>Africke</placeName> and <placeName>Europe</placeName>: the last of which we have taken vpon vs to describe in 
+<lb/>this place, not only in forme of a mappe or chart, like a Geographer: but in this present discourse, like an historian. Concerning the forme of it therefore, it 
+<lb/>is manifold, as <persName>Strabo</persName> writeth. It is a Peninsula or demy-isle, and not an island; although <persName>Silenus</persName>, as <persName>Elianus</persName> writeth, did sometime to <persName>Midas</persName> so relate of
+<lb/>it. For it is on all sides, as you may see in the mappe, bounded and beaten with the salt sea, but only upon the East, where it is by a small necke ioined to the 
+<lb/>greater <placeName>Asia</placeName>. Yet by what limits they are there distinguished, the ancient and the later writers do not altogether agree. For those which are more ancient 
+<lb/>as <persName>Aristotle</persName>, <persName>Plato</persName>, <persName>Herodotus</persName>, and others which do follow their opinion, do diuide <placeName>Europe</placeName> from <placeName>Asia</placeName>, by the riuer <placeName>Phasis</placeName>, (a riuer of Colchis falling 
+<lb/>into the <placeName>Euxine sea</placeName>, <placeName>Mar Maiore</placeName>, or <foreign xml:lang="la">Maurothalassa</foreign>, as the greeks call it) neere <placeName>Trapezonda</placeName> : some mappes do now call that riuer <placeName>Fasso</placeName>, others <placeName>Phaz-
+<lb/>zeth</placeName>: the Scythians, (as <persName>Theuet</persName> reporteth, Debbaffethca) or which is all one, by that ithmos or neckland which is between the forefaid <placeName>Mar Maiore</placeName> or 
+<lb/><placeName>Pontus Euxinus</placeName>, and the <placeName>Caspian sea</placeName> (<placeName>Mar de Cachu</placeName>, the ancient called it <placeName>Mare Hyrcanum</placeName>, the <placeName>Hyrcanie sea</placeName>) which formerly all old writers thought to 
+<lb/>be but a bay or gulfe of the Scythian or Northren ocean, as <persName>Strabo</persName>, <persName>Pliny</persName>, <persName>Mela</persName>, <persName type="fictional">Dionysius</persName>, <persName>Plutarch</persName> (in the life of <persName>Alexander</persName> and in his discourse of the 
+<lb/>face in the sphere of the Moone) and <persName>Iornandes</persName> a more late writer, have first recorded. Yet all of them were deceiued. Only <persName>Herodotus</persName> truly (as this 
+<lb/>our latter age doth approve and find to be so) doth affirme this to be a sea of it selfe, and to have neither in-let nor out-let, or to be intermeddled with any other 
+<lb/>sea. <persName type="fictional">Dionysius</persName>, <persName>Arrianus</persName>, <persName>Diodorus</persName>, <persName>Polybius</persName>, <persName>Iornandes</persName> and <persName>Ptolemey</persName> have diuided it from <placeName>Asia</placeName> by the riuer <placeName>Tanais</placeName> (<placeName>Don</placeName> or <placeName>Tana</placeName>, as now the 
+<lb/>Italians name it) who think that both the rise of this riuer, and the land Northward from where it commeth, are both unknown and uncertaine. All 
+<lb/>doubt where to place and lay their bounds : as indeed who never perfectly knew those places toward the East and North, not being then discovered, but only 
+<lb/>described by them, from the fabulous reports of others: as for example, the <placeName>Riphæan</placeName> and <placeName>Hyperboræan</placeName> mountaines, which are fained inventions of the 
+<lb/>Greekes, as <persName>Strabo</persName> writeth: together with Aluani montes, heere described by <persName>Ptolemey</persName>, where not only these mountaines, but also no other at this 
+<lb/>day, are to be seene: but in their places diuers huge and vast woods, great fennes and bogges, or large champion plaines. <persName>Orpheus</persName> also long since described 
+<lb/>in this part of the continent I meane, between <placeName>Mæotis palus</placeName>, the <placeName>fenne Mæotis</placeName>, (now called <placeName>Mar delle Zabbache</placeName>, and <placeName>Mardella Tana</placeName>) and the <placeName>sea
+<lb/>Cronium</placeName>, an huge wood. Likewise, <persName type="fictional">Dionysius</persName> after heereabouts placeth an infinite wood, as he termeth it, from whence he saith <placeName>Tanais</placeName> or <placeName>Don</placeName> doth
+<lb/>spring, which after many windings and turnings at last falleth into the forenamed <placeName>fenne Maeotis</placeName>. <persName>Isidorus</persName> heere hath the <placeName>Riphaean woods</placeName>, in which he
+<lb/>saith <placeName>Tanais</placeName> doth first take the beginning. That <placeName>Donaw</placeName> (Danubis) doth diuide <placeName>Asia</placeName> from <placeName>Europe</placeName>, Seneca in the sixth booke Naturall doth manifestly
+<lb/>affirm; of which his opinion, what do we thinke, we will, God willing, set downe in the discourse to the Mappe of <placeName>Dacia</placeName>. Hitherto we see the forenamed au-
+<lb/>thours to doubt and disagree between themselues of the limits of these two parts of the world: if therefore they shall find me a meet vmpier and arbitratour
+<lb/>in this matter, I would, not vnfitly, and as I hope to the liking of all parties, decide the controuer thus: I would make the bounds to be <placeName>Tanais</placeName>, or the ri-
+<lb/>uer <placeName>Don</placeName>; the straits or narrow peece of the maine land that is between the riuer and the <placeName>riuer Rha</placeName> (Athel), which emptyeth it selfe into the <placeName>Caspian sea</placeName>:
+<lb/>the East branch of the same Athel: then from his head vnto the <placeName>riuer Oby</placeName>, and so even vnto his mouth or fall into the <placeName>Northren sea</placeName>: For by this mouth, I
+<lb/>do easily perswade my selfe, that antiquity did verily beleeue that the <placeName>Caspian sea</placeName> did vnlade it selfe into the maine Ocean. For that the name of this <placeName>riuer O-
+<lb/>by</placeName> is ancient, it is very likely, for that <placeName>montes Obij</placeName>, certain mountaines called <placeName>Obij</placeName> are placed heere about in this tract, by <persName>Athenaeus</persName>, which he saith for-
+<lb/>merly were called of the ancient <placeName>montes Riphæi</placeName>, the <placeName>Riphaean hils</placeName>: but then in his daies <placeName>montes Alpes</placeName>, the <placeName>Alpes</placeName>. Againe <persName>Iornandes</persName> in this continent,
+<lb/>not farre from hence, describeth Ovim or Obim, a Scythian nation or family. And that these foresaid mountaines are in this place (not where <persName>Ptolemey</persName>
+<lb/>and <persName>Pomponius Mela</persName> haue placed them) very many men of great credit and learning in these our daies, sufficient witnesses do stoutly auouch. Amongst
+<lb/>which <persName>Baro Herberstein</persName>, in his history of <placeName>Moscouy</placeName>, is one: <persName>Paul Oderborne</persName>, in his treatise written of the life of <persName>Bafilides</persName>, is another: lastly, <persName>Antony
+<lb/>Wied</persName>, in his mappe of <placeName>Moscouy</placeName> may be the third. Now they name it vulgarly by diuers and sundrie names, but commonly they call it <placeName>Cingulum mundi</placeName>,
+<lb/>The girdle of the world, as the said <persName>Herberstein</persName> doth affirme. In a mappe of these countries set out by <persName>Master Jenkinson</persName>, an Englishman, who travelled
+<lb/>through these parts, it is called <placeName>Zona Orbis</placeName>, The girdle of the Earth. Moreouer I haue in some sort for this diuision, <persName>Iornandes</persName> and <persName>AEthicus</persName>, upon my 
+<lb/>side, where they say that the <placeName>Riphean mountaines</placeName> do part <placeName>Asia</placeName> and <placeName>Europe</placeName>. Againe these selfe same hils, yea, and in this tract, are the <placeName>montes Hyperbo-
+<lb/>rei</placeName>; not where <persName>Ptolemey</persName> placeth them. And they are the same with montes <placeName>Riphæi</placeName>, <placeName>Obij</placeName>, and <placeName>Alpes</placeName>. Thus farre of the diusion of <placeName>Asia</placeName> from <placeName>Europe</placeName>.</p>
+<lb/>        <p><persName>Pliny</persName> calleth this part of the world, The Nurce of all Nations; <persName>Mardonius</persName>, as <persName>Herodotus</persName> doth tell of him, auoucheth it to <persName>Xerxes</persName>, to be by farre 
+<lb/>the beautifulleft of all places of the World, to be a most goodly and gallant country, yielding all maner of fruits and fruitfull trees and those
+<lb/>in their kindes and best; and to be such that it were pity that any king in the World should haue ought to do in but he. Varro in his bo kes Dere 
+<lb/>Rustica, of Husbandrie writeth, That it is a more temperate and healthful soile than <placeName>Asia</placeName>. <placeName>Statius</placeName> in his Achilleidos, more than once or twice, calleth
+<lb/>it, The Mighty prouince of the World. <foreign xml:lang="la">Maximaterra viris &amp; fœcundissima doctis Vrbibus</foreign>, <placeName>Europe</placeName> for multitude of warlike men and scholers 
+<lb/>deeply learned, doth farre excell thus <persName>Mamilius</persName> writeth of it. <persName>Aristotle</persName>, the prince of Philospophers, maketh the inhabiters of this part of the world, to be, 
+<lb/>A very stout and couragious people. The same authour affirmeth, that, All kind of beasts and cattell heere, are in their kind, greater, and stronger 
+<lb/>than in <placeName>Asia</placeName> and <placeName>Africke</placeName>. But of the nature of this country, the maners and customes of the people, let vs heare what <placeName>Strabo</placeName> that excellent Geographer saith
+<lb/>in his second book ; This part is most fertile of valiant and prudent men. It is all generally habitable, excepting only a very small portion toward 
+<lb/>the North, and abutting vpon the Hamaxici, which dwell vpon <placeName>Tanais</placeName>, <placeName>Don</placeName> Meo'is Palus (<placeName>Mar delle Zabacche</placeName>) and <placeName>Borysthenes</placeName> (<placeName>Nieper</placeName> or
+<lb/><placeName>Dnester</placeName>) which place, by reason of the extream cold, is not habitable. Yet certaine bleake and mountainous places inhabited, although in re-
+<lb/>spect of the nature of the soile they are tilled and manured with greater difficulty, yet having gotten good skilull and industrious husbands,
+<lb/>those also are tamed and much bettered, which heeretofore were badly vsed, and kept only by theeues and out-lawes. And indeed the Greekes
+<lb/>when they dwelt vpon the rocks and mountaines, dwelt well and conueniently, by reason of their wise cariage in ciuill matters, arts, sciences and 
+<lb/>knowledge of those things, which necessarily are required to the maintenance of mans life. In like maner the Romanes, hauing brought many 
+<lb/>sauage and fierce Nations vnder their seruile yoke, seated, I meane, in places not very conuenient to dwell in, in respect of the nature of the coun- 
+<lb/>try, either for that it was rough and craggy, or wanted hauens, or was too bleake and cold, or for other causes, taught them to vse merchandise
+<lb/>before vnknowen, and haue brought them from a sauage and brutish life, to live ciuilly and more humanely. But those parts which are situate in
+<lb/>an equall and temperat climate, there nature administreth all things necessary for the maintenance of man and beast. Now when as those Nations
+<lb/>which do inhabite and dwell in fertile and rich countries, are maintainers of peace and quietnesse ; and those which are seated in barren and vn-
+<lb/>fruitfull countries, are most hardy and stout : it commeth to passe that both are helpfull one to another ; while these do vse their weapons for 
+<lb/>their countries defence, those againe do help and maintaine them by the profits that they raise out of the earth, by their arts and mysteries, as also
+<lb/>by their learning, wisedome and policy : euen as in like maner also the dammage is mutuall and either side feeleth a sensible hurt, when the one
+<lb/>part doth not helpe the other : yet the estate of the souldier and warlike man is somewhat better, if they be not ouercome with multitude. And
+<lb/>the nature of <placeName>Europe</placeName> serueth very fitly for this purpose : for it is all diuersly distinguished by lofty mountaines and lowly plaines ; so that euery
+<lb/>where the husbandmen and soldiers ; the politicians and the martiall warriers do dwell together : yet so as the greatest number are peaceable
+<lb/>men : which kind of life they enjoy especially by the meanes and labour of their captaines, first of the Greekes, then of the Macedonians, and
+<lb/>lastly of the Romanes. Therefore both in peace and warre it is sufficient of itselfe to maintaine and defend itselfe : for it hath great plenty both
+<lb/>of stout soldiers, painfull husbandmen, and politique statesmen. In this also it doth excel, that it bringeth foorth passing good fruits, such I
+<lb/>meane, as are necessary for the maintenance of mans life: with all sorts of mettall, for what vse soeuer. Spices or sweet smelling things and preti- 
+<lb/>ous stones, are brought hither from forren countries, WHICH THINGS WHOSOEVER HAVE NOT, THEY LIVE NEVER A WHIT 
+<lb/>WORSE THAN THOSE DO THAT HAVE THEM. Moreouer this is especially worth the noting, that hauing wonderfull store of cattell, 
+<lb/>sheep and oxen ; it breedeth very few dangerous wild beasts. Thus farre the learned <persName>Strabo</persName>. Many other things thou maist read of this <placeName>Europe</placeName>,
+<lb/>together with the nature and condition of the people of the same, in that treatise which <persName>Hippocrates</persName>, the prince of Physitions, wrote of the aire and waters.
+<lb/>This <placeName>Europe</placeName> also, and not any other place of the world beside, doth yeeld Succinum or Electrum, (Amber we call it, the Germanes, Glessum) yet it is not 
+<lb/>found in <placeName>Eridianus</placeName>, a river falling into some Northren sea, as <persName>Herodotus</persName> doth fabulously report : or in <placeName>Padus</placeName>, a riuer of Italy (Po) as the poets iestingly af-
+<lb/>firme: nor in the Electrides, certaine fained ilands in the <placeName>Hadriaticke sea</placeName>, as some men of better credit, and more diligent searchers out of the <supplied reason="illegible">t</supplied>ruth, as <persName>Pliny</persName></p>
+</ab>
+
+<pb facs="#f019"/>
+<personalstmt> <!--Transcribed and first encoded by Mary Zouharis from Framingham State University!--> </personalstmt>
+<ab>
+<lb/><figure rend="left-top"><foreign xml:lang="la">EVROPAM, SIVE CEL
+<lb/>TICAM VETEREM,
+<lb/><hi rend="italic">sic describere conabar <persName>Abrah, Ortelius</persName></hi></foreign></figure>
+</ab>
+<ab>
+<lb/><figure red="left-bottom"><foreign xml:lang="la">CLARISS, D, NICOLAO
+<lb/>ROCCOXIO I,V,L, PATRICIO <placeName>ANTVERP</placeName>
+<lb/>EIVSDEMQ. VRBIS SENATORI, HANC
+<lb/>ANTIQV<note type="letter"><!--this is the weird ae letter-->AE</note> EVROP<note type="letter"><!--this is the weird ae letter-->AE</note>, NOVAM TABVLAM,
+<lb/><persName>ABRAH.ORTELIVS</persName> DECOTISSIME DEDICAB.</foreign></figure> 
+</ab>
+<ab>
+<lb/><figure rend="right-bottom"><foreign xml:lang="la">CVM
+<lb/>PRIVILE:
+<lb/>GIO DECEN
+<lb/>NALI, IMP.
+<lb/>REGI<hi rend="italic">S</hi> ET
+<lb/>BRABANTI
+<lb/><note type="letter"><!--this is the weird ae letter-->AE</note> CANCEL
+<lb/>LARIAE</foreign>
+<lb/><hi rend="italic"><date when="1595">[1595.]</date></hi></figure>
+</ab>
+
+<pb facs="#f020"/>
+<personalstmt><!--I, Emily Agnelli, with proofreading and additional help from Mary Zouharis, transcribed seq. 21 of this text--></personalstmt>
+<ab>
+<lb/><hi rend="italic">saith, have seriously thought: nor in</hi> <placeName>Spaine</placeName>, <hi rend="italic">as</hi> <persName><note type="letter"><!--ash or aesc-->AE</note></persName> <hi rend="italic">beleeued: nor in certaine rockes at the further end of the gulfe of</hi> <placeName>Venice</placeName>, (mare Hadriaticum)
+<lb/><hi rend="italic">as some mere suber men haue giuen out: nor in</hi> <persName>Liguria</persName>, <hi rend="italic">as</hi> <persName>Sudinus</persName>, <persName>Metrodorus</persName>, <hi rend="italic">and</hi> <persName>Theophraftus</persName> <hi rend="italic">would haue men thinke: nor in</hi> <placeName>Ethiopia</placeName>, <hi rend="italic">neere</hi> Iupiter Ammons <hi rend="italic">temple, or in</hi> <placeName>Scythia</placeName>, <hi rend="italic">as</hi> <persName>Philemon</persName> <hi rend="italic">imagined: nor in</hi> <placeName>Britaine</placeName>, <hi rend="italic">as</hi> <persName>Socatus</persName>: <hi rend="italic">nor in the</hi> <placeName>Gleflari<note type="letter">ae</note></placeName>, <hi rend="italic">ilands in the</hi> <placeName>Germane ocean</placeName>, <hi rend="italic">as</hi> <persName>Pliny</persName>
+<lb/><hi rend="italic">hathtaught: nor in</hi> <placeName>Bannonia</placeName> <hi rend="italic">or</hi> <placeName>Baltia</placeName>, <hi rend="italic">(a certain iland) as</hi> <persName>Tim<note type="letter">ae</note>us</persName> <hi rend="italic">hath broached: nor in a certain riuer, as</hi> <persName>Dion Prul<note type="letter">ae</note>us</persName> <hi rend="italic">hath taught: but neere vnto the neckland or peninsula</hi> <placeName><note type="letter">ae</note></placeName>, <hi rend="italic">in the bay</hi> <placeName>Pautzkerwicke</placeName> <hi rend="italic">and</hi> <placeName>Frifch-haff</placeName> (<hi rend="italic">Sinus Clilipenus</hi>) <hi rend="italic">in the</hi> <placeName>Balticke</placeName> <hi rend="italic">or</hi> <placeName>East Sea</placeName>, <hi rend="italic">not farre from</hi> <placeName>Dantzk</placeName> <hi rend="italic">in</hi>
+<lb/><placeName>Pomerell</placeName> <hi rend="italic">or</hi> <placeName>Sprufe</placeName>: <hi rend="italic">where hitherto it hath been taken (a thing wholly hidden from the ancients) to the great gaine and enriching of the Nations neere inha-</hi>
+<lb/>biting: <hi rend="italic">and not in any other place of the world beside. In the same</hi> <placeName>Europe</placeName> <hi rend="italic">are there many goodly and stately cities, amongst the which the most famous, in all</hi>
+<lb/>ages, <hi rend="italic">are</hi> <placeName>Rome</placeName> <hi rend="italic">and</hi> <placeName>Constantinople</placeName>, <hi rend="italic">(which afterward was called</hi> <placeName>New-Rome</placeName><hi rend="italic">) and now are</hi> <placeName>London</placeName>, <placeName>Venice</placeName> <hi rend="italic">and</hi> <placeName>Paris</placeName>. <hi rend="italic">The riuers of greater note</hi>
+<lb/><hi rend="italic">are</hi> <placeName>Rhein</placeName>, <placeName>Isther</placeName> <hi rend="italic">or</hi> <placeName>Donaw</placeName>, <hi rend="italic">and the</hi> <placeName>Thames</placeName>: <hi rend="italic">the woods more notable are</hi> <placeName>Ardene</placeName> <hi rend="italic">in</hi> <placeName>Gallia</placeName>, <hi rend="italic">500 miles of length, reaching from the riuer of</hi> <placeName>Rhein</placeName> <hi rend="italic">vn-</hi>
+<lb/>to <placeName>Tourney</placeName> <hi rend="italic">in</hi> <placeName>France</placeName>; <hi rend="italic">and</hi> <placeName>Hercynia</placeName> <hi rend="italic">in</hi> <placeName>Germany</placeName>, <hi rend="italic">40 daies iourney long, as</hi> <persName>Pomponius</persName> <hi rend="italic">writeth, and 9 daies iourney broad, as</hi> <persName>C<note type="letter">ae</note>ser</persName> <hi rend="italic">in his Commen-</hi>
+<lb/>taries <hi rend="italic">reporteth: a greater wood than which, or more vast, there is no history maketh mention of. Thus much of</hi> <placeName>Europe</placeName>. <hi rend="italic">But whereof it tooke the name</hi>
+<lb/>and <hi rend="italic">was so called, or who first gave it that name, I thinke</hi> <persName>Herodotius</persName> <hi rend="italic">saith, there is no man vnder heauen doth certainly know or can vpon any probabilitie</hi>
+<lb/>gesse, <hi rend="italic">except one should think it so called of</hi> <placeName>Europa Tyria</placeName>. <hi rend="italic">But wherefore it should so of her be named, I am wholly ignorant, and I perswade my selfe and do</hi>
+<lb/>verily beleeue, <hi rend="italic">that no man in the world truly knoweth. For that she, as we read in the fabulous stories of the poets, was violently taken out of</hi> <placeName>Ph<note type="letter">oe</note>nicia</placeName>, <hi rend="italic">a</hi>
+<lb/>country <hi rend="italic">of</hi> <placeName>Asia</placeName>, <hi rend="italic">and carried from thence into</hi> <placeName>Cyprus</placeName>, <hi rend="italic">or as others write, into the iland</hi> <placeName>Creta (Candy)</placeName> <hi rend="italic">all men do know well enough: where, as</hi> <persName>Eusebius</persName> <hi rend="italic">his</hi>
+<lb/>Chronicle <hi rend="italic">doth witnesse, being taken of</hi> <persName>Asterius</persName> <hi rend="italic">king of</hi> <placeName>Creta</placeName> <hi rend="italic">to wife, she bare him</hi> <persName>Minoes</persName>, <persName>Rhadamanthus</persName> <hi rend="italic">and</hi> <persName>Sarpedon</persName>: <hi rend="italic">from whence she went not into</hi>
+<lb/><placeName>Europe</placeName>, <hi rend="italic">but into</hi> <placeName>Asia</placeName>, <hi rend="italic">as</hi> <persName>Herodotus</persName> <hi rend="italic">hath left recorded. But what is that to</hi> <placeName>Europe</placeName> <hi rend="italic">this part of the world? One might easilier beleeue it to haue been so</hi>
+<lb/>named <hi rend="italic">of</hi> <persName>Europus</persName>, <hi rend="italic">who, as</hi> <persName>Trogus Pompeius</persName> <hi rend="italic">witnesseth, sometime in these parts possessed a large kingdome: which also I do see to be auouched by</hi> <persName>Eustathius</persName>
+<lb/><hi rend="italic">vpon</hi> <persName>Lycophron</persName>, <hi rend="italic">who maketh this</hi> <persName>Europis</persName> <hi rend="italic">to be the sonne of one</hi> <persName>Himerus</persName>. <persName>Pausanias</persName> <hi rend="italic">saith that one</hi> <persName>Eurpoa</persName> <hi rend="italic">was king of</hi> <placeName>Sicyonia</placeName>, <hi rend="italic">a prouince of</hi>
+<lb/><placeName>Peloponnelius</placeName> <hi rend="italic">in</hi> <placeName>Greece</placeName>: <hi rend="italic">to him</hi> <persName>Eusebius</persName> <hi rend="italic">in his Chronicle doth ascribe, who maketh him equall to the Patriarke</hi> <persName>Abraham</persName>, <hi rend="italic">and to haue liued aboue 3550</hi>
+<lb/>yeares <hi rend="italic">since, about 1950 yeares before the birth of</hi> <persName>Christ</persName>. <hi rend="italic">There be some, as</hi> <persName>Festus</persName> <hi rend="italic">writeth, that thinke it so named of the beautifulnesse and excellency</hi>
+<lb/>of the <hi rend="italic">country. <hi rend="italic">These we are sure are fabulous or vncertaine: may we not therefore, as they haue formed of</hi> <persName>Phrat</persName>, <persName>Euphrates</persName>, <hi rend="italic">and of</hi> <persName>Koft</persName>,</hi> <persName>AEgyptus</persName> <hi rend="italic">(as
+<lb/>we haue shewed before) thinke that of</hi> <persName>Riphath</persName> <hi rend="italic">(the sonne of</hi> <persName>Gomer</persName>, <persName>Iapheths</persName> <hi rend="italic">sonne, to whom this part of the world was presently after the confusion at</hi> <placeName>Babel</placeName>
+<lb/><hi rend="italic">assigned) they haue likewise formed</hi> <placeName>Europa</placeName>? <hi rend="italic">And surely the name</hi> <persName>Riphath</persName> <hi rend="italic">doth very manifestly shew it selfe in</hi> <placeName>Rhip<note type="letter">ae</note>is</placeName> <placeName>montibus</placeName>, <hi rend="italic">the</hi> <unclear><placeName>Riphean hils</placeName></unclear>:
+<lb/>item <hi rend="italic">in</hi> <placeName>Riph<note type="letter">ae</note>o</placeName> <placeName>fluuio</placeName>, <hi rend="italic">now called the riuer</hi> <placeName>Oby</placeName>, <hi rend="italic">in</hi> <placeName>Ripe</placeName>, <hi rend="italic">a city of</hi> <placeName>Peloponneses</placeName>, <hi rend="italic">in</hi> <placeName>Rhiphat<note type="letter">ae</note>is</placeName>, <hi rend="italic">the people of</hi> <placeName>Paphlagonia</placeName>, <hi rend="italic">as</hi> <persName>Iosephus</persName> <hi rend="italic">writeth.</hi> 
+<lb/><persName>Ptolemey</persName> <hi rend="italic">in the second booke of his</hi> <placeName>Quadripartite</placeName>, <hi rend="italic">in my opinion much more truly, writeth that it was sometime called by a common name,</hi> <placeName>C E L T I C A</placeName>, <hi rend="italic">name-</hi>
+<lb/>ly <hi rend="italic">of a principall Nation that first did inhabite it. For there is almost no prouince in all this part, in which in time past the</hi> <note type="group of people">C E L T A E</note> <hi rend="italic">did not inhabit.</hi> 
+<lb/><hi rend="italic">For in</hi> <placeName>Spaine</placeName> <hi rend="italic">toward the West, and beyond Hercules pillars are the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">as</hi> <persName>Herodotus</persName> <hi rend="italic">affirmeth. Item, about the riuer</hi> <placeName>B<note type="letter">ae</note>tis</placeName>, <hi rend="italic">as</hi> <persName>Strabo</persName> <hi rend="italic">auoucheth, the</hi>
+<lb/><unclear><note type="group of people">Celtici Pre<note type="letter">ae</note>samarci</note></unclear>, <hi rend="italic">are in the prouince of</hi> <placeName>Lucensis</placeName>, <hi rend="italic">and others otherwise named</hi> <unclear><note type="group of people">Nerij</note></unclear> <hi rend="italic">as</hi> <persName>Pliny</persName> <hi rend="italic">saith:</hi> <persName>Dion</persName> <hi rend="italic">and</hi> <persName>Xiphilinus</persName> <hi rend="italic">do shew that the</hi> <note type="group of people">Canta-</note>
+<lb/><note type="group of people">bri</note> <hi rend="italic">and</hi> <note type="group of people">Astures</note> <hi rend="italic">are the same with the</hi> <note type="group of people">Celt<note type="letter">ae</note></note>: <persName>Pliny</persName> <hi rend="italic">nameth the city</hi> <placeName>Celtica</placeName>, <hi rend="italic">in the prouince</hi> <placeName>Hispalensis</placeName>. <persName>Antonius</persName> <note type="group of people">Celti</note>: <hi rend="italic">item</hi> <placeName>Celticum promontorium</placeName>,
+<lb/><hi rend="italic">is the same that</hi> <placeName>Cantabrum promontorium</placeName>, <hi rend="italic">which now is called</hi> <placeName>Cabo de finis terre</placeName>. <hi rend="italic">What Geographer or Historian is he amongst the anci-</hi>
+<lb/>ents <hi rend="italic">that hath not made mention of the</hi> <note type="group of people">Celtebri</note>? <hi rend="italic">In</hi> <placeName>France</placeName> <hi rend="italic">were the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">and</hi> <unclear><note type="group of people">Celtogalat<note type="letter">ae</note></note></unclear>: <hi rend="italic">and from thence are those in</hi> <placeName>Britaine</placeName>. <hi rend="italic">For that this iland</hi>
+<lb/><hi rend="italic">was first peopled from hence, lying so neere oueragainstit, it is a common opinion and very probable. That the</hi> <note type="group of people">Gauls Germanes</note> <hi rend="italic">were vulgarly called</hi> <note type="group of people">Celt<note type="letter">ae</note></note>,
+<lb/><hi rend="italic">all Historiographers do iointly agree: and indeed</hi> <persName>Dion</persName> <hi rend="italic">doth affirme, that the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">did dwell vpon either side of the riuer</hi> <placeName>Rhem</placeName>: <hi rend="italic">the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">dwelt in</hi>
+<lb/><placeName>Gallia Cisalpina</placeName> <placeName>(Lombardy)</placeName> <hi rend="italic">or</hi> <placeName>Italy</placeName>, <hi rend="italic">as</hi> <persName>Appianus</persName> <hi rend="italic">writeth. And again vpon the</hi> <placeName>Ionian sea</placeName>, <hi rend="italic">(that is, the</hi> <placeName>Hadriaticke</placeName>), <hi rend="italic">which also</hi> <persName>Strabo</persName> <hi rend="italic">doth auerre.</hi>
+<lb/><persName>Silius Italicus</persName> <hi rend="italic">placeth them about the riuer</hi> <placeName>Eridianus (Po)</placeName>. <hi rend="italic">In</hi> <placeName>Epirus</placeName> <hi rend="italic">sometime dwelled the</hi> <note type="group of people">Celt<note type="letter">ae</note></note>, <hi rend="italic">as</hi> <persName>Antonius Liberalis</persName> <hi rend="italic">hath giuen out:</hi> <persName>Stepha-
+<lb/>nus</persName> <hi rend="italic">placeth the same about the mount</hi> <placeName>H<note type="letter">oe</note>mus</placeName>: <placeName>Arrianus</placeName>, <hi rend="italic">neere the mouth of the riuer</hi> <placeName>Donaw</placeName>: <hi rend="italic">as also</hi> <persName>Strabo</persName> <hi rend="italic">in</hi> <placeName>M<note type="letter">oe</note>sia</placeName>. <hi rend="italic">The same author writeth,</hi>
+<lb/><hi rend="italic">that the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">are intermedled with the</hi> <note type="group of people">Illyrij</note> <hi rend="italic">and</hi> <note type="group of people">Thraces</note>. <hi rend="italic">Who also placeth them vpon the riuer</hi> <placeName>Borysthenes</placeName>. <hi rend="italic">Moreouer</hi> <persName>Aristotle</persName> <hi rend="italic">in his booke</hi> <placeName>De mundo</placeName>,
+<lb/><hi rend="italic">ioineth the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">with the</hi> <note type="group of people">Scythians</note>. <hi rend="italic">Heere hence the same</hi> <persName>Strabo</persName> <hi rend="italic">and</hi> <persName>Plutarch</persName> <hi rend="italic">do make their</hi> <note type="group of people">Celtoscyth<note type="letter">ae</note></note>. <hi rend="italic">In</hi> <persName>Plutarch</persName>, <hi rend="italic">in the life of</hi> <persName>Camilus</persName>,
+<lb/><hi rend="italic">I read that the</hi> <note type="group of people">Galat<note type="letter">ae</note></note> <hi rend="italic">(which he maketh to haue come of the stocke of the</hi> <note type="group of people">Celt<note type="letter">ae</note></note>) <hi rend="italic">passing the</hi> <placeName>Northren sea</placeName> <hi rend="italic">came vnto the</hi> <placeName>Riph<note type="letter">ae</note>an mountains</placeName>. 
+<lb/><hi rend="italic">Againe out of the forenamed</hi> <persName>Strabo</persName> <hi rend="italic">I learne that the nations dwelling Northward were in his time called</hi> <unclear><note type="group of people">Calt<note type="letter">ae</note></note></unclear>. <hi rend="italic">The which also their ancient lan-</hi>
+<lb/>guage, <hi rend="italic">which is called the</hi> <note type="group of people">Celticke</note> <hi rend="italic">or</hi> <note type="group of people">Germane</note> <hi rend="italic">tongue, doth at this day sufficiently demonstrate: which is the same (only differing a little in dialect) with that which</hi>
+<lb/><hi rend="italic">is vsed in the ilands neere adioining to these places, as in Island,</hi> <placeName>Groenland</placeName>, <placeName>Friesland</placeName> <hi rend="italic">and others in this ocean.</hi> <persName>Plutarke</persName> <hi rend="italic">in</hi> <persName>Marius</persName> <hi rend="italic">wri-</hi>
+<lb/>teth, <hi rend="italic">that Celtica doth begin at the outmost sea (that is, the</hi> <placeName>Atlanticke Sea</placeName>) <hi rend="italic">and so stretcheth itselfe out farre into the North and from thence vn-</hi>
+<lb/>to the fenne <placeName>M<note type="letter">ae</note>otis</placeName>, (<foreign xml:lang="la">Mare delle Zabacche</foreign>). <persName>Pomponius Mela</persName> <hi rend="italic">calleth the</hi> <placeName>Cassiterides</placeName> <hi rend="italic">(which in another place we haue proued to belong to</hi> <placeName>great Britaine</placeName>, 
+<lb/><hi rend="italic">or to be the number of those which are named</hi> <placeName>Brittanic<note type="letter">ae</note></placeName> <hi rend="italic">) Celticke Ilands. What is this else, I pray you, than plainly to affirme that</hi> THE <note type="group of people">C E L T <note type="letter">AE</note></note> DO  
+<lb/>POSSESSE ALL <placeName>E V R O P E</placeName>? <hi rend="italic">Which indeed is that which</hi> <persName>Ephorus</persName> <hi rend="italic">in</hi> <persName>Strabo</persName> <hi rend="italic">did see so many years since: when as he diuiding all the world into 4. quar-</hi>
+<lb/>ters, <hi rend="italic">saith that, That part which is toward the East, is inhabited of the</hi> <note type="group of people">Indians</note>: <hi rend="italic">that which is in the South, of the</hi> <note type="group of people">AEthiopians</note>: <hi rend="italic">the North parts, of</hi> 
+<lb/><note type="group of people">Scythians</note>: <hi rend="italic">and the West, of the</hi> <note type="group of people">Celt<note type="letter">ae</note></note>. <hi rend="italic">The scholiast of</hi> <persName>Appollonius</persName> <hi rend="italic">nameth the</hi> <placeName>Hadriaticke sea</placeName>, <placeName>Mare Celticum</placeName>, <hi rend="italic">the</hi> <placeName>Celticke Sea</placeName>. <hi rend="italic">And</hi> <persName>Lyco-</persName>
+<lb/>phron <hi rend="italic">describeth Celtos, a certain poole, about the mouth of the riuer</hi> <placeName>Ister</placeName>. <hi rend="italic">Item he placeth</hi> <placeName>Leuce</placeName> <hi rend="italic">an iland of</hi> <placeName>Mar maiore</placeName> <foreign xml:lang="la">(<hi rend="italic">Pontus Euxinus</hi>)</foreign> <hi rend="italic">oueragainst the mouth of the riuer</hi> <placeName>Donaw</placeName>.
+<lb/><hi rend="italic">May we not therefore properly, as they call those that inhabit</hi> <placeName>Asia</placeName>, <note type="group of people">Asians</note>: <hi rend="italic">and those which dwell in</hi> <placeName>Africa</placeName>, <note type="group of people">Africanes</note>: <hi rend="italic">call these which dwell in</hi> <placeName>Celtica</placeName>, <note type="group of people">Celtickes</note><unclear>?</unclear> 
+<lb/><hi rend="italic">He that out of all ancient stories, penned either in Latine or Greeke, doth not know that the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">are the</hi> <note type="group of people">Germanes</note>, <hi rend="italic">let him haue recourse to the 22. chapter of</hi> <persName>Hadrianus Iunius</persName> <hi rend="italic">his</hi> <placeName>Batauia</placeName>, <hi rend="italic">and I doubt not but, hauing throughly waied those many sound ar-</hi>
+<lb/>guments, <hi rend="italic">and sufficient testimonies of ancient graue writers, shall rest satisfied and sweare to our opinion. If not, let him listen to the</hi> <note type="group of people">Dutchmen</note>, <hi rend="italic">and he shall</hi>
+<lb/>heare <hi rend="italic">them call one another in their familiar communication,</hi> Kelt. <hi rend="italic">The</hi> <note type="group of people">French</note> <hi rend="italic">also or</hi> <placeName>Gauls</placeName> <hi rend="italic">I call a German nation. And I can proue by good arguments, if it</hi>
+<lb/><hi rend="italic">were a matter pertaining to this our purpose, that the Germane or Dutch tongue is the ancient language of the</hi> <note type="group of people">Celt<note type="letter">ae</note></note>, <hi rend="italic">and to be the same which hitherto they</hi>
+<lb/><hi rend="italic">haue vsed in all places and now is spoken, except in some places where the power of the</hi> <note type="group of people">Romanes</note> <hi rend="italic">so preuailed, that they banished this, and seated theirs in the</hi> 
+<lb/>roome. <hi rend="italic">It is likely therefore that the etymology and reason of the deriuation of the word</hi> <placeName>Europe</placeName>, <hi rend="italic">which was vnknowen vnto the old writers, is to be sought</hi>
+<lb/><hi rend="italic">and fetched from no other language else, but from that which was most</hi> <unclear>usuall</unclear> <hi rend="italic">in this part of the world. For that the inhabitants of any country should take</hi>
+<lb/><hi rend="italic">the name of their natiue soile from strangers, it is so absurd and hard to be beleeued, that there cannot any thing more foolish or contrary to truth be inuent-</hi>
+<lb/>ed <hi rend="italic">or deuised. Wherefore I thinke it good, concerning this matter, heere to lay downe the iudgement of</hi> <persName>Goropius Becanus</persName>, <hi rend="italic">our countryman, who thinketh</hi>
+<lb/><hi rend="italic">it to be so named, not of a woman, (which is probable, either neuer was, or neuer came heere) but</hi> <unclear>a</unclear> <hi rend="italic">latitudine videndi, of the largenesse of his prospect (as</hi>
+<lb/><hi rend="italic">he speaketh) namely, because (I do cite his owne words out of the 9. booke of his</hi> <persName>Origines</persName>) <hi rend="italic">it doth not only looke toward</hi> <placeName>Asia</placeName>, <hi rend="italic">on the East and South:</hi> <placeName>Africa</placeName>,
+<lb/><hi rend="italic">on the South and West: but also the New-found-world beyond the</hi> <placeName>Hyperborei</placeName>, <hi rend="italic">on the West and North. Neither shall any man perswade me, that</hi> <placeName>Europe</placeName>
+<lb/><hi rend="italic">had the name from</hi> <placeName>Greece</placeName> <hi rend="italic">or the Greeke language, seeing that it was first inhabited of the</hi> <note type="group of people">Cimbers</note> (<hi rend="italic">Cimmerij, descended from</hi> <persName>Gomer</persName>, <hi rend="italic">the elder brother)</hi>
+<lb/><hi rend="italic">before it was possessed of the</hi> <note type="group of people">Greeks</note> (<unclear>Iones</unclear>, <hi rend="italic">come from</hi> <persName>Iawan</persName> <hi rend="italic">a yonger brother) but the 4. son of</hi> <persName>Yapheth</persName>) <hi rend="italic">we make a dipthong by setting the 5. vowel of the</hi> 
+<lb/><hi rend="italic">Latins before the 2. which neither the</hi> <note type="group of people">Latins</note> <hi rend="italic">nor</hi> <note type="group of people">Greeks</note> <hi rend="italic">do admit. Therefore if so be at any time they change the words in which this did light, for</hi> We,
+<lb/><hi rend="italic">they put</hi> Eu; <hi rend="italic">turning it backward. Therefore our men do term it</hi> <unclear>Verop</unclear>, <hi rend="italic">not</hi> Europ, <hi rend="italic">whereby they vnderstand a worthy company of men: for</hi> Wer <hi rend="italic">(a mono-</hi>
+<lb/>syllable <hi rend="italic">pronounced like a dipthong) signifieth lofty, great, excellent &amp; that which is best in euery kind of thing: which notwithstanding some do write</hi> ur, 
+<lb/><hi rend="italic">without a dipthong, yet with a long vowell. Therefore, as of</hi> <persName>Terues</persName>, <hi rend="italic">they formed</hi> <persName>Tereus</persName>, <hi rend="italic">so of</hi> <persName>Werop</persName>, <hi rend="italic">the</hi> <note type="group of people">Latines</note> <hi rend="italic">and</hi> <note type="group of people">Greeks</note> <hi rend="italic">haue made</hi> <placeName>Europe</placeName>: <hi rend="italic">so named of</hi>
+<lb/><hi rend="italic">the excellency of the Nation, which doth farre surpasse all the other men of the World. For</hi> <unclear><persName>Hop</persName></unclear>, <hi rend="italic">as I haue shewed before, signifieth a company or multitude of men.</hi>
+<lb/><hi rend="italic">More of this word thou maist see in his</hi> <persName>8.</persName> <hi rend="italic">booke. Thus farre out of his workes which are foorth in print: that which followeth, is taken out of a booke of his</hi>
+<lb/><hi rend="italic">which he also hath set foorth, yet not imprinted, but such as he vsed priuatly, and hath many additions in sundrie places in the margin written with his owne</hi>
+<lb/>hand, <hi rend="italic">which he had prepared against the second edition. But I waighing, saith he, and comparing this name with that which I haue read in holy Scripture, a-</hi>
+<lb/>nother <hi rend="italic">reason farre more excellent, and better commeth into my mind. We see that to</hi> <persName>Yaphet</persName> <hi rend="italic">was promised enlargement or a farre spreading of his posterity,</hi>
+<lb/><hi rend="italic">or as some other interpret the word, ioy and gladnesse: which then he truly had enioied, when as</hi> <persName>Christ</persName> <hi rend="italic">had redeemed vs by his death and pretious bloud (which</hi>
+<lb/><hi rend="italic">blessing doth agree to this part of the world, rather than to any other vnder heauen beside: and therefore all other countries generallie do call</hi> <placeName>Europe</placeName>: THE
+<lb/>KINGDOME <hi rend="italic">OF THE</hi> <note type="group of people">CHRISTIANS</note>: <hi rend="italic">and the</hi> <note type="group of people">Europeans</note>, <hi rend="italic">are called of the</hi> <note type="group of people">Turkes</note> <hi rend="italic">and</hi> <note type="group of people">Arabians</note>, <hi rend="italic">GAIVVR, that is,</hi> <note type="group of people">Christians</note>. <hi rend="italic">E, therefore,</hi>
+<lb/><hi rend="italic">doth signifie a lawfull contract and mariage:</hi> VR, <hi rend="italic">excellent: and</hi> HOP, <hi rend="italic">hope: whereupon it commeth to passe, that</hi> <placeName>Europe</placeName> <hi rend="italic">signifieth</hi> The excellent hope
+<lb/>of <hi rend="italic">a lawfull mariage. which is proper to this portion of the world which</hi> <persName>Noah</persName> <hi rend="italic">gaue to</hi> <persName>Iapheth</persName> <hi rend="italic">his sonne to inhabite. For although that the posterity of</hi> <persName>Sem</persName>
+<lb/><hi rend="italic">was by</hi> <persName>Abraham</persName>, <hi rend="italic">for many ages wedded to God, yet at length he put her away and diuorced her from him. But the wedlocke whereby God, by</hi> <persName>Christ</persName> <hi rend="italic">is wed-</hi>
+<lb/>ded to <placeName>Europe</placeName> <hi rend="italic">his Church, shall neuer be dissolued: so that</hi> <placeName>Europe</placeName> <hi rend="italic">may most properly be said to be</hi> <persName>Iaphets</persName> <hi rend="italic">portion. But of this word we will speake more in</hi>
+<lb/>our <placeName>Francica</placeName>. <hi rend="italic">Thus farre</hi> <persName>Goropius</persName>. <hi rend="italic">Which I haue very willingly communicated to the courteous Reader, leauing it to the censure of the learned to be iud-</hi>
+<lb/>ged. <hi rend="italic">Yet I know that these things haue been very bitterly skoffed at already by a certaine learned man, but one wholly ignorant of this tongue, and therefore of</hi>
+<lb/>lesse <hi rend="italic">iudgement in this argument. There are some which do think that this</hi> <placeName>Europe</placeName> <hi rend="italic">was in the holy Scripture called</hi> <persName>IAPETIA</persName>. <hi rend="italic">Thus farre of</hi> <placeName>Europe</placeName>, <hi rend="italic">to</hi>
+<lb/>which <hi rend="italic">before I do altogether leaue, I will adioyne out of</hi> <persName>Herodotus</persName> <hi rend="italic">in his</hi> <persName>Polymnia</persName>, <hi rend="italic">the words of</hi> <persName>Mardonius</persName> <hi rend="italic">to</hi> <persName>Darius</persName> <hi rend="italic">spoken of this country.</hi> <hi rend="italic">That it is a</hi>
+<lb/>country <hi rend="italic">most goodly and beautifull, bearing all maner of excellent fruitfull trees, and those in their kind the best: and to be such that it were pi-</hi>
+<lb/>ty <hi rend="italic">that any man but a king only should possesse.</hi>
+</ab>
+
+<pb facs="#f021"/>
+<ab> 
+<personalstmt><!--Transcribed and encoded by Nicholas Vitale and Karolina Rosberg--></personalstmt><placeName>ASIA</placeName>
+<lb/>
+<lb/><placeName>Asia</placeName> diuides it selfe from <placeName>Europe</placeName> by the river <placeName>Tanais</placeName>, and a streight line drawen
+<lb/>from the fountaines thereof to the <placeName>Bay of S. Nicolas</placeName> in the <placeName>North Ocean</placeName>:
+<lb/>but from <placeName>Africa</placeName>, by the neck-land Ifthmos or narrow place of the earth, which
+<lb/>in betweene the <placeName>Arabian gulfe</placeName> and the <placeName>Mediterran sea</placeName>. The residue thereof the
+<lb/>Ocean and other seas do enuiron.
+<lb/>
+<lb/>This part the ancient Geographers, as <persName>Strabo</persName> in his eleuenth booke, and <persName>Ar-
+<lb/>rianus</persName> in his fift booke, haue dinersly divided. But at this present it may be us not altogether un-
+<lb/>fitly be distributed into fine parts, according to the great Empires by which it is gouerned. The first
+<lb/>whereof, which bordereth upon <placeName>Europe</placeName>, and is subiect to the great <persName>Duke of Mofcouia</persName>, is bounded
+<lb/>by the Frozen sea, the riuer <placeName>Ob</placeName>, the lake <placeName>Kitaia</placeName>, and a line drawen from thence to the <placeName>Caspian sea</placeName>,
+<lb/>and by the Isthmus or neck-land between the <placeName>Caspian</placeName> and <placeName>Euxin seas</placeName>. The second is that, which
+<lb/>yields obedience to the great <persName>Cham Emperour</persName> of the <placeName>Tartars</placeName>, whole Southern borders are the <placeName>Caspi-
+<lb/>an sea</placeName>, the riuer <placeName>Iaxartest</placeName>, and mount <placeName>Imaus</placeName>; on the East and North it is begirt with the Ocean;
+<lb/>and Westward it confines vpon the dominions of the foresaid great <persName>Duke of Russia</persName>. The third part,
+<lb/>the progeinie of the Ottomans or the <persName>Turkish Emperour</persName> enioyes, which containeth whatsoeuer re-
+<lb/>gions are situate within the compasse of the <placeName>Euxin sea</placeName>, the <placeName>aegean sea</placeName> (now called Arcipelago)
+<lb/>and the <placeName>Mediterranean sea</placeName>, the land of <placeName>Egypt</placeName>, the <placeName>Arabian</placeName> and <placeName>Persian seas</placeName>, the riuer <placeName>Tigris</placeName>, the <placeName>Ca-
+<lb/>spian sea</placeName>, and the Isthmos or neck-land between it and the sea <placeName>Euxine</placeName>. Vnder the fourth shalbe com-
+<lb/>prised the <placeName>Kingdome of Persia</placeName>, now gouerned by the Sophies; Westward it hat the <placeName>Turkes</placeName>, with
+<lb/>whom the Persian for the most part manteineth continuall warres; Northward the Empire of the
+<lb/><persName>great Cham</persName>; Eastward it extends almost to the riuer <placeName>Indus</placeName>; and on the south it is restrained by the
+<lb/>sea, at this present called <placeName>Indicum</placeName>, but in times past <placeName>Mare Rubrum</placeName>, or <placeName>The Red sea</placeName>. Now the
+<lb/>sift part takes vp all that remaineth, which as in times past, so at this present, is called <placeName>The Indies</placeName>;
+<lb/>neither is it gouerned by one only, as the former; but by many pety Kings, euery region almost hauing
+<lb/>a peculiar Gouernour, some which are tributarie to the <persName>great Cham</persName>. And here it is not to be omitted,
+<lb/>that all the sea-coasts from the <placeName>Arabian gulfe</placeName>, to the <placeName>Promontory of China</placeName>, commonly called <placeName>Cabo
+<lb/>de Lampo</placeName>, situate in 30. degrees of Northerly latitude, are in a maner possessed, or made tributary
+<lb/>to the <placeName>Portugals</placeName>. 
+<lb/>
+<lb/>Amongst infitinte others, the princpall isles ascribed to <placeName>Asia</placeName>, are <placeName>Cyprus</placeName> and <placeName>Rhodes</placeName> in the
+<lb/><placeName>Mediterran</placeName> sea; <placeName>Zeilan</placeName> of the vulgar and <placeName>Taprobana</placeName> well knowento the ancients now called <placeName>Sa-
+<lb/>motra</placeName>, but falsly <placeName>Sumatra</placeName>, in the <placeName>Indick-Ocean</placeName>, where also within the memory of our fathers, the
+<lb/><placeName>Portugals</placeName> haue discouered the two <placeName>Iauas</placeName>, with the isles of <placeName>Borneo</placeName>, <placeName>Celebes</placeName>, <placeName>Palohan</placeName>, and<placeName>Min-
+<lb/>danao</placeName>; and here likewise <placeName>Gilolo</placeName>, and the <placeName>Moluccos</placeName>, at this day famous for abundance of spi-
+<lb/>ces which they yeeld. To these may be added the isles of <placeName>Iapan</placeName>, and <placeName>new Guinie</placeName> very lately descried;
+<lb/>but this last, whether it be an island, or adioyned to the <placeName>South maine</placeName>, it is not yet Certainly knowen.
+<lb/>
+<lb/>The memorie of this part of the world is most renowmed, not only with prophane authors (as they 
+<lb/>terme them) in regard of the first monarchies established by the Assyrians, the Persians, the Babylo-
+<lb/>nians, and the Medes; but in the holy Scriptures also it is more famous than the rest: for here man-
+<lb/>kinde was not only created by almightie God, deluded and corrupted by the enemie Satan, and resto-
+<lb/> by our Saviour Christ; but we finde almost all the hestories in either Testament to haue beene in
+<lb/>this part both written and accomplished.
+<lb/><persName>Strabo</persName> hath described Asia in six books, namely from the 11. booke vnto the 16. <persName>Ptolomey</persName> hath
+<lb/>decyphered the fame in three, as in his 5. 6. And 7. books; and likewise in 12. Geographicall Tables,
+<lb/>and ascribes unto it 40. prouinces. It is also let foorth by <persName>Ammianus Marcellinus</persName> in his 23.
+<lb/>booke, and by <persName>Diodorus Siculus</persName> in the beginning of his 18. Of late Writers none haue wholly and
+<lb/>particularly described it. <persName>M. Paulus Venetus</persName>, <persName>Lewes of Barthema</persName>, and <persName>St. Iohn Mandeuile</persName>,
+<lb/>(but this Authour is fraught with tables) haue written so much thereof, as by trauelling the regions,
+<lb/>they found worthie of obseruation. Reade also the Epistle of <persName>Iacobus Nauarca</persName> a Fesuite.
+<lb/>        I my selfe likewise certaine yeeres past set forth a large Map the description of the same.
+</ab>
+
+<pb facs="#f022"/>
+<ab>
+<lb/>ASIAE NOVA DECRIPTIO
+</ab>
+
+<pb facs="#f023"/>
+<ab>
+<lb/><personalstmt><!--Transcribed and Encoded by Avery Slavin--></personalstmt>This the Ancients have diuersly distinguished; but at this present it is divided by <persName>John Leo</persName> of
+<lb/> <placeName>Africa</placeName>, into foure chiefe parts; <placeName>Barbaria</placeName>, <placeName>Numidia</placeName>, <placeName>Libya</placeName>, and the Land of Negros. <placeName>Barbarie</placeName>, 
+<lb/>which is accounted the best, they circumscribe with the <placeName>Atlantick</placeName> &amp; <placeName>Mediterranean seas</placeName>; with 
+<lb/>mount Atlas, &amp; whither region of Barca bordering upon <placeName>Ægypt</placeName>. <placeName>Numidia</placeName>, called by the 
+<lb/>inhabitants Biledulgerid, and abounding with Dates (for which cause the Arabians call it by no 
+<lb/>other name, but the Date-bearing region) is bounded Westward by the <placeName>Atlantick Ocean</placeName>; 
+<lb/>Northward by mount Atlas; it stretcheth East as farre as the citie <placeName>Caphsa</placeName>, which is an hundred &amp; 
+<lb/>fiftie miles distant from <placeName>Ægypt</placeName>; and the sande <placeName>Deserts of Libya</placeName> embrace it on the South. <placeName>Libya</placeName>
+<lb/>the third part, is named in the Arabian tongue Sura, which word signifies a Desert. It begins East 
+<lb/>from <placeName>Nilus</placeName>, and thence runneth West as farre as the <placeName>Atlantick sea</placeName>; <placeName>Numidia</placeName> lies to the North of it, 
+<lb/>and the Land of Negros to the South. Now followeth the fourth part, which they call <placeName>Nigritarum</placeName> or 
+<lb/><placeName>Nigritania</placeName>, either from the inhabitants, who are of a blacke colour, or from the <placeName>river Niger</placeName>, that 
+<lb/>runneth thorow the countrey. It is bounded by <placeName>Libya</placeName>, South by the <placeName>Æthiopick Ocean</placeName>; West by 
+<lb/><placeName>Guinee</placeName>, and East by the <placeName>Kingdome of Gago</placeName>. And here we are to note, that according unto their 
+<lb/>division, all <placeName>Africa</placeName> is included within the <placeName>Mediterranean</placeName>, <placeName>Atlantick</placeName>, and <placeName>Æthiopick</placeName> seas and the 
+<lb/><placeName>river Nilus</placeName>; whereof <placeName>Ægypt</placeName> and <placeName>Abassia</placeName> are accounted parts of it, which we not unworthily 
+<lb/>therefore proper to belong to <placeName>Africa</placeName>. For the true <placeName>Africa</placeName> containes at this day <persName>Prester Johns</persName> 
+<lb/>Empire, which by all late Writers is ascribed to <placeName>Africa</placeName>. Wherefore with Ptolomy indeed it ought to 
+<lb/>be bound by the <placeName>Mediterranean sea</placeName> and Ocean seas, rather than by any river whatsoever; and 
+<lb/>it hath the forme of a Peninsula, being joined toward <placeName>Asia</placeName> by an Isthmos of small neck-land, 
+<lb/>which lies between the <placeName>Mediterranean sea</placeName> and the <placeName>gulf of Arabia</placeName>. The South part hereof was 
+<lb/>unknowne to our ancestors, till the yeere <date when="1497">1497</date>, whereas Vasco de Gama first doubling the <placeName>Cape 
+<lb/>of Bona Speranza</placeName>, and passing about all <placeName>Africa</placeName>, came to <placeName>Calecut in East India</placeName>. This Southerne 
+<lb/>part by the Persians and Arabians is called <placeName>Zangibar</placeName>.
+<lb/>At the fore-sayd Cape of good hope the inhabitants are exceeding blacke; which we thought in 
+<lb/>no wise to omit, because all men suppose the cause of blacknesse to be heat, and the 
+<lb/>nearnesse of the Sunne; whereas the Sunne of it selfe forceth no more, than about the Streight 
+<lb/>of <placeName>Magellan</placeName> (we measure the heat of the place, according to the position of the heavens and 
+<lb/>distance from the Equinoctiall line) were now notwithstanding the people are reported to be 
+<lb/>marvellous white. But if we will needs ascribe this blacknesse to the scorching of the Sun, let us 
+<lb/>consider, that the same makes the Spaniards and Italians looke white; whereas they are equally 
+<lb/>distant from the Equinoctiall with the inhabitants of the fore-sayd Cape; namely the one towards 
+<lb/>the South, and the other towards the North. <persName>Prester Johns</persName> people are of a browne colour; in 
+<lb/><placeName>Zanel</placeName> and <placeName>Mollala</placeName> the inhabitants are cole blacke, yet all in one &amp; the same distance from the 
+<lb/>equator, and under the very same parallell of the heavens. And on the contrary, why did 
+<lb/><persName>Herodotus</persName> and <persName>Pindarus</persName> describe such as inhabite the same climate with themselves, namely 
+<lb/>Colches, to be a blacke people, and curled haired? <persName>Herodotus</persName> in his Thalia makes the Indians 
+<lb/>blacke like the Æthiopians; which the experience of our times confirmeth. I know <persName>Herodotus</persName> will 
+<lb/>have the cause hereof to be the seede of the parents, which he sayth is not whiter, than of other 
+<lb/>people, but blacke. To whom Possidonius also subscribeth, and imputeth the matter of all this 
+<lb/>blacknesse unto Canicular heate, against which opinion I have nothing to allege. Let the truth of 
+<lb/>the matter rest upon the authors credit. But this as many men thinke more strange; that in all 
+<lb/><placeName>America</placeName> there were no black people found besides a few only in one place called by them 
+<lb/><placeName>Quarequa</placeName>. What then is the efficient cause of this colour? Is it the drinesse of the heavens, or of 
+<lb/>the earth? is it perhaps some hidden propriety of the soile? Or a kind of fat licentious nature in 
+<lb/>the nature of men? Or is it all these variances in one? But these things we leave to be 
+<lb/>considered by them, who more curiously search into the secrets of nature.
+<lb/>This portion of the world is called by the Greeks <placeName>Libya</placeName>, and by the Latines <placeName>Africa</placeName>, because it is 
+<lb/>not moistened with extremity of cold: or (if we may credit some) of Afer one of the adventurers 
+<lb/>posterity. Another derivation of the name you have (set downe by <persName>John Leo</persName> in the description of 
+<lb/>his booke of the Description of <placeName>Africa</placeName>), who deriveth it from one blacke African, springing of the 
+<lb/>stocke of Cham, who first inhabited that part of the <placeName>Mediterranean sea</placeName>, from <placeName>Atlas</placeName>, bounded by 
+<lb/>the <placeName>river Nilus</placeName>, or rather as the best authors have taught us, the African soile called of the 
+<lb/>Greekes Aphrice, Marce rubrum, and red sea. <persName>Herodotus</persName> reporteth, that <placeName>Africa</placeName> was first 
+<lb/>unknowne till <persName>Cesars</persName> time, when it was found to be a third part of the inhabited world. Plinie the 
+<lb/>like, and so doth Solinus. <persName>Caesar Scaliger</persName> gathereth of the word <placeName>Africa</placeName>, that it is a name of the 
+<lb/>same import with aprica, that is, a sunne-shining place; for that this land lying open on every 
+<lb/>side to the Sunnes visitation, seemed thereby to have beene named so little other than of 
+<lb/>apricity. The principall regions of <placeName>Africa</placeName> have amongst themselves (as it were) a threefold 
+<lb/>division: first, from <placeName>Atlas</placeName> in the West to the red sea and <placeName>Arabia</placeName>, whence it took the name of the 
+<lb/>first inhabiters, or else from the colour of the people, for the most part blacke and duskie; the 
+<lb/>second, to wit, the inner part of <placeName>Africa</placeName>, from <placeName>Nilus</placeName> to the <placeName>Kingdome of Congo</placeName>, is more temperate, 
+<lb/>and not so much subject to the Sunnes heate; the third, which is next unto the <placeName>South Pole</placeName>, by 
+<lb/>reason of the obliquity of the Zodiack, is more temperate than the former. The islands that 
+<lb/>belong to <placeName>Africa</placeName> (some of which are expressed in the table) are <placeName>Madagascar</placeName>, <placeName>the Canaries</placeName>, the 
+<lb/><placeName>Isles of Cape Verde</placeName>, and <placeName>St. Thomas</placeName> situated under the equinoctiall, which aboundeth with 
+<lb/>fruits.
+<lb/>Among the ancient Writers none have particularly described this region. But concerning the 
+<lb/>same saith Isidore in his Etymologies; <persName>Hanno</persName> his navigation about <placeName>Africa</placeName>, in diversities; and 
+<lb/><persName>Iambulus</persName> his voyages, in Diodorus Siculus; and likewise <persName>Herodotus</persName> his Melpomene. 
+<lb/><persName>Bartholomeus de Glanvilla</persName> in his Image of the World reporteth the like. Of late Writers reade 
+<lb/>also the Commentaries of <persName>Vasco de Gama</persName>, <persName>Franciscus Alvares</persName>, who travelled <placeName>Æthiopia</placeName>. But of 
+<lb/>all others <persName>John Leo</persName> hath most exactly described it; as also <persName>Andrew Thevet</persName>, and <persName>Francis Alvarez</persName>, 
+<lb/>both travellers of <placeName>Africa</placeName>. Concerning the <placeName>river Nilus</placeName>, the greatest in all the world, you have the 
+<lb/>letters of <persName>John Ramusio</persName> and <persName>Jerome Fracastorius</persName>. Of <placeName>Africa itself</placeName>, as by me read at large in the 
+<lb/>second volume of <persName>Mr. Richard Hakluyts</persName> English Voyages.
+</ab>
+
+<pb facs="#f024"/>
+<ab>
+<lb/>--TEI Transcription for Seq.25
+</ab>
+
+<pb facs="#f025"/>
+<ab>
+<lb/>--TEI Transcription for Seq.26
+</ab>
+
+<pb facs="#f026"/>
+<ab>
+<lb/>--TEI Transcription for Seq.27
+</ab>
+
+<pb facs="#f027"/>
+<ab>
+<lb/>--TEI Transcription for Seq.28
+</ab>
+
+<pb facs="#f028"/>
+<ab>
+<lb/>--TEI Transcription for Seq.29
+</ab>
+
+<pb facs="#f029"/>
+<ab>
+<personalstmt> <!--I, Alex Wheeler, transcribed and encoded seq. 30 of this text--> </personalstmt>
+<fw type="pageNum" place="top">7</fw>
+<lb/>--This Prouince was about the yeere <date when="1518">1518</date> forcibly subdued to the
+<lb/>Spanish gouernment, vnder the command and conduct of <persName ref="#corlez">Fer-
+<lb/>nando Corlez</persName>: who with the great slaughter of his owne people,
+<lb/>but farre greater of the inhabitants fighting for their liberty, con-
+<lb/>quered the fame. It is a region rich of siluer and golde: for it
+<lb/>hath very many riuers yeelding sands or graines of perfect gold.
+<lb/>Vpon the coast of this countrey are many commodious fishings for pearle. Salt
+<lb/>lakes here are diuers, the water whereof through the heat of the Sunne is conuer-
+<lb/>ted into excellent salt. Here is great abundance of <hi rend="fiftula">Cassia fiftula</hi>, and a kind of fruit in
+<lb/>the Mexican language called <hi rend="italic">Cacao</hi>, somewhat resembling an Almond: which is
+<lb/>with them very highly esteemed; for hereof they make a kinde of drinke, to their
+<lb/>owne taste most delicate. The seas and riuers belonging to this countrey abound
+<lb/>mightily with fish. Their riuers also breed Crocodiles, whose flesh is food to the
+<lb/>inhabitants. In these places this creature is for the most part aboue twenty foot
+<lb/>long. It is a countrey very mountainous and beset here and there with most lofty
+<lb/>and cragged rocks. So great is the diuersity of languages in these regions, that one
+<lb/>cannot vnderstand another without an Interpreter. The principall Colonies to
+<lb/>be seene in this Table, which in <placeName ref="#spaine">New Spaine</placeName> haue been planted by the Spaniards, 
+<lb/>are first <placeName ref="#compostella">Compostella</placeName>, the feat of a bishop, and one of the Kings counsels. <placeName ref="#colima">Colima</placeName>, 
+<lb/>by another name called the city of the Purification. <placeName ref="#guadalajara">Guadalajara</placeName>, a towne most fa-
+<lb/>mous, and head of the Kingdome of <placeName ref="#gallicia">New Gallicia</placeName>. <placeName ref="#mecboacan">Mecboacan</placeName>, a Bishops sea also.
+<lb/><placeName ref="#sacatula">Sacatula</placeName>, the city of the Angels, a mother-towne and a Bishoprick. <placeName ref="#mexico">Mexico</placeName>, a Kingly
+<lb/>city, or rather Queene of all the cities in the New world; situate vpon the banke
+<lb/>of a lake, or rather of a fenne: yea the very ground-plot of this city is so fenny, that
+<lb/>you cannot come thither, nor depart thence but ouer bridges and cawseys. The 
+<lb/>lake adioyning is falt, being six leagues long and fiue broad. Fishes it hath none,
+<lb/>but very small ones; which more aptly may be called wormes than fishes: of
+<lb/>whose putrefaction, which is there caused by the heat of the Summer, the aire is some-
+<lb/>times so infected, that it is most vnholesome dwelling there: yet is it as much fre-
+<lb/>quented with inhabitants and merchants, as any mart-towne in <placeName ref="#europe">Europe</placeName>. It is a large 
+<lb/>city, for in compasse it containeth about three leagues. The other lake adioining 
+<lb/>to this, is fresh water, and very plentifull of fish; wherein also stand many townes.
+<lb/>There are likewise a great number vpon the banks of either lake. In this city (as
+<lb/><persName ref="#giraua">Ierome Giraua</persName> reporteth) there was by <persName ref="#paul">Pope Paul</persName> the third established the feat of 
+<lb/>an Archbishop, in the yeere <date when="1547">1547</date>. 
+<lb/>This citie was taken by the Spaniards 140 yeeres after the first foundation
+<lb/>thereof; <persName ref="#montezuma">Montezuma</persName> at the same time being King, the ninth in number. A won-
+<lb/>der, how in so few yeeres it should grow to such largenesse and magnificence.
+<lb/>The nature, situation, and customes of this citie and of the territory adiacent, who
+<lb/>desires more perfectly to know, may reade the relations of <persName ref="#corlez">Fernando Corlez</persName>. Ex-
+<lb/>tant they are in the volume intituled <hi rend="italic">Nouus Orbis</hi>; and in the volume of Nauiga-
+<lb/>tions printed at <placeName ref="#venice">Venice</placeName> in Italian: but especially <persName ref="#Gonsaluo">John Gonsaluo </persName>, who in his little
+<lb/>booke of <placeName ref="#china">China</placeName> hath a most large description of this region. You haue also many
+<lb/>notable discourses hereof in the third Volume of <persName ref="#Hakluyts">M. Hakluyts  </persName> English voyages. 
+</ab>
+
+<pb facs="#f030"/>
+<ab>
+<lb/>--TEI Transcription for Seq.31
+</ab>
+
+<pb facs="#f031"/>
+<ab>
+<personalstmt> <!--Transcribed and encoded by Tyrell Fuller. --> </personalstmt>
+<lb/><fw type="header" place="top">The Prouince of <placeName ref="#CVLIACAN">CVLIACAN</placeName></fw>
+<lb/>THis Prouince of <placeName ref="#CVLIACAN">CVLIACAN</placeName> is part of the kingdome of <placeName ref="#New Galicia">New Galicia</placeName>. It was discouered
+<lb/>vnder the gouernment of [Charles the fifth], in the year <date when="1530">1530</date>. In this region is one only colonie
+<lb/>of Spaniards called, The towne of <placeName ref="#S. Michael. Villages">S. Michael. Villages</placeName> here are very many, bujlt by the
+<lb/>inhabitants; all which before the Spaniards arriuall were at their own libertie: yeelding obedience
+<lb/>to no King or Gouernour. The region is indifferently furnished with things necessary. Out of the
+<lb/>mountaines is digged great abundance of siluer. The inhabitants are addicted to war and robbery.
+<lb/>They that dwell vpon the coast, employ most of their time in fishing; but the vplandish people
+<lb/>liue by hunting. They goe naked, couering only their priuities with a piece of Cotton. They haue
+<lb/>many languages. They lodge for the most part in the open air. They are the most beggerly nation
+<lb/>
+<lb/><fw type="header" place="top"><placeName ref="#CVBA">CVBA</placeName> and <placeName ref="#HISPANIOLA">HISPANIOLA</placeName></fw>
+<lb/>THis Island of <placeName ref="#Cuba">Cuba</placeName> is so called by the naturall inhabitants; but by the Spaniards <placeName ref="#Fernandina">Fernandina</placeName>
+<lb/>and <placeName ref="#Joanna">Joanna</placeName>; and (as <persName ref="#Peter">Peter</persName> Martyr reports) Alpha and Omega. In length it extendeth East and
+<lb/>West 300 Spanish leagues. The land is very mountainous, but rich of gold, and excellent copper.
+<lb/>Madder, which the Apothecaries, because it is very apt to die wooll and leather, call Diers
+<lb/>madder, is heere found in great abundance. It is in all places beautified with thicke woods, with
+<lb/>riuers and pooles of fresh water : albeit there are lakes naturally salt. The woods breed vp
+<lb/>Hogges and Kine in great plentie : the riuers sometimes yeeld grains of gold. It contains fix
+<lb/>colonie or townes of Spaniards : the principall whereof called <placeName ref="#Sant Jago">Sant Jago</placeName>, is the feat of a Bishop.
+<lb/>But <placeName ref="#Hauana">Hauana</placeName> is the chiefe mart and hauen towne of all the Isle. Two wonderfull things
+<lb/><persName ref="#Gousaluo de Ouiedo">Gousaluo de Ouiedo</persName> describes in this Isle : one, a valley extended betweene two mountaines
+<lb/>some three Spanish miles in length : (the Ancients would haue named it, as in <placeName ref="#Gallia Narbonenst">Gallia
+<lb/>Narbonenst</placeName>, the now called <placeName ref="#Prouence">Prouence</placeName>, The stony field) which bringeth forth round stones in so
+<lb/>great abundance, that a man may lade whole shippes with them, being by nature framed so
+<lb/>exactly round, that no Turner can amend them. The other is a mountaine not farre from the sea,
+<lb/>whereout issueth a kind of Bitumen or Pitch in so great a quantity, that it runnes into the sea, and
+<lb/>there floats farre and wide, according as it is carried by the waues or windes. This Pitch, they say,
+<lb/>is very commodious for the calcking and braying of ships. <placeName ref="#HISPANIOLA">HISPANIOLA</placeName> lies to the East of
+<lb/><placeName ref="#Cuba">Cuba</placeName>. This Isle by the first inhabitants was called <placeName ref="#Quisqueya">Quisqueya</placeName>, afterwards <placeName ref="#Haiti">Haiti</placeName> and
+<lb/><placeName ref="#Cipanga">Cipanga</placeName> likewise. But the Spaniards name it <placeName ref="#Hispaniola">Hispaniola</placeName>, and (of the principall city)
+<lb/><placeName ref="#SanDomingo">San Domingo</placeName>. The compasle here of is; 50 leagues. It is an Isle rich in Sugar, and it hath many Gold
+<lb/>mines. It is very strange that is reported concerning a little flie very common in this Island, called
+<lb/>by the inhabitants <placeName ref="#Cucuyo">Cucuyo</placeName>, and as big almost as one of the ioynts of a mans finger, hauing foure
+<lb/>wings, two very thin, and the other two greater and harder, wherewith the thin ones are couered.
+<lb/>This shineth in the night as glowe-wormes doe with vs. The force of this light is not only in his
+<lb/>eyes, sparckling like fire, but also in his sides, so that by lifting vp his wings, he shines more
+<lb/>flying, than when he lies still. By the naturall curtesie of this little creature, all their chambers,
+<lb/>they say, are so lightsome euen in the darkest nights, that a man may reade and write very plainly
+<lb/>without the helpe of any other light. This light of theirs is augmented by their number ; so that
+<lb/>many will giue a greater light than a few. Whoso deires a larger description of these Islands, let
+<lb/>him reade the history of the New world written by <persName ref="#Jerome Benzo">Jerome Benzo</persName>, <persName ref="#Peter">Peter</persName> Martyr his Decads of
+<lb/>Islands lately discouered, and other writers of <placeName ref="#America">America</placeName>.
+</ab>
+
+<pb facs="#f032"/>
+<ab>
+<lb/>--TEI Transcription for Seq.33 
+</ab>
+
+<pb facs="#f033"/>
+<ab>
+<lb/>--TEI Transcription for Seq.34
+</ab>
+
+<pb facs="#f034"/>
+<ab>
+<lb/>--TEI Transcription for Seq.35
+</ab>
+
+<pb facs="#f035"/>
+<ab>
+<lb/>--TEI Transcription for Seq.36
+</ab>
+
+<pb facs="#f036"/>
+<ab>
+<lb/>--TEI Transcription for Seq.37
+</ab>
+
+<pb facs="#f037"/>
+<ab>
+<lb/>--TEI Transcription for Seq.38
+</ab>
+
+<pb facs="#f038"/>
+<ab>
+<lb/>--TEI Transcription for Seq.39
+</ab>
+
+<pb facs="#f039"/>
+<ab>
+<lb/>--TEI Transcription for Seq.40
+</ab>
+
+<pb facs="#f040"/>
+<ab>
+<lb/>--TEI Transcription for Seq.41
+</ab>
+
+<pb facs="#f041"/>
+<ab>
+<lb/>--TEI Transcription for Seq.42
+</ab>
+
+<pb facs="#f042"/>
+<ab>
+<lb/>--TEI Transcription for Seq.43
+</ab>
+
+<pb facs="#f043"/>
+<ab>
+<lb/>--TEI Transcription for Seq.44
+</ab>
+
+<pb facs="#f044"/>
+<ab>
+<lb/>--TEI Transcription for Seq.45
+</ab>
+
+<pb facs="#f045"/>
+<ab>
+<lb/>--TEI Transcription for Seq.46
+</ab>
+
+<pb facs="#f046"/>
+<ab>
+<lb/>--TEI Transcription for Seq.47
+</ab>
+
+<pb facs="#f047"/>
+<ab>
+<lb/>--TEI Transcription for Seq.48
+</ab>
+
+<pb facs="#f048"/>
+<ab>
+<lb/>--TEI Transcription for Seq.49
+</ab>
+
+<pb facs="#f049"/>
+<ab>
+<lb/>--TEI Transcription for Seq.50
+</ab>
+
+  </div></body>
+      </text>
