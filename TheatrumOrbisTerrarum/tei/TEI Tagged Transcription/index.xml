@@ -1,7 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI Tagged Transcription">
 <body><div>
-<pb facs="#f000"/>
-<personalstmt> <!--This my personal Statement--> </personalstmt>
+<!--
+<pb facs="#f000" />
+<personalstmt> <This my personal Statement </personalstmt>
 <ab>
         <lb/><fw type="header" place="top">THEATRVM ORBIS TERRARVM</fw>
         <lb/><hi rend="italic">THEA</hi>
@@ -9,7 +10,7 @@
         <lb/><persName ref="#ortelius">Abraham Ortelius</persName>
         <lb/><date when="1606">1606</date>
         <lb/><foreign xml:lang="la">Braccas meas vescimini!</foreign>
-        <lb/><note type="historical"><!--This edition was printed in--><placeName ref="#london"><!--London--></placeName> <!--during --><persName ref="#james1"><!--King James--></persName><!--’ reign.--></note>
+        <lb/><note type="historical"><!This edition was printed in><placeName ref="#london"><!London</placeName> <!during<persName ref="#james1"><!King James></persName><!’ reign.></note>
         <lb/><unclear reason="faded" cert="low">Ortel...</unclear>
         <lb/><supplied reason="lost" resp="#leblanc">Ortelius</supplied>
         <lb/>
@@ -31,20 +32,21 @@
             </figure>
         <lb/><signature type="printed">LL</signature>
 </ab>
-<pb facs="#f001"/>
+<pb facs="#f001" />
 <ab>
-<lb/>--TEI Transcription for Seq.2
+<lb />TEI Transcription for Seq.2
 </ab>
 
-<pb facs="#f002"/>
+<pb facs="#f002" />
 <ab>
-<lb/>--TEI Transcription for Seq.3
+<lb />TEI Transcription for Seq.3
 </ab>
 
-<pb facs="#f003"/>
+<pb facs="#f003" />
 <ab>
-<lb/>--TEI Transcription for Seq.4
+<lb />TEI Transcription for Seq.4
 </ab>
+-->
 
 <pb facs="#f004"/>
 <ab>
