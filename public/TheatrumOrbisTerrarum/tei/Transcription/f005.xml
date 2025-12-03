@@ -1,15 +1,15 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f005"/>
-<ab>
-<hi rend="italic">
-<lb/>The sway, by Sea &amp; Land, grat IAMES doth beare,
-<lb/>His Birth, His Bloud, These Kingdomes figure here:
-</hi>
-</ab>
-<ab>
-<hi rend="italic">
-<lb/>But, were his seuerall vertues to be crown'd
-<lb/>A World, past thine, Ortelius, must be found.
-</hi>
-</ab>
+    <ab>
+        <hi rend="italic">
+            <lb/>The sway, by Sea &amp; Land, grat <persName ref="#johnNorton">IAMES</persName> doth beare,
+            <lb/>His Birth, His Bloud, These Kingdomes figure here:
+        </hi>
+    </ab>
+    <ab>
+        <hi rend="italic">
+            <lb/>But, were his seuerall vertues to be crown'd
+            <lb/>A World, past thine, <persName ref="#ortelius">Ortelius</persName>, must be found.
+        </hi>
+    </ab>
 
 </div></body></text>
