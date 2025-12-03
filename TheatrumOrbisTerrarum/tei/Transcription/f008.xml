@@ -1,14 +1,14 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f008"/>
 <ab>
     <lb/><!-- Following transcription is partial. TEI by KAB to see if adding attributes to persName tags will work, and to test centering text, etc. -->
-    <lb/><hi style="text-align: center;">THE LIFE OF
+    <lb/><figure rend="middle-top">THE LIFE OF
         <lb/><persName>ABRAHAM ORTELL</persName>,
         <lb/>COSMOGRAPHER TO <persName>PHILIP</persName> THE
         <lb/>SECOND, LATE KING OF SPAINE,
         <lb/>written first in Latine by <persName style="font-style: italic;">Francis Sweert</persName> of Antwerpe, his familiar
         <lb/><hi style="font-style: italic;">and louing friend, and now translated into English by</hi>
         <lb/><persName>W.B.</persName>, <hi style="font-style:italic;">as great a louer of his learning 
-        <lb/>and vertues</hi>.</hi>
+        <lb/>and vertues</hi>.</figure>
         
         <lb/>THe stocke of the ORTELS flourished not long since, and liued in good state and credit at
         <lb/><placeName>Ausburg</placeName> in <placeName>Bayern</placeName>, (<foreign xml:lang="la" style="font-style: italic;">Augustam vindelicorum</foreign>, the Latines called it.) From that family came

@@ -1,5 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f006"/>
 <ab>
+<figure rend="middle-top">
 <lb/>ABRAHAMI ORTELII
 <lb/>QVEM VRBS VRBIVM ANTVERPIA EDITIT,
 <lb/>REX REGVM PHILLIPVS GEOGRAPHVM HABVIT,
@@ -19,9 +20,12 @@
 <lb/>OBIIT IIII.KAL. IVLII. ANNO CIƆ.XCIIX.
 <lb/>VIXIT ANN. LXXI. MENSS.II. DIES IIXX.
 <lb/>COLII EX SORORE NEPOTES B.M.POSS.
+</figure>
 </ab>
 <ab>
+<figure rend="middle-top">
 <lb/>CONTEMNO ET ORNO MENTE, MANV
+</figure>
 </ab>
 
 </div></body></text>

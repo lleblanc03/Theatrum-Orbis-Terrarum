@@ -1,6 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f021"/>
 <ab> 
-<personalstmt><!--Transcribed and encoded by Nicholas Vitale and Karolina Rosberg--></personalstmt><placeName>ASIA</placeName>
+<personalstmt><!--Transcribed and encoded by Nicholas Vitale and Karolina Rosberg--></personalstmt>
+<lb/><figure rend="middle-top"><placeName>ASIA</placeName></figure>
 <lb/>
 <lb/><placeName>Asia</placeName> diuides it selfe from <placeName>Europe</placeName> by the river <placeName>Tanais</placeName>, and a streight line drawen
 <lb/>from the fountaines thereof to the <placeName>Bay of S. Nicolas</placeName> in the <placeName>North Ocean</placeName>:

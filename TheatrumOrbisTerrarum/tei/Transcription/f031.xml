@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f031"/>
 <ab>
 <personalstmt> <!--Transcribed and encoded by Tyrell Fuller. --> </personalstmt>
-<lb/><fw type="header" place="top">The Prouince of <placeName ref="#CVLIACAN">CVLIACAN</placeName></fw>
+<lb/><figure rend="middle-top"><fw type="header" place="top">The Prouince of <placeName ref="#CVLIACAN">CVLIACAN</placeName></fw></figure>
 <lb/>THis Prouince of <placeName ref="#CVLIACAN">CVLIACAN</placeName> is part of the kingdome of <placeName ref="#New Galicia">New Galicia</placeName>. It was discouered
 <lb/>vnder the gouernment of [Charles the fifth], in the year <date when="1530">1530</date>. In this region is one only colonie
 <lb/>of Spaniards called, The towne of <placeName ref="#S. Michael. Villages">S. Michael. Villages</placeName> here are very many, bujlt by the
@@ -12,7 +12,7 @@
 <lb/>liue by hunting. They goe naked, couering only their priuities with a piece of Cotton. They haue
 <lb/>many languages. They lodge for the most part in the open air. They are the most beggerly nation
 <lb/>
-<lb/><fw type="header" place="top"><placeName ref="#CVBA">CVBA</placeName> and <placeName ref="#HISPANIOLA">HISPANIOLA</placeName></fw>
+<lb/><figure rend="middle-top"><fw type="header" place="top"><placeName ref="#CVBA">CVBA</placeName> and <placeName ref="#HISPANIOLA">HISPANIOLA</placeName></fw></figure>
 <lb/>THis Island of <placeName ref="#Cuba">Cuba</placeName> is so called by the naturall inhabitants; but by the Spaniards <placeName ref="#Fernandina">Fernandina</placeName>
 <lb/>and <placeName ref="#Joanna">Joanna</placeName>; and (as <persName ref="#Peter">Peter</persName> Martyr reports) Alpha and Omega. In length it extendeth East and
 <lb/>West 300 Spanish leagues. The land is very mountainous, but rich of gold, and excellent copper.
