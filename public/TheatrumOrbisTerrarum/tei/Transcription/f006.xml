@@ -2,7 +2,9 @@
     <ab>
         <figure rend="middle-top">
             <figDesc xml:lang="la">
-                <lb/><persName ref="#ortelius">ABRAHAMI ORTELII</persName>
+                <head>
+                    <persName ref="#ortelius">ABRAHAMI ORTELII</persName>
+                </head>
                 <lb/>QVEM VRBS VRBIVM <placeName ref="#antwerp">ANTVERPIA</placeName> EDITIT,
                 <lb/>REX REGVM <persName ref="#philipII">PHILLIPVS</persName> GEOGRAPHVM HABVIT,
                 <lb/>MONVMENVM HIC VIDES.
