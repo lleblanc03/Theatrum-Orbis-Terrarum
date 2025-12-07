@@ -25,7 +25,10 @@
         </figure>
     </ab>
     <ab>
-        <lb/>[fleurons] <!--Figuredesc - Fleurons-->
+        <lb/>
+            <figureDesc>
+                [fleurons]
+            </figureDesc>
     </ab>
 
 </div></body></text>
