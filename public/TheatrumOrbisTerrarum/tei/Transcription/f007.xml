@@ -7,7 +7,7 @@
             <lb/>AND MOST HAPPY 
             <lb/>PRINCE, <persName ref="#JamesI">IAMES</persName> BY THE
             <lb/>GRACE OF GOD, KING
-            <lb/>OF GREAT <placeName ref="#greatBritain">BRITAINE</placeName>,
+            <lb/>OF GREAT <placeName ref="#Britian">BRITAINE</placeName>,
             <lb/><placeName ref="#france">FRANCE</placeName> AND <placeName ref="#ireland">IRE-
             <lb/>LAND</placeName>, DEFEN-
             <lb/>DER OF THE FAITH, &amp;c.
@@ -16,16 +16,16 @@
             <lb/>IESTIES MOST 
             <lb/>HVMBLE AND
             <lb/>FAITHFVLL SER-
-            <lb/>[V]ANT CONSECRATETH
+            <lb/>VANT CONSECRATETH
             <lb/>THESE IMMORTALL LA-
             <lb/>BOVRS OF ABRAHAM
-            <lb/><persName ref="#ortelius">[OR]TELIVS</persName>, TRANS-
-            <lb/>[L]ATED INTO
+            <lb/><persName ref="#ortelius">ORTELIVS</persName>, TRANS-
+            <lb/>LATED INTO
             <lb/>ENGLISH
         </figure>
     </ab>
     <ab>
-        <lb/>[fleurons]
+        <lb/>[fleurons] <!--Figuredesc - Fleurons-->
     </ab>
 
 </div></body></text>
