@@ -616,7 +616,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <pb facs="#f010" />
 <ab>
 <personalstmt> <!--I, Iz Shields, worked on sequence 11, facsimile 10, of this text.--> </personalstmt>
-<lb /><figure rend="middle-top"><fw type="header" place="top"><persName ref="#ortelius">Abraham Orte-</persName></fw>
+<lb /><figure rend="middle-top"><head><persName ref="#ortelius">Abraham Orte-</persName></head>
 <lb /><fw type="header" place="top"><persName ref="#ortelius">lius</persName> Citizen of <placeName ref="#antwerp">Ant-</placeName></fw>
 <lb /><fw type="header" place="top"><placeName ref="#antwerp">-werpe</placeName>,and Geographer to Philip the</fw>
 <lb /><fw type="header" place="top">second, King of<placeName ref="#spaine"> Spaine</placeName>, to the cour-</fw>
@@ -644,7 +644,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <lb />it is, when the Mappe being layed before our eyes, we may behold things done, or places where they were done, as if they were
 <lb />at this time present and in doing. For how much we are holpen, when as in the Holy Scripture, we read of the journey of the
 <lb /> <note type="historical"><!--members of the anchient Hebrew nation.-->Israelites</note>, which they made from </hi><placename ref="#egypt">Egypt</placename><hi rend="italic">, through the Red sea, and that same huge Wildernesse, into the land of promise,
-<lb />when as looking upon the Mappe of </hi><placename ref="#palestina">Palestina</placename><hi rend="italic">, we doe almost aswell see it as if we were there, I think any student in Divini-
+<lb />when as looking upon the Mappe of </hi><placename ref="#palestine">Palestina</placename><hi rend="italic">, we doe almost aswell see it as if we were there, I think any student in Divini-
 <lb />tie, or that History hath st made trial. Which things being so, how much those which are students and lovers of </hi>Histories<hi rend="italic">
 <lb />are cornbred, hindred and stayd, yea, &amp; many times, even while they are in their race and continued course, drawne backe, it is
 <lb />an easie matter to conceive, when either the description of all countreys cannot be gotten, or if they may be gotten, they are dea-
