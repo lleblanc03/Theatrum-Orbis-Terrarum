@@ -11,7 +11,7 @@
         </figure>
     </ab>
     <ab>
-        <figure rend="left-top">
+        <figure rend="middle-top">
             <figDesc xml:lang="la">
                 <lb/><persName ref="#ortelius">ABRAHAMI ORTELI </persName> <placeName ref="#antwerp">ANTVERP</placeName>.
                 <lb/>GEOGRAPHI REGII.
@@ -19,14 +19,14 @@
         </figure>
     </ab>
     <ab>
-        <figure rend="left-top">
+        <figure rend="middle-top">
             <lb/>THE THEATRE OF THE WHOLE
             <lb/>WORLD: SET FORTH BY THAT
             <lb/><hi rend="italic">Excellent Geographer <persName ref="#ortelius">Abraham Ortelius</persName>.</hi>
         </figure>
     </ab>
     <ab>
-        <figure rend="right-top">
+        <figure rend="middle-top">
             <lb/><placeName ref="#london">LONDON</placeName>,
             <lb/>Printed by <persName ref="#johnNorton">IOHN NORTON</persName>; Printer to the Kings most excellent Maiestie in 
             <lb/>Hebrew, Greeke, and Latine. <date when="1606">1606</date>.
