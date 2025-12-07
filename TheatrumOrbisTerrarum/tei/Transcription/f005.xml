@@ -1,13 +1,15 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f005"/>
-<ab>
-    <p rend="left-top" style="tall">
+<ab margin="left-top">
+    <p>
         <hi rend="italic">
             <lb/>The sway, by Sea &amp; Land, great <persName ref="#JamesI">IAMES</persName> doth beare,
             <lb/>His Birth, His Bloud, These Kingdomes figure here:
         </hi>
     </p>
+</ab>
 
-    <p rend="right-top" style="tall">
+<ab margin="right-top">
+    <p>
         <hi rend="italic">
             <lb/>But, were his seuerall vertues to be crown'd
             <lb/>A World, past thine, <persName ref="#ortelius">Ortelius</persName>, must be found.
