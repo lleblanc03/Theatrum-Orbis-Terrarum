@@ -2,7 +2,7 @@
 <body><div>
 <!--
 <pb facs="#f000" />
-<personalstmt> <This my personal Statement </personalstmt>
+<respStmt> <This my personal Statement </respStmt>
 <ab>
         <lb/><fw type="header" place="top">THEATRVM ORBIS TERRARVM</fw>
         <lb/><hi rend="italic">THEA</hi>
@@ -227,7 +227,7 @@
 </ab>
 
 <pb facs="#f010"/>
-<personalstmt> <!--I, Iz Shields, worked on sequence 11, facsimile 10, of this text.--> </personalstmt>
+<respStmt> <!--I, Iz Shields, worked on sequence 11, facsimile 10, of this text.--> </respStmt>
     <ab>
         <figure rend="middle-top">
         <figDesc>
@@ -355,7 +355,7 @@
     </ab>
 
 <pb facs="#f012"/>
-<personalstmt><!--Transcribed and encoded Seq. 13/f012 - Valerie Hernandez FSU 28'--></personalstmt>
+<respStmt><!--Transcribed and encoded Seq. 13/f012 - Valerie Hernandez FSU 28'--></respStmt>
     <ab>
         <lb/> tongue, ( to wit, <placeName ref="#hungary">Hungary</placeName>, <placeName ref="#transylvania">Transsyluania</placeName>,<placeName ref="#pland"> Polonia</placeName>, <placeName ref="#scandinavia">Scandia</placeName>, and <placeName ref="#russia">Rusia</placeName>.) Thus hausing finished <placeName ref="#europe">Europe</placeName>, we come vn-
         <lb/>to the Isthmus or Straight-land, which is betweene the head of the River Tanais and the <placeName ref="#northSea">North sea</placeName>, which is in deed the
@@ -405,9 +405,9 @@
 
 
 <pb facs="#f016"/>
-<personalstmt><!--I, Meghan Spargo, transcribed and tagged Seq.17 of this text.--> </personalstmt>
+<respStmt><!--I, Meghan Spargo, transcribed and tagged Seq.17 of this text.--> </respStmt>
 
-<ab>
+<ab rend="description">
     <figure rend="middle-top">
         <figDesc>
             <head>
@@ -613,7 +613,7 @@
 </p>
 
 <pb facs="#f017"/>
-<lb/> <personalstmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></personalstmt>
+<lb/> <respStmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></respStmt>
 <ab>
     <figDesc><foreign xml:lang="la"><head>TYPVS ORBIS TERRAVM.</head></foreign></figDesc>
         <lb/>
@@ -667,7 +667,7 @@
 
 <pb facs="#f018"/>
 <ab>
-<lb/><personalstmt><!--We, Audrey Gauthier and Haley Jensen, transcribed and encoded seq 19 of this text at Framingham State University.--></personalstmt>
+<lb/><respStmt><!--We, Audrey Gauthier and Haley Jensen, transcribed and encoded seq 19 of this text at Framingham State University.--></respStmt>
 <lb/><figure rend="middle-top">
     <figDesc><head><placeName ref="#europe">EVROPE</placeName></head></figDesc>
 </figure>
@@ -767,7 +767,7 @@
 
 
 <pb facs="#f019"/>
-<personalstmt> <!--Transcribed and first encoded by Mary Zouharis from Framingham State University!--> </personalstmt>
+<respStmt> <!--Transcribed and first encoded by Mary Zouharis from Framingham State University!--> </respStmt>
 <ab>
 <lb/><p rend="left-top"><foreign xml:lang="la">EVROPAM, SIVE CEL
 <lb/>TICAM VETEREM,
@@ -793,7 +793,7 @@
 </ab>
 
 <pb facs="#f020"/>
-<personalstmt><!--I, Emily Agnelli, with proofreading and additional help from Mary Zouharis, transcribed seq. 21 of this text--></personalstmt>
+<respStmt><!--I, Emily Agnelli, with proofreading and additional help from Mary Zouharis, transcribed seq. 21 of this text--></respStmt>
 <ab>
 <lb/>
 <hi rend="italic">saith, have seriously thought: nor in</hi> 
@@ -1500,7 +1500,7 @@ ty
 
 <pb facs="#f021"/>
 <ab> 
-<personalstmt><!--Transcribed and encoded by Nicholas Vitale and Karolina Rosberg--></personalstmt>
+<respStmt><!--Transcribed and encoded by Nicholas Vitale and Karolina Rosberg--></respStmt>
 <lb/>        
     <figure rend="middle-top">
         <figDesc>
@@ -1573,7 +1573,7 @@ ty
 </ab>
 
 <pb facs="#f023"/>
-<personalstmt><!--Transcribed and Encoded by Avery Slavin--></personalstmt>
+<respStmt><!--Transcribed and Encoded by Avery Slavin--></respStmt>
 <ab>
     <figure rend="middle-top">
         <figDesc>
@@ -1684,7 +1684,7 @@ ty
 </ab>
 
 <pb facs="#f029"/>
-<personalstmt> <!--I, Alex Wheeler, transcribed and encoded seq. 30 of this text--> </personalstmt>
+<respStmt> <!--I, Alex Wheeler, transcribed and encoded seq. 30 of this text--> </respStmt>
 <ab>
 <figure rend="middle-top"><fw type="pageNum" place="top">7</fw></figure>
 <lb/><figure rend="middle-top"><figDesc><head>NEVV SPAINE</head></figDesc></figure>
@@ -1741,7 +1741,7 @@ ty
 
 <pb facs="#f031"/>
 <ab>
-<personalstmt> <!--Transcribed and encoded by Tyrell Fuller. --> </personalstmt>
+<respStmt> <!--Transcribed and encoded by Tyrell Fuller. --> </respStmt>
 <lb/><figure rend="middle-top"><figDesc><head>The Prouince of <placeName ref="#culiacán">CVLIACAN</placeName></head></figDesc></figure>
 <lb/>THis Prouince of <placeName ref="#culiacán">CVLIACAN</placeName> is part of the kingdome of <placeName ref="#newGalicia">New Galicia</placeName>. It was discouered
 <lb/>vnder the gouernment of [Charles the fifth], in the year <date when="1530">1530</date>. In this region is one only colonie
