@@ -29,7 +29,7 @@
         <lb/>	From <placeName ref="#antwerp">Antwerp</placeName>, this present yeere <date when="1570">1570</date>.
         <lb/>
         <lb/>
-        <lb/><figure rend="bottom-right">THE</figure>
+        <lb/><figure rend="bottom-right"><figDesc><head>THE</head></figDesc></figure>
     </ab>
 
 </div></body></text>

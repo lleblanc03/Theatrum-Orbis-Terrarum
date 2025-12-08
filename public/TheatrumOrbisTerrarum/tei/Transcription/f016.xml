@@ -1,122 +1,207 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f016"/>
-<ab>
-<lb/><personalstmt><!--I, Meghan Spargo, transcribed and tagged Seq.17 of this text.--> </personalstmt>
-<lb/><figure rend="middle-top">A DESCRIPTION OF THE
-<lb/>WHOLE WORLD.</figure>
-<lb/> 
-<lb/>THIS Map next ensuing containeth and representeth the portraiture of the whole earth,
-<lb/>and of the maine Ocean that enuirons &amp; compasseth the same: all which earthly Globe
-<lb/>the Ancients (who were not as then acquainted with the New world, not long since de-
-<lb/>scried) diuided into three parts; namely, <hi rend="italic"><placeName ref="#africa">Africa</placeName></hi>, <hi rend="italic"><placeName ref="#europe">Europe</placeName></hi>, and <hi rend="italic"><placeName ref="#asia">Asia</placeName></hi>. But since that discouery
-<lb/>of <hi rend="italic"><placeName ref="#america">America</placeName></hi>, the learned of our age haue made that a fourth part, and the huge Continent
-<lb/>vnder the <placeName ref="#southpole">South pole</placeName>, a fifth, <hi rend="italic"><persName>Gerardus Mercator</persName></hi> the Prince of modern Geographers in his
-<lb/>neuer-sufficiently-commended vniuersall Table or Map of the whole world, diuides this
-<lb/>Circumference of the earth into three Continents: the first he calles that, which the Anci-
-<lb/>ents diuided into three parts, and from whence the holy Writ beares record, that mankind had their first origi-
-<lb/>nall, &amp; first was seated: the second, is that which at this present is named <hi rend="italic"><placeName ref="#america">America</placeName></hi> or the <hi rend="italic"><placeName ref="#westindies">VVest Indies</placeName></hi>: for the third,
-<lb/>he appoints the <placeName ref="#southmaine">South maine</placeName>, which some call <hi rend="italic"><placeName ref="#magellanica">Magellanica</placeName></hi>, as yet on very few coasts thorowly discouered. That
-<lb/>this orbe or masse of the earthly Globe contains in circuit, where it is largest, 5400 German or 21600 Italian
-<lb/>miles, antiquity hath taught, &amp; late Writers haue subscribed to their opinion. <hi rend="italic">And these so manifold portions of earth</hi>
-<lb/>(sayth <hi rend="italic"><persName>Plinie</persName></hi> in the 11. booke of his Naturall historie) <hi rend="italic">yea rather, as some haue termed them, the pricke or center of the world
-<lb/>(for so small is the earth in comparison of the whole frame of the world) this is the matter, this is the seat of our glorie. Here we enioy
-<lb/>honours, here we exercise authoritie, here we hunt after riches, here men turmoile and tire themselues, here we moue and maintaine ciuill
-<lb/>dissensions, and by mutuall slaughter make more roome vpon the earth. And to let passe the publike tumults of the world, this in which
-<lb/>we force the borderers to giue place and remoue farther off, and where we incroch by stelth vpon our neighbors lands: as he that extends
-<lb/>his lands &amp; lordships farthest, and cannot abide that any should seat themselues too neere his nose, How great, or rather how small a por-
-<lb/>tion of earth doth he enioy? Or when he hath glutted his auarice to the full, How little shall his dead carcase possesse?</hi> Thus far <hi rend="italic"><persName>Plinie</persName>.</hi>
-<lb/>
-<lb/>The situation of this earth and sea, the disposition of the seuerall regions, with their inlets and gulfs, the maners and inclinations of the people, and other memorable and note-worthy matters are described by men of ancienter times, such as follow:
-<lb/>
-<lb/><p rend="left-bottom"><persName>PTOLEMEY</persName> <placeName ref="#alexandria">ALEXANDRIA.</placeName>
-<lb/><persName>CAIVS PLINIVS</persName> 2, 3, 4, 5, and 6 books of his Natural history.
-<lb/><persName ref="#aristotele">ARISTOTELES</persName><foreign xml:lang="la">DE MVNDO</foreign> written and dedicated to <hi rend="italic"><persName>Alexander the Great</persName></hi>.
-<lb/><persName>STRABO</persName> in 17. books.
-<lb/><persName>SOLINVS POLYHISTO<supplied reason="unclear">R</supplied></persName>.
-<lb/><persName>POMPONIVS MELA</persName>.
-<lb/><persName>DIONYSIVS APHER</persName> and his Expositor.
-<lb/><persName>EVSTATHIVS</persName>.
-<lb/><persName>APVLEIVS</persName> in his booke of the World.
-<lb/><persName>DIODORVS SICVLVS</persName> in his fiue former books.
-<lb/><persName>MARTIANVS CAPELLA</persName>.
-<lb/><persName>PAVLVS OROSIVS</persName> in the beginning of his History.
-<lb/><persName>AETHICVS</persName> and another of that name surnamed <persName>SOPHISTA</persName>, not
-	<lb/>yet printed.
-<lb/><persName>IVLIVS</persName> the Oratour called by <hi rend="italic"><persName>Cassiodore</persName></hi>, PRIMVS.
-<lb/><persName>BEROSVS</persName> described the antiquitie of the World.
-<lb/><persName>ANTONIVS AVGVSTVS</persName> (if the title be true) set downe the
-	<lb/>Iournals of the Romane empire.
-<lb/><persName>SEXTVS AVIENVS</persName>, the sea coasts.
-<lb/><persName>STEPHANVS</persName>, the cities.
-<lb/><persName>VIKIVS SEQVESTER</persName>, in an Alphabeticall order, the Riuers,
-	<lb/>Fountaines, Lakes, Woods, Hilles, and Nations thereof.
-<lb/>
-<lb/><hi style="text-align: center">By new Writers, as</hi>
-<lb/>
-<lb/><persName>RAPHAEL VOLATERANVS</persName>.
-<lb/><persName>ABILFEDEA ISHMAEL</persName>, in the Arabian tongue.
-<lb/><persName>IOANNES HONTERVS</persName>; and <persName>HIERONYMVS OLIVERIV<supplied reason="illegible">S</supplied></persName>:
-	<lb/>both in verse.
-<lb/><persName>BARTHOLIMVS</persName> in the eighth booke of <hi rend="italic"><placeName ref="#austria">Austria</placeName></hi>.
-<lb/><persName>SEBASTIAN MVNSTER</persName>, that learned Diuine, diligent Histori-
-	<lb/>an, painfull Hebrician and Linguist, well studied in all maner
-	<lb/>of learning, and vnto whom the learned Student is so much
-	<lb/>beholding.
-<lb/><persName>ANTONIVS</persName> the Archbishop of <hi rend="italic"><placeName ref="#florence">Florence</placeName></hi>, in his Historie, in the
-	<lb/>third chapter of the first Title.
-<lb/><persName>DOMINICVS NIGER</persName>.
-<lb/><persName>IOHN AVENTINE</persName> in his second booke of his Annals.
-<lb/><persName>IOHN CAMERS</persName> in his Commentaries vpon <hi rend="italic"><persName>Solinus</persName></hi>.
-<lb/><persName>GEORGE RYTHAIMER.</persName>
-<lb/><persName>IOACHIM VADIAN</persName>.
-<lb/><persName>PETRVS IOANNES OLIVARIVS</persName> vpon <hi rend="italic"><persName>Mela</persName></hi>.
-<lb/><persName>LAVRENTIVS CORVINVS NOVOF</persName>.
-<lb/><persName>ANTONIVS VERONENSIS.</persName></p>
-<lb/>
-<lb/><p rend="right-bottom"><persName>GVALTERVS LVDOVICVS</persName>, in his Mirrour of Looking-glasse
-	<lb/>of the World.
-<lb/><persName>S. ISIDORE of <placeName>SIVILL</placeName></persName> in <hi rend="italic"><placeName ref="#spaine">Spaine</placeName></hi>.
-<lb/><persName>MICHAEL</persName> of <placeName>VILLANOVA</placeName>, in his Commentary vpon <hi rend="italic">Ptolemey</hi>.
-<lb/><persName>ZACHARIAS LILIVS VICENT</persName>.
-<lb/>HIERONYMVS GIRAVA in the Spanish tongue.
-<lb/><persName>ALEXANDER CITOLINVS</persName>, in his <hi rend="italic">Typocosmia</hi> or Patern of the
-	<lb/>World written in the Italian tongue.
-<lb/><persName>VINCENTIVS BELVACENSIS</persName> in the Mirrour of Histories the
-	<lb/>second booke
-<lb/><persName>GVILIELMVS POSTELLVS <hi rend="italic">Barentonius</hi></persName>.
-<lb/><persName>Sr. IOHN MANDEVILL</persName> and his companion of his trauels.
-<lb/><persName>ODERICVS</persName> of <placeName>FRIVLY</placeName>.
-<lb/><persName>MICHAEL NEANDER</persName> of <hi rend="italic"><placeName>Soraw</placeName></hi>.
-<lb/><persName>GAVDENTIVS MERVLA</persName> in his 5. booke of memorable things.
-<lb/><persName>FRANCISCVS MONACHI</persName>, in his Epistle to the <persName>Archbishop of
-	<lb/><hi rend="italic"><placeName ref="#panormus">Panormus</placeName></hi></persName>.
-<lb/><persName>ANDREAS THEVETVS</persName>, <persName>FRANCISVS BELLEFORESTIVS</persName>,
-	<lb/>and <persName>PETRVS HEYNSIVS</persName>, in French: but this latter also in
-	<lb/>Dutch rythmes of verse.
-<lb/><persName>LAVRENTIVS ANANIENSIS</persName>, in the Italian tongue.
-<lb/><persName>ANTONIVS PINETVS</persName>, in French: and he hath withal set
-	<lb/>forth many Tables and Mappes (as the title sheweth) of Coun-
-	<lb/>tries, Cities and Townes, aswell of <hi rend="italic"><placeName ref="#europe">Europe</placeName></hi>, as of <hi rend="italic"><placeName ref="#africa">Afrike</placeName></hi>, <hi rend="italic"><placeName ref="#asia">Asia</placeName></hi>
+<personalstmt><!--I, Meghan Spargo, transcribed and tagged Seq.17 of this text.--> </personalstmt>
+    <ab>
+    <figure rend="middle-top">
+        <figDesc>
+        <head>
+            <lb/>A DESCRIPTION OF THE
+            <lb/>WHOLE WORLD.
+        </head>
+        </figDesc>
+    </figure>
+    <lb/> 
+    <lb/>THIS Map next ensuing containeth and representeth the portraiture of the whole earth,
+    <lb/>and of the maine Ocean that enuirons &amp; compasseth the same: all which earthly Globe
+    <lb/>the Ancients (who were not as then acquainted with the New world, not long since de-
+    <lb/>scried) diuided into three parts; namely, <hi rend="italic"><placeName ref="#africa">Africa</placeName></hi>, <hi rend="italic"><placeName ref="#europe">Europe</placeName></hi>, and <hi rend="italic"><placeName ref="#asia">Asia</placeName></hi>. But since that discouery
+    <lb/>of <hi rend="italic"><placeName ref="#america">America</placeName></hi>, the learned of our age haue made that a fourth part, and the huge Continent
+    <lb/>vnder the <placeName ref="#southPole">South pole</placeName>, a fifth, <hi rend="italic"><persName ref="#gerardusMercator">Gerardus Mercator</persName></hi> the Prince of modern Geographers in his
+    <lb/>neuer-sufficiently-commended vniuersall Table or Map of the whole world, diuides this
+    <lb/>Circumference of the earth into three Continents: the first he calles that, which the Anci-
+    <lb/>ents diuided into three parts, and from whence the holy Writ beares record, that mankind had their first origi-
+    <lb/>nall, &amp; first was seated: the second, is that which at this present is named <hi rend="italic"><placeName ref="#america">America</placeName></hi> or the <hi rend="italic"><placeName ref="#westIndies">VVest Indies</placeName></hi>: for the third,
+    <lb/>he appoints the <placeName ref="#southMaine">South maine</placeName>, which some call <hi rend="italic"><placeName ref="#magellanica">Magellanica</placeName></hi>, as yet on very few coasts thorowly discouered. That
+    <lb/>this orbe or masse of the earthly Globe contains in circuit, where it is largest, 5400 German or 21600 Italian
+    <lb/>miles, antiquity hath taught, &amp; late Writers haue subscribed to their opinion. <hi rend="italic">And these so manifold portions of earth</hi>
+    <lb/>(sayth <hi rend="italic"><persName ref="#plinie">Plinie</persName></hi> in the 11. booke of his Naturall historie) <hi rend="italic">yea rather, as some haue termed them, the pricke or center of the world
+    <lb/>(for so small is the earth in comparison of the whole frame of the world) this is the matter, this is the seat of our glorie. Here we enioy
+    <lb/>honours, here we exercise authoritie, here we hunt after riches, here men turmoile and tire themselues, here we moue and maintaine ciuill
+    <lb/>dissensions, and by mutuall slaughter make more roome vpon the earth. And to let passe the publike tumults of the world, this in which
+    <lb/>we force the borderers to giue place and remoue farther off, and where we incroch by stelth vpon our neighbors lands: as he that extends
+    <lb/>his lands &amp; lordships farthest, and cannot abide that any should seat themselues too neere his nose, How great, or rather how small a por-
+    <lb/>tion of earth doth he enioy? Or when he hath glutted his auarice to the full, How little shall his dead carcase possesse?</hi> Thus far <hi rend="italic"><persName ref="#plinie">Plinie</persName>.</hi>
+    <lb/>
+    <lb/>The situation of this earth and sea, the disposition of the seuerall regions, with their inlets and gulfs, the maners and inclinations of the people, and other memorable and note-worthy matters are described by men of ancienter times, such as follow:
+    <lb/>
+    <lb/>
+    <figure rend="left-bottom">
+    <persName ref="#ptolemy">PTOLEMEY</persName> 
+    <placeName ref="#alexandria">ALEXANDRIA.</placeName>
+    <lb/>    
+    <persName ref="#pliny">CAIVS PLINIVS</persName> 2, 3, 4, 5, and 6 books of his Natural history.
+    <lb/>
+    <persName ref="#aristotle">ARISTOTELES</persName>
+    <foreign xml:lang="la">DE MVNDO</foreign>
+    written and dedicated to 
+    <hi rend="italic"><persName ref="#alexanderTheGreat">Alexander the Great</persName></hi>.
+    <lb/>
+    <persName ref="#strabo">STRABO</persName> in 17. books.
+    <lb/>
+    <persName ref="#solinus">SOLINVS POLYHISTO<supplied reason="unclear">R</supplied></persName>.
+    <lb/>
+    <persName ref="#pomponiusMela">POMPONIVS MELA</persName>.
+    <lb/>
+    <persName ref="#dionysiusAfer">DIONYSIVS APHER</persName> and his Expositor.
+    <lb/>
+    <persName ref="#eustathius">EVSTATHIVS</persName>.
+    <lb/>
+    <persName ref="#apuleius">APVLEIVS</persName> in his booke of the World.
+    <lb/>
+    <persName ref="#diodorus">DIODORVS SICVLVS</persName> in his fiue former books.
+    <lb/>
+    <persName ref="#martianusCapella">MARTIANVS CAPELLA</persName>.
+    <lb/>
+    <persName ref="#paulusOrosius">PAVLVS OROSIVS</persName> in the beginning of his History.
+    <lb/>
+    <persName ref="#aethicus">AETHICVS</persName> and another of that name surnamed 
+    <persName ref="#aethicusSophista">SOPHISTA</persName>, not
+    <lb/>yet printed.
+    <lb/>
+    <persName ref="#juliusPrimus">IVLIVS</persName> the Oratour called by 
+    <hi rend="italic"><persName ref="#cassiodorus">Cassiodore</persName></hi>, PRIMVS.
+    <lb/>
+    <persName ref="#berosus">BEROSVS</persName> described the antiquitie of the World.
+    <lb/>
+    <persName ref="#antoniusAugustus">ANTONIVS AVGVSTVS</persName> (if the title be true) set downe the
+    <lb/>Iournals of the Romane empire.
+    <lb/>
+    <persName ref="#sextusAvienus">SEXTVS AVIENVS</persName>, the sea coasts.
+    <lb/>
+    <persName ref="#stephanusByzantinus">STEPHANVS</persName>, the cities.
+    <lb/>
+    <persName ref="#vicusSequester">VIKIVS SEQVESTER</persName>, in an Alphabeticall order, the Riuers,
+    <lb/>Fountaines, Lakes, Woods, Hilles, and Nations thereof.
+    <lb/>
+    <hi style="text-align: center">By new Writers, as</hi>
+    <lb/>
+    <persName ref="#raphaelVolaterranus">RAPHAEL VOLATERANVS</persName>.
+    <lb/>
+    <persName ref="#abilfeda">ABILFEDEA ISHMAEL</persName>, in the Arabian tongue.
+    <lb/>
+    <persName ref="#ioannesHonterus">IOANNES HONTERVS</persName>; and 
+    <persName ref="#hieronymusOliverius">HIERONYMVS OLIVERIV<supplied reason="illegible">S</supplied></persName>:
+    <lb/>both in verse.
+    <lb/>
+    <persName ref="#bartholomaeus">BARTHOLIMVS</persName> in the eighth booke of 
+    <hi rend="italic"><placeName ref="#austria">Austria</placeName></hi>.
+    <lb/>
+    <persName ref="#sebastianMunster">SEBASTIAN MVNSTER</persName>, that learned Diuine, diligent Histori-
+    <lb/>an, painfull Hebrician and Linguist, well studied in all maner
+    <lb/>of learning, and vnto whom the learned Student is so much
+    <lb/>beholding.
+    <lb/>
+    <persName ref="#antoniusFlorence">ANTONIVS</persName> the Archbishop of 
+    <hi rend="italic"><placeName ref="#florence">Florence</placeName></hi>, in his Historie, in the
+    <lb/>third chapter of the first Title.
+    <lb/>
+    <persName ref="#dominicvsNiger">DOMINICVS NIGER</persName>.
+    <lb/>
+    <persName ref="#johannesAventinus">IOHN AVENTINE</persName> in his second booke of his Annals.
+    <lb/>
+    <persName ref="#johnCamers">IOHN CAMERS</persName> in his Commentaries vpon 
+    <hi rend="italic"><persName ref="#solinus">Solinus</persName></hi>.
+    <lb/>
+    <persName ref="#georgeRythaimer">GEORGE RYTHAIMER</persName>.
+    <lb/>
+    <persName ref="#joachimVadian">IOACHIM VADIAN</persName>.
+    <lb/>
+    <persName ref="#petrusJoannesOlivarius">PETRVS IOANNES OLIVARIVS</persName> vpon 
+    <hi rend="italic"><persName ref="#mela">Mela</persName></hi>.
+    <lb/>
+    <persName ref="#laurentivusCorvinus">LAVRENTIVS CORVINVS NOVOF</persName>.
+    <lb/>
+    <persName ref="#antoniusVeronensis">ANTONIVS VERONENSIS</persName>.
+</figure>
+
+<figure rend="right-bottom">
+    <persName ref="#gualterusLudovicus">GVALTERVS LVDOVICVS</persName>, in his Mirrour or Looking-glasse
+    <lb/>of the World.
+    <lb/>
+    <persName ref="#isidore">S. ISIDORE</persName> of <placeName ref="#seville">SIVILL</placeName> in 
+    <hi rend="italic"><placeName ref="#spaine">Spaine</placeName></hi>.
+    <lb/>
+    <persName ref="#michaelVillanova">MICHAEL</persName> of <placeName ref="#villanova">VILLANOVA</placeName>, in his Commentary vpon 
+    <hi rend="italic">Ptolemey</hi>.
+    <lb/>
+    <persName ref="#zachariasLilius">ZACHARIAS LILIVS VICENT</persName>.
+    <lb/>
+    HIERONYMVS GIRAVA in the Spanish tongue.
+    <lb/>
+    <persName ref="#alexanderCitolinus">ALEXANDER CITOLINVS</persName>, in his 
+    <hi rend="italic">Typocosmia</hi> or Pattern of the
+    <lb/>World written in the Italian tongue.
+    <lb/>
+    <persName ref="#vincentiusBelvacensis">VINCENTIVS BELVACENSIS</persName> in the Mirrour of Histories the
+    <lb/>second booke.
+    <lb/>
+    <persName ref="#postellus">GVILIELMVS POSTELLVS</persName> 
+    <hi rend="italic">Barentonius</hi>.
+    <lb/>
+    <persName ref="#johnMandeville">Sr. IOHN MANDEVILL</persName> and his companion of his trauels.
+    <lb/>
+    <persName ref="#odericus">ODERICVS</persName> of <placeName ref="#friuli">FRIVLY</placeName>.
+    <lb/>
+    <persName ref="#michaelNeander">MICHAEL NEANDER</persName> of 
+    <hi rend="italic"><placeName ref="#soraw">Soraw</placeName></hi>.
+    <lb/>
+    <persName ref="#gaudentiusMerula">GAVDENTIVS MERVLA</persName> in his 5. booke of memorable things.
+    <lb/>
+    <persName ref="#franciscusMonachus">FRANCISCVS MONACHI</persName>, in his Epistle to the 
+    <persName ref="#archbishopPanormus">Archbishop of
+    <hi rend="italic"><placeName ref="#panormus">Panormus</placeName></hi></persName>.
+    <lb/>
+    <persName ref="#andreasThevet">ANDREAS THEVETVS</persName>, 
+    <persName ref="#franciscusBelleforestius">FRANCISVS BELLEFORESTIVS</persName>,
+    <lb/>and <persName ref="#petrusHeynsius">PETRVS HEYNSIVS</persName>, in French: but this latter also in
+    <lb/>Dutch rythmes of verse.
+    <lb/>
+    <persName ref="#laurentiusAnaniensis">LAVRENTIVS ANANIENSIS</persName>, in the Italian tongue.
+    <lb/>
+    <persName ref="#antoniusPinetus">ANTONIVS PINETVS</persName>, in French: and he hath withal set
+    <lb/>forth many Tables and Mappes (as the title sheweth) of Coun-
+    <lb/>tries, Cities and Townes, aswell of 
+    <hi rend="italic"><placeName ref="#europe">Europe</placeName></hi>, as of 
+    <hi rend="italic"><placeName ref="#africa">Afrike</placeName></hi>, 
+    <hi rend="italic"><placeName ref="#asia">Asia</placeName></hi>
     <lb/>and <hi rend="italic"><placeName ref="#america">America</placeName></hi>.
-<lb/><persName>IVLIVS BALLINVS</persName>, hath put forth the Plots and drafts of the
+    <lb/>
+    <persName ref="#juliusBallinus">IVLIVS BALLINVS</persName>, hath put forth the Plots and drafts of the
     <lb/>most famous Cities of the whole world, with a briefe historical
-	<lb/>discourse, written in the Tuscane tongue. The same is done by
-<lb/><persName>GEORGIVS BRVNO</persName>, in Latine, but much more beautifully and
-	<lb/>curiously.
-<lb/><persName>BENEDICTVS BORDONIVS</persName>, hath described all the Ilands of
-	<lb/>the World. So also hath
-<lb/><persName>THOMAS PORCACCIVS</persName>: both in the Italian tongue.
-<lb/><persName>WOLFGANGVS LASIVS</persName>, and
-<lb/><persName>IOANNES GOROPIVS BECANVS</persName>, the originall and shifting
-	<lb/>of the nations of the same.
-<lb/><persName>PETRVS APPIANVS</persName>, and
-<lb/><persName>BARTHOLOMAEVS AMANTIVS</persName>, haue gathered the ancient In-
-	<lb/>scriptions: and so hath
-<lb/><persName>MARTINVS SMETIVS</persName>, but with greater diligence and care than
-	<lb/>ordinary.
-<lb/><persName>IOANNES BOHEMVS</persName>, and <persName>ALEXANDER SARDVS</persName> haue writ-
-	<lb/>ten of the maners, rites and customes of all nations and people
-	<lb/>of it. The same hath
-<lb/><persName>FRANCISCVS BFLLEFORESTIVS</persName> done in the French tongue.</p>
+    <lb/>discourse, written in the Tuscane tongue. The same is done by
+    <lb/><persName ref="#georgiusBruno">GEORGIVS BRVNO</persName>, in Latine, but much more beautifully and
+    <lb/>curiously.
+    <lb/>
+    <persName ref="#benedictusBordonus">BENEDICTVS BORDONIVS</persName>, hath described all the Ilands of
+    <lb/>the World. So also hath
+    <lb/><persName ref="#thomasPorcacchius">THOMAS PORCACCIVS</persName>: both in the Italian tongue.
+    <lb/>
+    <persName ref="#wolfgangusLasius">WOLFGANGVS LASIVS</persName>, and
+    <lb/><persName ref="#goropius">IOANNES GOROPIVS BECANVS</persName>, the originall and shifting
+    <lb/>of the nations of the same.
+    <lb/>
+    <persName ref="#petriusAppianus">PETRVS APPIANVS</persName>, and
+    <persName ref="#amantius">BARTHOLOMAEVS AMANTIVS</persName>, haue gathered the ancient In-
+    <lb/>scriptions: and so hath
+    <persName ref="#martinusSmetius">MARTINVS SMETIVS</persName>, but with greater diligence and care than
+    <lb/>ordinary.
+    <lb/>
+    <persName ref="#joannesBohemus">IOANNES BOHEMVS</persName>, and 
+    <persName ref="#alexanderSardus">ALEXANDER SARDVS</persName> haue writ-
+    <lb/>ten of the maners, rites and customes of all nations and people
+    <lb/>of it. The same hath
+    <persName ref="#franciscusBelleforestius2">FRANCISCVS BELLEFORESTIVS</persName> done in the French tongue.
+</figure>
 </ab>
+
 
 </div></body></text>
