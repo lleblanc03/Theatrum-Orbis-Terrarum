@@ -443,7 +443,6 @@
     <lb/>
 </ab>
 
-<ab class="ec-columns">
 <p rend="left-bottom">
     <persName ref="#ptolemy">PTOLEMEY</persName> 
     <placeName ref="#alexandria">ALEXANDRIA.</placeName>
@@ -612,7 +611,6 @@
     <lb/>of it. The same hath
     <persName ref="#franciscusBelleforestius2">FRANCISCVS BELLEFORESTIVS</persName> done in the French tongue.
 </p>
-</ab>
 
 <pb facs="#f017"/>
 <lb/> <personalstmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></personalstmt>
