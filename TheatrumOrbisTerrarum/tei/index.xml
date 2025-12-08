@@ -823,14 +823,14 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <personalstmt><!--I, Meghan Spargo, transcribed and tagged Seq.17 of this text.--> </personalstmt>
 
 <ab>
-    <p rend="top">
+    <figure rend="middle-top">
         <figDesc>
             <head>
                 <lb />A DESCRIPTION OF THE
                 <lb />WHOLE WORLD.
             </head>
         </figDesc>
-    </p>
+    </figure>
     <lb /> 
     <lb />THIS Map next ensuing containeth and representeth the portraiture of the whole earth,
     <lb />and of the maine Ocean that enuirons &amp; compasseth the same: all which earthly Globe
@@ -858,6 +858,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
     <lb />
 </ab>
 
+<ab class="ec-columns">
 <p rend="left-bottom">
     <persName ref="#ptolemy">PTOLEMEY</persName> 
     <placeName ref="#alexandria">ALEXANDRIA.</placeName>
@@ -1026,6 +1027,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
     <lb/>of it. The same hath
     <persName ref="#franciscusBelleforestius2">FRANCISCVS BELLEFORESTIVS</persName> done in the French tongue.
 </p>
+</ab>
 
 <pb facs="#f017" />
 <lb /> <personalstmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></personalstmt>
