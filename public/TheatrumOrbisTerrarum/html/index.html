@@ -5,21 +5,38 @@ Link that has the live editioncrafter
 https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 
 -->
-      <tei-teiheader data-origname="teiHeader">
-          <tei-filedesc data-origname="fileDesc">
-              <tei-titlestmt data-origname="titleStmt">
-                  <tei-title data-origname="title">
-                      Theatrum Orbis Terrarum
-                  </tei-title>
-              </tei-titlestmt>
-              <tei-publicationstmt data-origname="publicationStmt">
-                  <tei-p data-origname="p" data-empty=""></tei-p>
-              </tei-publicationstmt>
-              <tei-sourcedesc data-origname="sourceDesc">
-                  <tei-p data-origname="p" data-empty=""></tei-p>
-              </tei-sourcedesc>
-          </tei-filedesc>
-      </tei-teiheader>
+       <!-- The teiHeader contains metadata about the document. -->
+    <tei-teiheader data-origname="teiHeader">
+        <tei-filedesc data-origname="fileDesc">
+            <!-- titleStmt = title and authorship information -->
+            <tei-titlestmt data-origname="titleStmt">
+                <tei-title type="main" data-origname="title"><tei-foreign xml:lang="la" lang="la" data-origname="foreign">Theatrum orbis terrarum Abrahami Orteli Antverp</tei-foreign>; Theatre of the whole world; The theatre of the whole world</tei-title>
+                <tei-title type="short" data-origname="title">Theatrum Orbis Terrarum</tei-title>
+                <tei-author type="main" data-origname="author"><tei-persname ref="ortelius" data-origname="persName"> Abraham Ortelius</tei-persname></tei-author>  
+            </tei-titlestmt>
+            <tei-publicationstmt data-origname="publicationStmt">
+                <tei-printer data-origname="printer">Iohn Norton</tei-printer>
+                <tei-date type="year" data-origname="date">1606</tei-date>
+                <tei-place data-origname="place">London</tei-place>
+            </tei-publicationstmt>
+            <tei-editionstmt data-origname="editionStmt">Proof of concept edition published by The Kit Marlowe Project v.0, <tei-date type="month" data-origname="date">December</tei-date> <tei-date type="year" data-origname="date">2025</tei-date>, www.kitmarlowe.org.
+            <tei-sourcedesc data-origname="sourceDesc">
+                Transcribed from digital facsimile edition made available by Harvard University of<tei-title data-origname="title">Theatrum orbis terrarum Abrahami Orteli Antverp ; Theatre of the whole world ; The theatre of the whole world</tei-title>, attributed to <tei-printer data-origname="printer">Iohn Norton</tei-printer>, created <tei-date type="year" data-origname="date">1606</tei-date>in <tei-place data-origname="place">London</tei-place>.
+                <tei-sourcedesc data-origname="sourceDesc">6 leaves : port., 115 [i.e. 118] double maps ; 47 cm. 
+                    <tei-bibldesc data-origname="biblDesc">Harvard Map Collection (Pusey Library): MO 1.1606 pf*</tei-bibldesc>
+                    <tei-ptr target="https://curiosity.lib.harvard.edu/scanned-maps/catalog/44-990088585650203941" data-origname="ptr" data-empty=""></tei-ptr>
+                </tei-sourcedesc>
+                <tei-publicationstmt data-origname="publicationStmt">
+                    <tei-respstmt data-origname="respStmt">This edition was created using EditionCrafter, an open-source publication platform made available in GitHub by <tei-orgname data-origname="orgName">Performant Software</tei-orgname>. <tei-resp role="principal" data-origname="resp">Nick Laicona</tei-resp> at Performant was especially helpful as we adapted their code to facilitate an undergraduate transcription and encoding project.
+                    <tei-resp role="webDev" data-origname="resp">Lindsey LeBlanc</tei-resp>adapted the EditionCrafter platform and designed an interoperable plugin for WordPress to facilitate publication of mini-editions like this one on the Kit Marlowe Project website.
+                        <tei-resp role="projDir" data-origname="resp">Kristen Abbott Bennett</tei-resp> supervised a class of eighteen students enrolled in DGHM 110X: "Introduction to Digital Humanities" at Framingham State University who took the first pass at transcribing and lightly encoding Ortelius' work to create this first "proof of concept" edition. We were assisted by Meghan Spargo (Framingham class of 2026) who helped proofread students' contributions.
+                        Intellectual copyright in this edition is held by <tei-orgname data-origname="orgName">The Kit Marlowe Project</tei-orgname>. The XML files of the semi-diplomatic transcription and the modern texts are licensed for reuse under a <tei-ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/" data-origname="ref">CC BY-NC-SA 4.0 license</tei-ref>, which means that they are freely downloadable without permission under the following conditions: (1) credit must be given to the <tei-resp role="projDir" data-origname="resp">Project Director</tei-resp>, <tei-persname data-origname="persName">Kristen Abbott Bennett</tei-persname>, or <tei-resp role="webDev" data-origname="resp">Web Developer</tei-resp>, <tei-persname data-origname="persName">Lindsey LeBlanc</tei-persname>, in any subsequent use of the files and/or data; (2) derivatives (e.g., adapted scripts for performance) must be shared under the same CC BY-NC-SA 4.0 license; and (3) commercial uses are not permitted without the knowledge and consent of the Project Director.</tei-respstmt>
+                </tei-publicationstmt>
+            </tei-sourcedesc>
+            </tei-editionstmt>
+        </tei-filedesc>
+    </tei-teiheader>
+
 
       <tei-facsimile sameas="https://iiif.lib.harvard.edu/manifests/drs:50211907" data-origname="facsimile">
 <!--                  <surface xml:id="f000" ulx="0" uly="0" lrx="4090" lry="5638" sameAs="https://iiif.lib.harvard.edu/manifests/drs:50211907/canvas/canvas-50211908.json" ><label>(seq. 1)</label><graphic mimeType="application/json" url="https://ids.lib.harvard.edu/ids/iiif/50211908"/></surface>
@@ -805,7 +822,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <tei-personalstmt data-origname="personalstmt"><!--I, Meghan Spargo, transcribed and tagged Seq.17 of this text.--> </tei-personalstmt>
 
 <tei-ab data-origname="ab">
-    <tei-p rend="middle-top" data-origname="p">
+    <tei-p rend="top" data-origname="p">
         <tei-figdesc data-origname="figDesc">
             <tei-head data-origname="head">
                 <tei-lb data-origname="lb" data-empty=""></tei-lb>A DESCRIPTION OF THE
@@ -1012,10 +1029,10 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <tei-pb facs="#f017" data-origname="pb" data-empty=""></tei-pb>
 <tei-lb data-origname="lb" data-empty=""></tei-lb> <tei-personalstmt data-origname="personalstmt"><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></tei-personalstmt>
 <tei-ab data-origname="ab">
-<tei-lb data-origname="lb" data-empty=""></tei-lb><tei-figure rend="middle-top" data-origname="figure"> <tei-foreign xml:lang="la" lang="la" data-origname="foreign">TYPVS ORBIS TERRAVM.</tei-foreign></tei-figure>
-<tei-lb data-origname="lb" data-empty=""></tei-lb>
-<tei-lb data-origname="lb" data-empty=""></tei-lb>HOMI 
-<tei-lb data-origname="lb" data-empty=""></tei-lb>NES HAC LEGE 
+    <tei-p rend="middle-top" data-origname="p"> <tei-foreign xml:lang="la" lang="la" data-origname="foreign">TYPVS ORBIS TERRAVM.</tei-foreign></tei-p>
+        <tei-lb data-origname="lb" data-empty=""></tei-lb>
+        <tei-lb data-origname="lb" data-empty=""></tei-lb>HOMI 
+        <tei-lb data-origname="lb" data-empty=""></tei-lb>NES HAC LEGE 
 <tei-lb data-origname="lb" data-empty=""></tei-lb>SVNT GENERATI, 
 <tei-lb data-origname="lb" data-empty=""></tei-lb>QVI TVERENTVR
 <tei-lb data-origname="lb" data-empty=""></tei-lb>ILLVM GLOBVM,
