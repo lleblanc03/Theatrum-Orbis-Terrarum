@@ -1501,7 +1501,12 @@ ty
 <pb facs="#f021"/>
 <ab> 
 <personalstmt><!--Transcribed and encoded by Nicholas Vitale and Karolina Rosberg--></personalstmt>
-<lb/><figure rend="middle-top"><placeName ref="#asia">ASIA</placeName></figure>
+<lb/>        
+    <figure rend="middle-top">
+        <figDesc>
+            <head><placeName ref="#asia">ASIA</placeName></head>
+        </figDesc>
+    </figure>
 <lb/>
 <lb/><placeName ref="#asia">Asia</placeName> diuides it selfe from <placeName ref="#europe">Europe</placeName> by the river <placeName ref="#tanais">Tanais</placeName>, and a streight line drawen
 <lb/>from the fountaines thereof to the <placeName ref="#bayStNicolas">Bay of S. Nicolas</placeName> in the <placeName ref="#northOcean">North Ocean</placeName>:
@@ -1560,7 +1565,11 @@ ty
 
 <pb facs="#f022"/>
 <ab>
-<lb/><p rend="middle-top"><figureDesc><head>ASIAE NOVA DECRIPTIO</head></figureDesc></p>
+    <figure rend="middle-top">
+        <figDesc>
+            <head><lb/>ASIAE NOVA DECRIPTIO</head>
+        </figDesc>
+    </figure>
 </ab>
 
 <pb facs="#f023"/>

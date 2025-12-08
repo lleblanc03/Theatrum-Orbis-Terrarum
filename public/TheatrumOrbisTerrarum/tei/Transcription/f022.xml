@@ -1,6 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f022"/>
 <ab>
-<lb/><p rend="middle-top"><figureDesc><head>ASIAE NOVA DECRIPTIO</head></figureDesc></p>
+    <figure rend="middle-top">
+        <figDesc>
+            <head><lb/>ASIAE NOVA DECRIPTIO</head>
+        </figDesc>
+    </figure>
 </ab>
 
 </div></body></text>
