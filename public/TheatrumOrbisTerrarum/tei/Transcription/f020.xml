@@ -1,91 +1,707 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f020"/>
 <personalstmt><!--I, Emily Agnelli, with proofreading and additional help from Mary Zouharis, transcribed seq. 21 of this text--></personalstmt>
 <ab>
-<lb/><hi rend="italic">saith, have seriously thought: nor in</hi> <placeName>Spaine</placeName>, <hi rend="italic">as</hi> <persName><note type="letter"><!--ash or aesc-->AE</note></persName> <hi rend="italic">beleeued: nor in certaine rockes at the further end of the gulfe of</hi> <placeName>Venice</placeName>, (mare Hadriaticum)
-<lb/><hi rend="italic">as some mere suber men haue giuen out: nor in</hi> <persName>Liguria</persName>, <hi rend="italic">as</hi> <persName>Sudinus</persName>, <persName>Metrodorus</persName>, <hi rend="italic">and</hi> <persName>Theophraftus</persName> <hi rend="italic">would haue men thinke: nor in</hi> <placeName>Ethiopia</placeName>, <hi rend="italic">neere</hi> Iupiter Ammons <hi rend="italic">temple, or in</hi> <placeName>Scythia</placeName>, <hi rend="italic">as</hi> <persName>Philemon</persName> <hi rend="italic">imagined: nor in</hi> <placeName>Britaine</placeName>, <hi rend="italic">as</hi> <persName>Socatus</persName>: <hi rend="italic">nor in the</hi> <placeName>Gleflari<note type="letter">ae</note></placeName>, <hi rend="italic">ilands in the</hi> <placeName>Germane ocean</placeName>, <hi rend="italic">as</hi> <persName>Pliny</persName>
-<lb/><hi rend="italic">hathtaught: nor in</hi> <placeName>Bannonia</placeName> <hi rend="italic">or</hi> <placeName>Baltia</placeName>, <hi rend="italic">(a certain iland) as</hi> <persName>Tim<note type="letter">ae</note>us</persName> <hi rend="italic">hath broached: nor in a certain riuer, as</hi> <persName>Dion Prul<note type="letter">ae</note>us</persName> <hi rend="italic">hath taught: but neere vnto the neckland or peninsula</hi> <placeName><note type="letter">ae</note></placeName>, <hi rend="italic">in the bay</hi> <placeName>Pautzkerwicke</placeName> <hi rend="italic">and</hi> <placeName>Frifch-haff</placeName> (<hi rend="italic">Sinus Clilipenus</hi>) <hi rend="italic">in the</hi> <placeName>Balticke</placeName> <hi rend="italic">or</hi> <placeName>East Sea</placeName>, <hi rend="italic">not farre from</hi> <placeName>Dantzk</placeName> <hi rend="italic">in</hi>
-<lb/><placeName>Pomerell</placeName> <hi rend="italic">or</hi> <placeName>Sprufe</placeName>: <hi rend="italic">where hitherto it hath been taken (a thing wholly hidden from the ancients) to the great gaine and enriching of the Nations neere inha-</hi>
-<lb/>biting: <hi rend="italic">and not in any other place of the world beside. In the same</hi> <placeName>Europe</placeName> <hi rend="italic">are there many goodly and stately cities, amongst the which the most famous, in all</hi>
-<lb/>ages, <hi rend="italic">are</hi> <placeName>Rome</placeName> <hi rend="italic">and</hi> <placeName>Constantinople</placeName>, <hi rend="italic">(which afterward was called</hi> <placeName>New-Rome</placeName><hi rend="italic">) and now are</hi> <placeName>London</placeName>, <placeName>Venice</placeName> <hi rend="italic">and</hi> <placeName>Paris</placeName>. <hi rend="italic">The riuers of greater note</hi>
-<lb/><hi rend="italic">are</hi> <placeName>Rhein</placeName>, <placeName>Isther</placeName> <hi rend="italic">or</hi> <placeName>Donaw</placeName>, <hi rend="italic">and the</hi> <placeName>Thames</placeName>: <hi rend="italic">the woods more notable are</hi> <placeName>Ardene</placeName> <hi rend="italic">in</hi> <placeName>Gallia</placeName>, <hi rend="italic">500 miles of length, reaching from the riuer of</hi> <placeName>Rhein</placeName> <hi rend="italic">vn-</hi>
-<lb/>to <placeName>Tourney</placeName> <hi rend="italic">in</hi> <placeName>France</placeName>; <hi rend="italic">and</hi> <placeName>Hercynia</placeName> <hi rend="italic">in</hi> <placeName>Germany</placeName>, <hi rend="italic">40 daies iourney long, as</hi> <persName>Pomponius</persName> <hi rend="italic">writeth, and 9 daies iourney broad, as</hi> <persName>C<note type="letter">ae</note>ser</persName> <hi rend="italic">in his Commen-</hi>
-<lb/>taries <hi rend="italic">reporteth: a greater wood than which, or more vast, there is no history maketh mention of. Thus much of</hi> <placeName>Europe</placeName>. <hi rend="italic">But whereof it tooke the name</hi>
-<lb/>and <hi rend="italic">was so called, or who first gave it that name, I thinke</hi> <persName>Herodotius</persName> <hi rend="italic">saith, there is no man vnder heauen doth certainly know or can vpon any probabilitie</hi>
-<lb/>gesse, <hi rend="italic">except one should think it so called of</hi> <placeName>Europa Tyria</placeName>. <hi rend="italic">But wherefore it should so of her be named, I am wholly ignorant, and I perswade my selfe and do</hi>
-<lb/>verily beleeue, <hi rend="italic">that no man in the world truly knoweth. For that she, as we read in the fabulous stories of the poets, was violently taken out of</hi> <placeName>Ph<note type="letter">oe</note>nicia</placeName>, <hi rend="italic">a</hi>
-<lb/>country <hi rend="italic">of</hi> <placeName>Asia</placeName>, <hi rend="italic">and carried from thence into</hi> <placeName>Cyprus</placeName>, <hi rend="italic">or as others write, into the iland</hi> <placeName>Creta (Candy)</placeName> <hi rend="italic">all men do know well enough: where, as</hi> <persName>Eusebius</persName> <hi rend="italic">his</hi>
-<lb/>Chronicle <hi rend="italic">doth witnesse, being taken of</hi> <persName>Asterius</persName> <hi rend="italic">king of</hi> <placeName>Creta</placeName> <hi rend="italic">to wife, she bare him</hi> <persName>Minoes</persName>, <persName>Rhadamanthus</persName> <hi rend="italic">and</hi> <persName>Sarpedon</persName>: <hi rend="italic">from whence she went not into</hi>
-<lb/><placeName>Europe</placeName>, <hi rend="italic">but into</hi> <placeName>Asia</placeName>, <hi rend="italic">as</hi> <persName>Herodotus</persName> <hi rend="italic">hath left recorded. But what is that to</hi> <placeName>Europe</placeName> <hi rend="italic">this part of the world? One might easilier beleeue it to haue been so</hi>
-<lb/>named <hi rend="italic">of</hi> <persName>Europus</persName>, <hi rend="italic">who, as</hi> <persName>Trogus Pompeius</persName> <hi rend="italic">witnesseth, sometime in these parts possessed a large kingdome: which also I do see to be auouched by</hi> <persName>Eustathius</persName>
-<lb/><hi rend="italic">vpon</hi> <persName>Lycophron</persName>, <hi rend="italic">who maketh this</hi> <persName>Europis</persName> <hi rend="italic">to be the sonne of one</hi> <persName>Himerus</persName>. <persName>Pausanias</persName> <hi rend="italic">saith that one</hi> <persName>Eurpoa</persName> <hi rend="italic">was king of</hi> <placeName>Sicyonia</placeName>, <hi rend="italic">a prouince of</hi>
-<lb/><placeName>Peloponnelius</placeName> <hi rend="italic">in</hi> <placeName>Greece</placeName>: <hi rend="italic">to him</hi> <persName>Eusebius</persName> <hi rend="italic">in his Chronicle doth ascribe, who maketh him equall to the Patriarke</hi> <persName>Abraham</persName>, <hi rend="italic">and to haue liued aboue 3550</hi>
-<lb/>yeares <hi rend="italic">since, about 1950 yeares before the birth of</hi> <persName>Christ</persName>. <hi rend="italic">There be some, as</hi> <persName>Festus</persName> <hi rend="italic">writeth, that thinke it so named of the beautifulnesse and excellency</hi>
-<lb/>of the <hi rend="italic">country. <hi rend="italic">These we are sure are fabulous or vncertaine: may we not therefore, as they haue formed of</hi> <persName>Phrat</persName>, <persName>Euphrates</persName>, <hi rend="italic">and of</hi> <persName>Koft</persName>,</hi> <persName>AEgyptus</persName> <hi rend="italic">(as
-<lb/>we haue shewed before) thinke that of</hi> <persName>Riphath</persName> <hi rend="italic">(the sonne of</hi> <persName>Gomer</persName>, <persName>Iapheths</persName> <hi rend="italic">sonne, to whom this part of the world was presently after the confusion at</hi> <placeName>Babel</placeName>
-<lb/><hi rend="italic">assigned) they haue likewise formed</hi> <placeName>Europa</placeName>? <hi rend="italic">And surely the name</hi> <persName>Riphath</persName> <hi rend="italic">doth very manifestly shew it selfe in</hi> <placeName>Rhip<note type="letter">ae</note>is</placeName> <placeName>montibus</placeName>, <hi rend="italic">the</hi> <unclear><placeName>Riphean hils</placeName></unclear>:
-<lb/>item <hi rend="italic">in</hi> <placeName>Riph<note type="letter">ae</note>o</placeName> <placeName>fluuio</placeName>, <hi rend="italic">now called the riuer</hi> <placeName>Oby</placeName>, <hi rend="italic">in</hi> <placeName>Ripe</placeName>, <hi rend="italic">a city of</hi> <placeName>Peloponneses</placeName>, <hi rend="italic">in</hi> <placeName>Rhiphat<note type="letter">ae</note>is</placeName>, <hi rend="italic">the people of</hi> <placeName>Paphlagonia</placeName>, <hi rend="italic">as</hi> <persName>Iosephus</persName> <hi rend="italic">writeth.</hi> 
-<lb/><persName>Ptolemey</persName> <hi rend="italic">in the second booke of his</hi> <placeName>Quadripartite</placeName>, <hi rend="italic">in my opinion much more truly, writeth that it was sometime called by a common name,</hi> <placeName>C E L T I C A</placeName>, <hi rend="italic">name-</hi>
-<lb/>ly <hi rend="italic">of a principall Nation that first did inhabite it. For there is almost no prouince in all this part, in which in time past the</hi> <note type="group of people">C E L T A E</note> <hi rend="italic">did not inhabit.</hi> 
-<lb/><hi rend="italic">For in</hi> <placeName>Spaine</placeName> <hi rend="italic">toward the West, and beyond Hercules pillars are the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">as</hi> <persName>Herodotus</persName> <hi rend="italic">affirmeth. Item, about the riuer</hi> <placeName>B<note type="letter">ae</note>tis</placeName>, <hi rend="italic">as</hi> <persName>Strabo</persName> <hi rend="italic">auoucheth, the</hi>
-<lb/><unclear><note type="group of people">Celtici Pre<note type="letter">ae</note>samarci</note></unclear>, <hi rend="italic">are in the prouince of</hi> <placeName>Lucensis</placeName>, <hi rend="italic">and others otherwise named</hi> <unclear><note type="group of people">Nerij</note></unclear> <hi rend="italic">as</hi> <persName>Pliny</persName> <hi rend="italic">saith:</hi> <persName>Dion</persName> <hi rend="italic">and</hi> <persName>Xiphilinus</persName> <hi rend="italic">do shew that the</hi> <note type="group of people">Canta-</note>
-<lb/><note type="group of people">bri</note> <hi rend="italic">and</hi> <note type="group of people">Astures</note> <hi rend="italic">are the same with the</hi> <note type="group of people">Celt<note type="letter">ae</note></note>: <persName>Pliny</persName> <hi rend="italic">nameth the city</hi> <placeName>Celtica</placeName>, <hi rend="italic">in the prouince</hi> <placeName>Hispalensis</placeName>. <persName>Antonius</persName> <note type="group of people">Celti</note>: <hi rend="italic">item</hi> <placeName>Celticum promontorium</placeName>,
-<lb/><hi rend="italic">is the same that</hi> <placeName>Cantabrum promontorium</placeName>, <hi rend="italic">which now is called</hi> <placeName>Cabo de finis terre</placeName>. <hi rend="italic">What Geographer or Historian is he amongst the anci-</hi>
-<lb/>ents <hi rend="italic">that hath not made mention of the</hi> <note type="group of people">Celtebri</note>? <hi rend="italic">In</hi> <placeName>France</placeName> <hi rend="italic">were the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">and</hi> <unclear><note type="group of people">Celtogalat<note type="letter">ae</note></note></unclear>: <hi rend="italic">and from thence are those in</hi> <placeName>Britaine</placeName>. <hi rend="italic">For that this iland</hi>
-<lb/><hi rend="italic">was first peopled from hence, lying so neere oueragainstit, it is a common opinion and very probable. That the</hi> <note type="group of people">Gauls Germanes</note> <hi rend="italic">were vulgarly called</hi> <note type="group of people">Celt<note type="letter">ae</note></note>,
-<lb/><hi rend="italic">all Historiographers do iointly agree: and indeed</hi> <persName>Dion</persName> <hi rend="italic">doth affirme, that the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">did dwell vpon either side of the riuer</hi> <placeName>Rhem</placeName>: <hi rend="italic">the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">dwelt in</hi>
-<lb/><placeName>Gallia Cisalpina</placeName> <placeName>(Lombardy)</placeName> <hi rend="italic">or</hi> <placeName>Italy</placeName>, <hi rend="italic">as</hi> <persName>Appianus</persName> <hi rend="italic">writeth. And again vpon the</hi> <placeName>Ionian sea</placeName>, <hi rend="italic">(that is, the</hi> <placeName>Hadriaticke</placeName>), <hi rend="italic">which also</hi> <persName>Strabo</persName> <hi rend="italic">doth auerre.</hi>
-<lb/><persName>Silius Italicus</persName> <hi rend="italic">placeth them about the riuer</hi> <placeName>Eridianus (Po)</placeName>. <hi rend="italic">In</hi> <placeName>Epirus</placeName> <hi rend="italic">sometime dwelled the</hi> <note type="group of people">Celt<note type="letter">ae</note></note>, <hi rend="italic">as</hi> <persName>Antonius Liberalis</persName> <hi rend="italic">hath giuen out:</hi> <persName>Stepha-
-<lb/>nus</persName> <hi rend="italic">placeth the same about the mount</hi> <placeName>H<note type="letter">oe</note>mus</placeName>: <placeName>Arrianus</placeName>, <hi rend="italic">neere the mouth of the riuer</hi> <placeName>Donaw</placeName>: <hi rend="italic">as also</hi> <persName>Strabo</persName> <hi rend="italic">in</hi> <placeName>M<note type="letter">oe</note>sia</placeName>. <hi rend="italic">The same author writeth,</hi>
-<lb/><hi rend="italic">that the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">are intermedled with the</hi> <note type="group of people">Illyrij</note> <hi rend="italic">and</hi> <note type="group of people">Thraces</note>. <hi rend="italic">Who also placeth them vpon the riuer</hi> <placeName>Borysthenes</placeName>. <hi rend="italic">Moreouer</hi> <persName>Aristotle</persName> <hi rend="italic">in his booke</hi> <placeName>De mundo</placeName>,
-<lb/><hi rend="italic">ioineth the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">with the</hi> <note type="group of people">Scythians</note>. <hi rend="italic">Heere hence the same</hi> <persName>Strabo</persName> <hi rend="italic">and</hi> <persName>Plutarch</persName> <hi rend="italic">do make their</hi> <note type="group of people">Celtoscyth<note type="letter">ae</note></note>. <hi rend="italic">In</hi> <persName>Plutarch</persName>, <hi rend="italic">in the life of</hi> <persName>Camilus</persName>,
-<lb/><hi rend="italic">I read that the</hi> <note type="group of people">Galat<note type="letter">ae</note></note> <hi rend="italic">(which he maketh to haue come of the stocke of the</hi> <note type="group of people">Celt<note type="letter">ae</note></note>) <hi rend="italic">passing the</hi> <placeName>Northren sea</placeName> <hi rend="italic">came vnto the</hi> <placeName>Riph<note type="letter">ae</note>an mountains</placeName>. 
-<lb/><hi rend="italic">Againe out of the forenamed</hi> <persName>Strabo</persName> <hi rend="italic">I learne that the nations dwelling Northward were in his time called</hi> <unclear><note type="group of people">Calt<note type="letter">ae</note></note></unclear>. <hi rend="italic">The which also their ancient lan-</hi>
-<lb/>guage, <hi rend="italic">which is called the</hi> <note type="group of people">Celticke</note> <hi rend="italic">or</hi> <note type="group of people">Germane</note> <hi rend="italic">tongue, doth at this day sufficiently demonstrate: which is the same (only differing a little in dialect) with that which</hi>
-<lb/><hi rend="italic">is vsed in the ilands neere adioining to these places, as in Island,</hi> <placeName>Groenland</placeName>, <placeName>Friesland</placeName> <hi rend="italic">and others in this ocean.</hi> <persName>Plutarke</persName> <hi rend="italic">in</hi> <persName>Marius</persName> <hi rend="italic">wri-</hi>
-<lb/>teth, <hi rend="italic">that Celtica doth begin at the outmost sea (that is, the</hi> <placeName>Atlanticke Sea</placeName>) <hi rend="italic">and so stretcheth itselfe out farre into the North and from thence vn-</hi>
-<lb/>to the fenne <placeName>M<note type="letter">ae</note>otis</placeName>, (<foreign xml:lang="la">Mare delle Zabacche</foreign>). <persName>Pomponius Mela</persName> <hi rend="italic">calleth the</hi> <placeName>Cassiterides</placeName> <hi rend="italic">(which in another place we haue proued to belong to</hi> <placeName>great Britaine</placeName>, 
-<lb/><hi rend="italic">or to be the number of those which are named</hi> <placeName>Brittanic<note type="letter">ae</note></placeName> <hi rend="italic">) Celticke Ilands. What is this else, I pray you, than plainly to affirme that</hi> THE <note type="group of people">C E L T <note type="letter">AE</note></note> DO  
-<lb/>POSSESSE ALL <placeName>E V R O P E</placeName>? <hi rend="italic">Which indeed is that which</hi> <persName>Ephorus</persName> <hi rend="italic">in</hi> <persName>Strabo</persName> <hi rend="italic">did see so many years since: when as he diuiding all the world into 4. quar-</hi>
-<lb/>ters, <hi rend="italic">saith that, That part which is toward the East, is inhabited of the</hi> <note type="group of people">Indians</note>: <hi rend="italic">that which is in the South, of the</hi> <note type="group of people">AEthiopians</note>: <hi rend="italic">the North parts, of</hi> 
-<lb/><note type="group of people">Scythians</note>: <hi rend="italic">and the West, of the</hi> <note type="group of people">Celt<note type="letter">ae</note></note>. <hi rend="italic">The scholiast of</hi> <persName>Appollonius</persName> <hi rend="italic">nameth the</hi> <placeName>Hadriaticke sea</placeName>, <placeName>Mare Celticum</placeName>, <hi rend="italic">the</hi> <placeName>Celticke Sea</placeName>. <hi rend="italic">And</hi> <persName>Lyco-</persName>
-<lb/>phron <hi rend="italic">describeth Celtos, a certain poole, about the mouth of the riuer</hi> <placeName>Ister</placeName>. <hi rend="italic">Item he placeth</hi> <placeName>Leuce</placeName> <hi rend="italic">an iland of</hi> <placeName>Mar maiore</placeName> <foreign xml:lang="la">(<hi rend="italic">Pontus Euxinus</hi>)</foreign> <hi rend="italic">oueragainst the mouth of the riuer</hi> <placeName>Donaw</placeName>.
-<lb/><hi rend="italic">May we not therefore properly, as they call those that inhabit</hi> <placeName>Asia</placeName>, <note type="group of people">Asians</note>: <hi rend="italic">and those which dwell in</hi> <placeName>Africa</placeName>, <note type="group of people">Africanes</note>: <hi rend="italic">call these which dwell in</hi> <placeName>Celtica</placeName>, <note type="group of people">Celtickes</note><unclear>?</unclear> 
-<lb/><hi rend="italic">He that out of all ancient stories, penned either in Latine or Greeke, doth not know that the</hi> <note type="group of people">Celt<note type="letter">ae</note></note> <hi rend="italic">are the</hi> <note type="group of people">Germanes</note>, <hi rend="italic">let him haue recourse to the 22. chapter of</hi> <persName>Hadrianus Iunius</persName> <hi rend="italic">his</hi> <placeName>Batauia</placeName>, <hi rend="italic">and I doubt not but, hauing throughly waied those many sound ar-</hi>
-<lb/>guments, <hi rend="italic">and sufficient testimonies of ancient graue writers, shall rest satisfied and sweare to our opinion. If not, let him listen to the</hi> <note type="group of people">Dutchmen</note>, <hi rend="italic">and he shall</hi>
-<lb/>heare <hi rend="italic">them call one another in their familiar communication,</hi> Kelt. <hi rend="italic">The</hi> <note type="group of people">French</note> <hi rend="italic">also or</hi> <placeName>Gauls</placeName> <hi rend="italic">I call a German nation. And I can proue by good arguments, if it</hi>
-<lb/><hi rend="italic">were a matter pertaining to this our purpose, that the Germane or Dutch tongue is the ancient language of the</hi> <note type="group of people">Celt<note type="letter">ae</note></note>, <hi rend="italic">and to be the same which hitherto they</hi>
-<lb/><hi rend="italic">haue vsed in all places and now is spoken, except in some places where the power of the</hi> <note type="group of people">Romanes</note> <hi rend="italic">so preuailed, that they banished this, and seated theirs in the</hi> 
-<lb/>roome. <hi rend="italic">It is likely therefore that the etymology and reason of the deriuation of the word</hi> <placeName>Europe</placeName>, <hi rend="italic">which was vnknowen vnto the old writers, is to be sought</hi>
-<lb/><hi rend="italic">and fetched from no other language else, but from that which was most</hi> <unclear>usuall</unclear> <hi rend="italic">in this part of the world. For that the inhabitants of any country should take</hi>
-<lb/><hi rend="italic">the name of their natiue soile from strangers, it is so absurd and hard to be beleeued, that there cannot any thing more foolish or contrary to truth be inuent-</hi>
-<lb/>ed <hi rend="italic">or deuised. Wherefore I thinke it good, concerning this matter, heere to lay downe the iudgement of</hi> <persName>Goropius Becanus</persName>, <hi rend="italic">our countryman, who thinketh</hi>
-<lb/><hi rend="italic">it to be so named, not of a woman, (which is probable, either neuer was, or neuer came heere) but</hi> <unclear>a</unclear> <hi rend="italic">latitudine videndi, of the largenesse of his prospect (as</hi>
-<lb/><hi rend="italic">he speaketh) namely, because (I do cite his owne words out of the 9. booke of his</hi> <persName>Origines</persName>) <hi rend="italic">it doth not only looke toward</hi> <placeName>Asia</placeName>, <hi rend="italic">on the East and South:</hi> <placeName>Africa</placeName>,
-<lb/><hi rend="italic">on the South and West: but also the New-found-world beyond the</hi> <placeName>Hyperborei</placeName>, <hi rend="italic">on the West and North. Neither shall any man perswade me, that</hi> <placeName>Europe</placeName>
-<lb/><hi rend="italic">had the name from</hi> <placeName>Greece</placeName> <hi rend="italic">or the Greeke language, seeing that it was first inhabited of the</hi> <note type="group of people">Cimbers</note> (<hi rend="italic">Cimmerij, descended from</hi> <persName>Gomer</persName>, <hi rend="italic">the elder brother)</hi>
-<lb/><hi rend="italic">before it was possessed of the</hi> <note type="group of people">Greeks</note> (<unclear>Iones</unclear>, <hi rend="italic">come from</hi> <persName>Iawan</persName> <hi rend="italic">a yonger brother) but the 4. son of</hi> <persName>Yapheth</persName>) <hi rend="italic">we make a dipthong by setting the 5. vowel of the</hi> 
-<lb/><hi rend="italic">Latins before the 2. which neither the</hi> <note type="group of people">Latins</note> <hi rend="italic">nor</hi> <note type="group of people">Greeks</note> <hi rend="italic">do admit. Therefore if so be at any time they change the words in which this did light, for</hi> We,
-<lb/><hi rend="italic">they put</hi> Eu; <hi rend="italic">turning it backward. Therefore our men do term it</hi> <unclear>Verop</unclear>, <hi rend="italic">not</hi> Europ, <hi rend="italic">whereby they vnderstand a worthy company of men: for</hi> Wer <hi rend="italic">(a mono-</hi>
-<lb/>syllable <hi rend="italic">pronounced like a dipthong) signifieth lofty, great, excellent &amp; that which is best in euery kind of thing: which notwithstanding some do write</hi> ur, 
-<lb/><hi rend="italic">without a dipthong, yet with a long vowell. Therefore, as of</hi> <persName>Terues</persName>, <hi rend="italic">they formed</hi> <persName>Tereus</persName>, <hi rend="italic">so of</hi> <persName>Werop</persName>, <hi rend="italic">the</hi> <note type="group of people">Latines</note> <hi rend="italic">and</hi> <note type="group of people">Greeks</note> <hi rend="italic">haue made</hi> <placeName>Europe</placeName>: <hi rend="italic">so named of</hi>
-<lb/><hi rend="italic">the excellency of the Nation, which doth farre surpasse all the other men of the World. For</hi> <unclear><persName>Hop</persName></unclear>, <hi rend="italic">as I haue shewed before, signifieth a company or multitude of men.</hi>
-<lb/><hi rend="italic">More of this word thou maist see in his</hi> <persName>8.</persName> <hi rend="italic">booke. Thus farre out of his workes which are foorth in print: that which followeth, is taken out of a booke of his</hi>
-<lb/><hi rend="italic">which he also hath set foorth, yet not imprinted, but such as he vsed priuatly, and hath many additions in sundrie places in the margin written with his owne</hi>
-<lb/>hand, <hi rend="italic">which he had prepared against the second edition. But I waighing, saith he, and comparing this name with that which I haue read in holy Scripture, a-</hi>
-<lb/>nother <hi rend="italic">reason farre more excellent, and better commeth into my mind. We see that to</hi> <persName>Yaphet</persName> <hi rend="italic">was promised enlargement or a farre spreading of his posterity,</hi>
-<lb/><hi rend="italic">or as some other interpret the word, ioy and gladnesse: which then he truly had enioied, when as</hi> <persName>Christ</persName> <hi rend="italic">had redeemed vs by his death and pretious bloud (which</hi>
-<lb/><hi rend="italic">blessing doth agree to this part of the world, rather than to any other vnder heauen beside: and therefore all other countries generallie do call</hi> <placeName>Europe</placeName>: THE
-<lb/>KINGDOME <hi rend="italic">OF THE</hi> <note type="group of people">CHRISTIANS</note>: <hi rend="italic">and the</hi> <note type="group of people">Europeans</note>, <hi rend="italic">are called of the</hi> <note type="group of people">Turkes</note> <hi rend="italic">and</hi> <note type="group of people">Arabians</note>, <hi rend="italic">GAIVVR, that is,</hi> <note type="group of people">Christians</note>. <hi rend="italic">E, therefore,</hi>
-<lb/><hi rend="italic">doth signifie a lawfull contract and mariage:</hi> VR, <hi rend="italic">excellent: and</hi> HOP, <hi rend="italic">hope: whereupon it commeth to passe, that</hi> <placeName>Europe</placeName> <hi rend="italic">signifieth</hi> The excellent hope
-<lb/>of <hi rend="italic">a lawfull mariage. which is proper to this portion of the world which</hi> <persName>Noah</persName> <hi rend="italic">gaue to</hi> <persName>Iapheth</persName> <hi rend="italic">his sonne to inhabite. For although that the posterity of</hi> <persName>Sem</persName>
-<lb/><hi rend="italic">was by</hi> <persName>Abraham</persName>, <hi rend="italic">for many ages wedded to God, yet at length he put her away and diuorced her from him. But the wedlocke whereby God, by</hi> <persName>Christ</persName> <hi rend="italic">is wed-</hi>
-<lb/>ded to <placeName>Europe</placeName> <hi rend="italic">his Church, shall neuer be dissolued: so that</hi> <placeName>Europe</placeName> <hi rend="italic">may most properly be said to be</hi> <persName>Iaphets</persName> <hi rend="italic">portion. But of this word we will speake more in</hi>
-<lb/>our <placeName>Francica</placeName>. <hi rend="italic">Thus farre</hi> <persName>Goropius</persName>. <hi rend="italic">Which I haue very willingly communicated to the courteous Reader, leauing it to the censure of the learned to be iud-</hi>
-<lb/>ged. <hi rend="italic">Yet I know that these things haue been very bitterly skoffed at already by a certaine learned man, but one wholly ignorant of this tongue, and therefore of</hi>
-<lb/>lesse <hi rend="italic">iudgement in this argument. There are some which do think that this</hi> <placeName>Europe</placeName> <hi rend="italic">was in the holy Scripture called</hi> <persName>IAPETIA</persName>. <hi rend="italic">Thus farre of</hi> <placeName>Europe</placeName>, <hi rend="italic">to</hi>
-<lb/>which <hi rend="italic">before I do altogether leaue, I will adioyne out of</hi> <persName>Herodotus</persName> <hi rend="italic">in his</hi> <persName>Polymnia</persName>, <hi rend="italic">the words of</hi> <persName>Mardonius</persName> <hi rend="italic">to</hi> <persName>Darius</persName> <hi rend="italic">spoken of this country.</hi> <hi rend="italic">That it is a</hi>
-<lb/>country <hi rend="italic">most goodly and beautifull, bearing all maner of excellent fruitfull trees, and those in their kind the best: and to be such that it were pi-</hi>
-<lb/>ty <hi rend="italic">that any man but a king only should possesse.</hi>
+<lb/>
+<hi rend="italic">saith, have seriously thought: nor in</hi> 
+<placeName ref="#spaine">Spaine</placeName>, 
+<hi rend="italic">as</hi> 
+<persName ref="#ae"><note type="letter"><!--ash or aesc-->AE</note></persName> 
+<hi rend="italic">beleeued: nor in certaine rockes at the further end of the gulfe of</hi> 
+<placeName ref="#venice">Venice</placeName>, (mare Hadriaticum)
+<lb/>
+<hi rend="italic">as some mere suber men haue giuen out: nor in</hi> 
+<persName ref="#liguria">Liguria</persName>, 
+<hi rend="italic">as</hi> 
+<persName ref="#sudinus">Sudinus</persName>, 
+<persName ref="#metrodorus">Metrodorus</persName>, 
+<hi rend="italic">and</hi> 
+<persName ref="#theophrastus">Theophraftus</persName> 
+<hi rend="italic">would haue men thinke: nor in</hi> 
+<placeName ref="#ethiopia">Ethiopia</placeName>, 
+<hi rend="italic">neere</hi> Iupiter Ammons <hi rend="italic">temple, or in</hi> 
+<placeName ref="#scythia">Scythia</placeName>, 
+<hi rend="italic">as</hi> 
+<persName ref="#philemon">Philemon</persName> 
+<hi rend="italic">imagined: nor in</hi> 
+<placeName ref="#britaine">Britaine</placeName>, 
+<hi rend="italic">as</hi> 
+<persName ref="#socatus">Socatus</persName>: 
+<hi rend="italic">nor in the</hi> 
+<placeName ref="#gleslariae">Gleflari<note type="letter">ae</note></placeName>, 
+<hi rend="italic">ilands in the</hi> 
+<placeName ref="#germanOcean">Germane ocean</placeName>, 
+<hi rend="italic">as</hi> 
+<persName ref="#pliny">Pliny</persName>
+<lb/>
+<hi rend="italic">hathtaught: nor in</hi> 
+<placeName ref="#bannonia">Bannonia</placeName> 
+<hi rend="italic">or</hi> 
+<placeName ref="#baltia">Baltia</placeName>, 
+<hi rend="italic">(a certain iland) as</hi> 
+<persName ref="#timaeus">Tim<note type="letter">ae</note>us</persName> 
+<hi rend="italic">hath broached: nor in a certain riuer, as</hi> 
+<persName ref="#dionPrulaeus">Dion Prul<note type="letter">ae</note>us</persName> 
+<hi rend="italic">hath taught: but neere vnto the neckland or peninsula</hi> 
+<placeName ref="#neckland"><note type="letter">ae</note></placeName>, 
+<hi rend="italic">in the bay</hi> 
+<placeName ref="#pautzkerwicke">Pautzkerwicke</placeName> 
+<hi rend="italic">and</hi> 
+<placeName ref="#frischHaff">Frifch-haff</placeName> 
+(<hi rend="italic">Sinus Clilipenus</hi>) 
+<hi rend="italic">in the</hi> 
+<placeName ref="#baltic">Balticke</placeName> 
+<hi rend="italic">or</hi> 
+<placeName ref="#eastSea">East Sea</placeName>, 
+<hi rend="italic">not farre from</hi> 
+<placeName ref="#dantzk">Dantzk</placeName> 
+<hi rend="italic">in</hi>
+<lb/>
+<placeName ref="#pomerell">Pomerell</placeName> 
+<hi rend="italic">or</hi> 
+<placeName ref="#sprufe">Sprufe</placeName>: 
+<hi rend="italic">where hitherto it hath been taken (a thing wholly hidden from the ancients) to the great gaine and enriching of the Nations neere inha-</hi>
+<lb/>
+biting: 
+<hi rend="italic">and not in any other place of the world beside. In the same</hi> 
+<placeName ref="#europe">Europe</placeName> 
+<hi rend="italic">are there many goodly and stately cities, amongst the which the most famous, in all</hi>
+<lb/>
+ages, 
+<hi rend="italic">are</hi> 
+<placeName ref="#rome">Rome</placeName> 
+<hi rend="italic">and</hi> 
+<placeName ref="#constantinople">Constantinople</placeName>, 
+<hi rend="italic">(which afterward was called</hi> 
+<placeName ref="#newRome">New-Rome</placeName><hi rend="italic">) and now are</hi> 
+<placeName ref="#london">London</placeName>, 
+<placeName ref="#venice">Venice</placeName> 
+<hi rend="italic">and</hi> 
+<placeName ref="#paris">Paris</placeName>. 
+<hi rend="italic">The riuers of greater note</hi>
+<lb/>
+<hi rend="italic">are</hi> 
+<placeName ref="#rhein">Rhein</placeName>, 
+<placeName ref="#danube">Isther</placeName> 
+<hi rend="italic">or</hi> 
+<placeName ref="#donaw">Donaw</placeName>, 
+<hi rend="italic">and the</hi> 
+<placeName ref="#thames">Thames</placeName>: 
+<hi rend="italic">the woods more notable are</hi> 
+<placeName ref="#ardene">Ardene</placeName> 
+<hi rend="italic">in</hi> 
+<placeName ref="#gallia">Gallia</placeName>, 
+<hi rend="italic">500 miles of length, reaching from the riuer of</hi> 
+<placeName ref="#rhein">Rhein</placeName> 
+<hi rend="italic">vn-</hi>
+<lb/>
+to 
+<placeName ref="#tourney">Tourney</placeName> 
+<hi rend="italic">in</hi> 
+<placeName ref="#france">France</placeName>; 
+<hi rend="italic">and</hi> 
+<placeName ref="#hercynia">Hercynia</placeName> 
+<hi rend="italic">in</hi> 
+<placeName ref="#germany">Germany</placeName>, 
+<hi rend="italic">40 daies iourney long, as</hi> 
+<persName ref="#pomponiusMela">Pomponius</persName> 
+<hi rend="italic">writeth, and 9 daies iourney broad, as</hi> 
+<persName ref="#caesar">C<note type="letter">ae</note>ser</persName> 
+<hi rend="italic">in his Commen-</hi>
+<lb/>
+taries 
+<hi rend="italic">reporteth: a greater wood than which, or more vast, there is no history maketh mention of. Thus much of</hi> 
+<placeName ref="#europe">Europe</placeName>. 
+<hi rend="italic">But whereof it tooke the name</hi>
+<lb/>
+and 
+<hi rend="italic">was so called, or who first gave it that name, I thinke</hi> 
+<persName ref="#herodotus">Herodotius</persName> 
+<hi rend="italic">saith, there is no man vnder heauen doth certainly know or can vpon any probabilitie</hi>
+<lb/>
+gesse, 
+<hi rend="italic">except one should think it so called of</hi> 
+<placeName ref="#europaTyre">Europa Tyria</placeName>. 
+<hi rend="italic">But wherefore it should so of her be named, I am wholly ignorant, and I perswade my selfe and do</hi>
+<lb/>
+verily beleeue, 
+<hi rend="italic">that no man in the world truly knoweth. For that she, as we read in the fabulous stories of the poets, was violently taken out of</hi> 
+<placeName ref="#phoenicia">Ph<note type="letter">oe</note>nicia</placeName>, 
+<hi rend="italic">a</hi>
+<lb/>
+country 
+<hi rend="italic">of</hi> 
+<placeName ref="#asia">Asia</placeName>, 
+<hi rend="italic">and carried from thence into</hi> 
+<placeName ref="#cyprus">Cyprus</placeName>, 
+<hi rend="italic">or as others write, into the iland</hi> 
+<placeName ref="#creta">Creta (Candy)</placeName> 
+<hi rend="italic">all men do know well enough: where, as</hi> 
+<persName ref="#eusebius">Eusebius</persName> 
+<hi rend="italic">his</hi>
+<lb/>
+Chronicle 
+<hi rend="italic">doth witnesse, being taken of</hi> 
+<persName ref="#asterius">Asterius</persName> 
+<hi rend="italic">king of</hi> 
+<placeName ref="#creta">Creta</placeName> 
+<hi rend="italic">to wife, she bare him</hi> 
+<persName ref="#minoas">Minoes</persName>, 
+<persName ref="#rhadamanthus">Rhadamanthus</persName> 
+<hi rend="italic">and</hi> 
+<persName ref="#sarpedon">Sarpedon</persName>: 
+<hi rend="italic">from whence she went not into</hi>
+<lb/>
+<placeName ref="#europe">Europe</placeName>, 
+<hi rend="italic">but into</hi> 
+<placeName ref="#asia">Asia</placeName>, 
+<hi rend="italic">as</hi> 
+<persName ref="#herodotus">Herodotus</persName> 
+<hi rend="italic">hath left recorded. But what is that to</hi> 
+<placeName ref="#europe">Europe</placeName> 
+<hi rend="italic">this part of the world? One might easilier beleeue it to haue been so</hi>
+<lb/>
+named 
+<hi rend="italic">of</hi> 
+<persName ref="#europus">Europus</persName>, 
+<hi rend="italic">who, as</hi> 
+<persName ref="#trogusPompeius">Trogus Pompeius</persName> 
+<hi rend="italic">witnesseth, sometime in these parts possessed a large kingdome: which also I do see to be auouched by</hi> 
+<persName ref="#eustathius">Eustathius</persName>
+<lb/>
+<hi rend="italic">vpon</hi> 
+<persName ref="#lycophron">Lycophron</persName>, 
+<hi rend="italic">who maketh this</hi> 
+<persName ref="#europis">Europis</persName> 
+<hi rend="italic">to be the sonne of one</hi> 
+<persName ref="#himerus">Himerus</persName>. 
+<persName ref="#pausanias">Pausanias</persName> 
+<hi rend="italic">saith that one</hi> 
+<persName ref="#eurpoa">Eurpoa</persName> 
+<hi rend="italic">was king of</hi> 
+<placeName ref="#sicyonia">Sicyonia</placeName>, 
+<hi rend="italic">a prouince of</hi>
+<lb/>
+<placeName ref="#peloponnelius">Peloponnelius</placeName> 
+<hi rend="italic">in</hi> 
+<placeName ref="#greece">Greece</placeName>: 
+<hi rend="italic">to him</hi> 
+<persName ref="#eusebius">Eusebius</persName> 
+<hi rend="italic">in his Chronicle doth ascribe, who maketh him equall to the Patriarke</hi> 
+<persName ref="#abraham">Abraham</persName>, 
+<hi rend="italic">and to haue liued aboue 3550</hi>
+<lb/>
+yeares 
+<hi rend="italic">since, about 1950 yeares before the birth of</hi> 
+<persName ref="#christ">Christ</persName>. 
+<hi rend="italic">There be some, as</hi> 
+<persName ref="#festus">Festus</persName> 
+<hi rend="italic">writeth, that thinke it so named of the beautifulnesse and excellency</hi>
+<lb/>
+of the 
+<hi rend="italic">country. <hi rend="italic">These we are sure are fabulous or vncertaine: may we not therefore, as they haue formed of</hi> </hi>
+<persName ref="#phrat">Phrat</persName>, 
+<persName ref="#euphrates">Euphrates</persName>, 
+<hi rend="italic">and of</hi> 
+<persName ref="#koft">Koft</persName>,
+<persName ref="#aegyptus">AEgyptus</persName> 
+<hi rend="italic">(as
+<lb/>we haue shewed before) thinke that of</hi> 
+<persName ref="#riphath">Riphath</persName> 
+<hi rend="italic">(the sonne of</hi> 
+<persName ref="#gomer">Gomer</persName>, 
+<persName ref="#yapheth">Iapheths</persName> 
+<hi rend="italic">sonne, to whom this part of the world was presently after the confusion at</hi> 
+<placeName ref="#babel">Babel</placeName>
+<lb/>
+<hi rend="italic">assigned) they haue likewise formed</hi> 
+<placeName ref="#europaScriptural">Europa</placeName>? 
+<hi rend="italic">And surely the name</hi> 
+<persName ref="#riphath">Riphath</persName> 
+<hi rend="italic">doth very manifestly shew it selfe in</hi> 
+<placeName ref="#rhipaeisMontibus">Rhip<note type="letter">ae</note>is</placeName> 
+<placeName ref="#riphaeanHills">montibus</placeName>, 
+<hi rend="italic">the</hi> 
+<unclear><placeName ref="#riphaeanHills2">Riphean hils</placeName></unclear>:
+<lb/>
+item 
+<hi rend="italic">in</hi> 
+<placeName ref="#riphaeoFluvius">Riph<note type="letter">ae</note>o</placeName> 
+<placeName ref="#fluvius">fluuio</placeName>, 
+<hi rend="italic">now called the riuer</hi> 
+<placeName ref="#oby">Oby</placeName>, 
+<hi rend="italic">in</hi> 
+<placeName ref="#ripeCity">Ripe</placeName>, 
+<hi rend="italic">a city of</hi> 
+<placeName ref="#peloponneses">Peloponneses</placeName>, 
+<hi rend="italic">in</hi> 
+<placeName ref="#rhiphataeis">Rhiphat<note type="letter">ae</note>is</placeName>, 
+<hi rend="italic">the people of</hi> 
+<placeName ref="#paphlagonia">Paphlagonia</placeName>, 
+<hi rend="italic">as</hi> 
+<persName ref="#josephus">Iosephus</persName> 
+<hi rend="italic">writeth.</hi> 
+<lb/>
+<persName ref="#ptolemy">Ptolemey</persName> 
+<hi rend="italic">in the second booke of his</hi> 
+<placeName ref="#quadripartite">Quadripartite</placeName>, 
+<hi rend="italic">in my opinion much more truly, writeth that it was sometime called by a common name,</hi> 
+<placeName ref="#celtica">C E L T I C A</placeName>, 
+<hi rend="italic">name-</hi>
+<lb/>
+ly 
+<hi rend="italic">of a principall Nation that first did inhabite it. For there is almost no prouince in all this part, in which in time past the</hi> 
+<note type="group of people">C E L T A E</note> 
+<hi rend="italic">did not inhabit.</hi> 
+<lb/>
+<hi rend="italic">For in</hi> 
+<placeName ref="#spaine">Spaine</placeName> 
+<hi rend="italic">toward the West, and beyond Hercules pillars are the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note> 
+<hi rend="italic">as</hi> 
+<persName ref="#herodotus">Herodotus</persName> 
+<hi rend="italic">affirmeth. Item, about the riuer</hi> 
+<placeName ref="#baetis">B<note type="letter">ae</note>tis</placeName>, 
+<hi rend="italic">as</hi> 
+<persName ref="#strabo">Strabo</persName> 
+<hi rend="italic">auoucheth, the</hi>
+<lb/>
+<unclear><note type="group of people">Celtici Pre<note type="letter">ae</note>samarci</note></unclear>, 
+<hi rend="italic">are in the prouince of</hi> 
+<placeName ref="#lucensis">Lucensis</placeName>, 
+<hi rend="italic">and others otherwise named</hi> 
+<unclear><note type="group of people">Nerij</note></unclear> 
+<hi rend="italic">as</hi> 
+<persName ref="#pliny">Pliny</persName> 
+<hi rend="italic">saith:</hi> 
+<persName ref="#dion">Dion</persName> 
+<hi rend="italic">and</hi> 
+<persName ref="#xiphilinus">Xiphilinus</persName> 
+<hi rend="italic">do shew that the</hi> 
+<note type="group of people">Canta-</note>
+<lb/>
+<note type="group of people">bri</note> 
+<hi rend="italic">and</hi> 
+<note type="group of people">Astures</note> 
+<hi rend="italic">are the same with the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note>: 
+<persName ref="#pliny">Pliny</persName> 
+<hi rend="italic">nameth the city</hi> 
+<placeName ref="#celticaCity">Celtica</placeName>, 
+<hi rend="italic">in the prouince</hi> 
+<placeName ref="#hispalensis">Hispalensis</placeName>. 
+<persName ref="#antonius">Antonius</persName> 
+<note type="group of people">Celti</note>: 
+<hi rend="italic">item</hi> 
+<placeName ref="#celticumPromontorium">Celticum promontorium</placeName>,
+<lb/>
+<hi rend="italic">is the same that</hi> 
+<placeName ref="#cantabrumPromontorium">Cantabrum promontorium</placeName>, 
+<hi rend="italic">which now is called</hi> 
+<placeName ref="#caboDeFinisTerre">Cabo de finis terre</placeName>. 
+<hi rend="italic">What Geographer or Historian is he amongst the anci-</hi>
+<lb/>
+ents 
+<hi rend="italic">that hath not made mention of the</hi> 
+<note type="group of people">Celtebri</note>? 
+<hi rend="italic">In</hi> 
+<placeName ref="#france">France</placeName> 
+<hi rend="italic">were the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note> 
+<hi rend="italic">and</hi> 
+<unclear><note type="group of people">Celtogalat<note type="letter">ae</note></note></unclear>: 
+<hi rend="italic">and from thence are those in</hi> 
+<placeName ref="#britaine">Britaine</placeName>. 
+<hi rend="italic">For that this iland</hi>
+<lb/>
+<hi rend="italic">was first peopled from hence, lying so neere oueragainstit, it is a common opinion and very probable. That the</hi> 
+<note type="group of people">Gauls Germanes</note> 
+<hi rend="italic">were vulgarly called</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note>,
+<lb/>
+<hi rend="italic">all Historiographers do iointly agree: and indeed</hi> 
+<persName ref="#dion">Dion</persName> 
+<hi rend="italic">doth affirme, that the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note> 
+<hi rend="italic">did dwell vpon either side of the riuer</hi> 
+<placeName ref="#rhem">Rhem</placeName>: 
+<hi rend="italic">the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note> 
+<hi rend="italic">dwelt in</hi>
+<lb/>
+<placeName ref="#galliaCisalpina">Gallia Cisalpina</placeName> 
+<placeName ref="#lombardy">(Lombardy)</placeName> 
+<hi rend="italic">or</hi> 
+<placeName ref="#italy">Italy</placeName>, 
+<hi rend="italic">as</hi> 
+<persName ref="#appianus">Appianus</persName> 
+<hi rend="italic">writeth. And again vpon the</hi> 
+<placeName ref="#ionianSea">Ionian sea</placeName>, 
+<hi rend="italic">(that is, the</hi> 
+<placeName ref="#hadriatic">Hadriaticke</placeName>), 
+<hi rend="italic">which also</hi> 
+<persName ref="#strabo">Strabo</persName> 
+<hi rend="italic">doth auerre.</hi>
+<lb/>
+<persName ref="#siliusItalicus">Silius Italicus</persName> 
+<hi rend="italic">placeth them about the riuer</hi> 
+<placeName ref="#eridianus">Eridianus (Po)</placeName>. 
+<hi rend="italic">In</hi> 
+<placeName ref="#epirus">Epirus</placeName> 
+<hi rend="italic">sometime dwelled the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note>, 
+<hi rend="italic">as</hi> 
+<persName ref="#antoniusLiberalis">Antonius Liberalis</persName> 
+<hi rend="italic">hath giuen out:</hi> 
+<persName ref="#stephanusByzantinus">Stepha-
+<lb/>nus</persName> 
+<hi rend="italic">placeth the same about the mount</hi> 
+<placeName ref="#haemus">H<note type="letter">oe</note>mus</placeName>: 
+<placeName ref="#arrianus">Arrianus</placeName>, 
+<hi rend="italic">neere the mouth of the riuer</hi> 
+<placeName ref="#donaw">Donaw</placeName>: 
+<hi rend="italic">as also</hi> 
+<persName ref="#strabo">Strabo</persName> 
+<hi rend="italic">in</hi> 
+<placeName ref="#moesia">M<note type="letter">oe</note>sia</placeName>. 
+<hi rend="italic">The same author writeth,</hi>
+<lb/>
+<hi rend="italic">that the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note> 
+<hi rend="italic">are intermedled with the</hi> 
+<note type="group of people">Illyrij</note> 
+<hi rend="italic">and</hi> 
+<note type="group of people">Thraces</note>. 
+<hi rend="italic">Who also placeth them vpon the riuer</hi> 
+<placeName ref="#borysthenes">Borysthenes</placeName>. 
+<hi rend="italic">Moreouer</hi> 
+<persName ref="#aristotle">Aristotle</persName> 
+<hi rend="italic">in his booke</hi> 
+<placeName ref="#deMundo">De mundo</placeName>,
+<lb/>
+<hi rend="italic">ioineth the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note> 
+<hi rend="italic">with the</hi> 
+<note type="group of people">Scythians</note>. 
+<hi rend="italic">Heere hence the same</hi> 
+<persName ref="#strabo">Strabo</persName> 
+<hi rend="italic">and</hi> 
+<persName ref="#plutarch">Plutarch</persName> 
+<hi rend="italic">do make their</hi> 
+<note type="group of people">Celtoscyth<note type="letter">ae</note></note>. 
+<hi rend="italic">In</hi> 
+<persName ref="#plutarch">Plutarch</persName>, 
+<hi rend="italic">in the life of</hi> 
+<persName ref="#camilus">Camilus</persName>,
+<lb/>
+<hi rend="italic">I read that the</hi> 
+<note type="group of people">Galat<note type="letter">ae</note></note> 
+<hi rend="italic">(which he maketh to haue come of the stocke of the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note>) 
+<hi rend="italic">passing the</hi> 
+<placeName ref="#northSea">Northren sea</placeName> 
+<hi rend="italic">came vnto the</hi> 
+<placeName ref="#riphaeanMontes">Riph<note type="letter">ae</note>an mountains</placeName>. 
+<lb/>
+<hi rend="italic">Againe out of the forenamed</hi> 
+<persName ref="#strabo">Strabo</persName> 
+<hi rend="italic">I learne that the nations dwelling Northward were in his time called</hi> 
+<unclear><note type="group of people">Calt<note type="letter">ae</note></note></unclear>. 
+<hi rend="italic">The which also their ancient lan-</hi>
+<lb/>
+guage, 
+<hi rend="italic">which is called the</hi> 
+<note type="group of people">Celticke</note> 
+<hi rend="italic">or</hi> 
+<note type="group of people">Germane</note> 
+<hi rend="italic">tongue, doth at this day sufficiently demonstrate: which is the same (only differing a little in dialect) with that which</hi>
+<lb/>
+<hi rend="italic">is vsed in the ilands neere adioining to these places, as in Island,</hi> 
+<placeName ref="#groenland">Groenland</placeName>, 
+<placeName ref="#friesland">Friesland</placeName> 
+<hi rend="italic">and others in this ocean.</hi> 
+<persName ref="#plutarch">Plutarke</persName> 
+<hi rend="italic">in</hi> 
+<persName ref="#marius">Marius</persName> 
+<hi rend="italic">wri-</hi>
+<lb/>
+teth, 
+<hi rend="italic">that Celtica doth begin at the outmost sea (that is, the</hi> 
+<placeName ref="#atlantickeSea">Atlanticke Sea</placeName>) 
+<hi rend="italic">and so stretcheth itselfe out farre into the North and from thence vn-</hi>
+<lb/>
+to the fenne 
+<placeName ref="#maeotis">M<note type="letter">ae</note>otis</placeName>, 
+(<foreign xml:lang="la">Mare delle Zabacche</foreign>). 
+<persName ref="#pomponiusMela">Pomponius Mela</persName> 
+<hi rend="italic">calleth the</hi> 
+<placeName ref="#cassiterides">Cassiterides</placeName> 
+<hi rend="italic">(which in another place we haue proued to belong to</hi> 
+<placeName ref="#greatBritaine">great Britaine</placeName>, 
+<lb/>
+<hi rend="italic">or to be the number of those which are named</hi> 
+<placeName ref="#brittaniae">Brittanic<note type="letter">ae</note></placeName> 
+<hi rend="italic">) Celticke Ilands. What is this else, I pray you, than plainly to affirme that</hi> THE 
+<note type="group of people">C E L T <note type="letter">AE</note></note> DO  
+<lb/>
+POSSESSE ALL 
+<placeName ref="#europe">E V R O P E</placeName>? 
+<hi rend="italic">Which indeed is that which</hi> 
+<persName ref="#ephorus">Ephorus</persName> 
+<hi rend="italic">in</hi> 
+<persName ref="#strabo">Strabo</persName> 
+<hi rend="italic">did see so many years since: when as he diuiding all the world into 4. quar-</hi>
+<lb/>
+ters, 
+<hi rend="italic">saith that, That part which is toward the East, is inhabited of the</hi> 
+<note type="group of people">Indians</note>: 
+<hi rend="italic">that which is in the South, of the</hi> 
+<note type="group of people">AEthiopians</note>: 
+<hi rend="italic">the North parts, of</hi> 
+<note type="group of people">Scythians</note>: 
+<hi rend="italic">and the West, of the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note>. 
+<hi rend="italic">The scholiast of</hi> 
+<persName ref="#appollonius">Appollonius</persName> 
+<hi rend="italic">nameth the</hi> 
+<placeName ref="#hadriatic">Hadriaticke sea</placeName>, 
+<placeName ref="#mareCelticum">Mare Celticum</placeName>, 
+<hi rend="italic">the</hi> 
+<placeName ref="#celticSea">Celticke Sea</placeName>. 
+<hi rend="italic">And</hi> 
+<persName ref="#lycophron">Lyco-</persName>
+<lb/>
+phron 
+<hi rend="italic">describeth Celtos, a certain poole, about the mouth of the riuer</hi> 
+<placeName ref="#ister">Ister</placeName>. 
+<hi rend="italic">Item he placeth</hi> 
+<placeName ref="#leuce">Leuce</placeName> 
+<hi rend="italic">an iland of</hi> 
+<placeName ref="#marMaiore">Mar maiore</placeName> 
+<foreign xml:lang="la">(<hi rend="italic">Pontus Euxinus</hi>)</foreign> 
+<hi rend="italic">oueragainst the mouth of the riuer</hi> 
+<placeName ref="#donaw">Donaw</placeName>.
+<lb/>
+<hi rend="italic">May we not therefore properly, as they call those that inhabit</hi> 
+<placeName ref="#asia">Asia</placeName>, 
+<note type="group of people">Asians</note>: 
+<hi rend="italic">and those which dwell in</hi> 
+<placeName ref="#africa">Africa</placeName>, 
+<note type="group of people">Africanes</note>: 
+<hi rend="italic">call these which dwell in</hi> 
+<placeName ref="#celtica">Celtica</placeName>, 
+<note type="group of people">Celtickes</note><unclear>?</unclear> 
+<lb/>
+<hi rend="italic">He that out of all ancient stories, penned either in Latine or Greeke, doth not know that the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note> 
+<hi rend="italic">are the</hi> 
+<note type="group of people">Germanes</note>, 
+<hi rend="italic">let him haue recourse to the 22. chapter of</hi> 
+<persName ref="#hadrianusJunius">Hadrianus Iunius</persName> 
+<hi rend="italic">his</hi> 
+<placeName ref="#batauia">Batauia</placeName>, 
+<hi rend="italic">and I doubt not but, hauing throughly waied those many sound ar-</hi>
+<lb/>
+guments, 
+<hi rend="italic">and sufficient testimonies of ancient graue writers, shall rest satisfied and sweare to our opinion. If not, let him listen to the</hi> 
+<note type="group of people">Dutchmen</note>, 
+<hi rend="italic">and he shall</hi>
+<lb/>
+hear 
+<hi rend="italic">them call one another in their familiar communication,</hi> Kelt. 
+<hi rend="italic">The</hi> 
+<note type="group of people">French</note> 
+<hi rend="italic">also or</hi> 
+<placeName ref="#gauls">Gauls</placeName> 
+<hi rend="italic">I call a German nation. And I can proue by good arguments, if it</hi>
+<lb/>
+<hi rend="italic">were a matter pertaining to this our purpose, that the Germane or Dutch tongue is the ancient language of the</hi> 
+<note type="group of people">Celt<note type="letter">ae</note></note>, 
+<hi rend="italic">and to be the same which hitherto they</hi>
+<lb/>
+<hi rend="italic">haue vsed in all places and now is spoken, except in some places where the power of the</hi> 
+<note type="group of people">Romanes</note> 
+<hi rend="italic">so preuailed, that they banished this, and seated theirs in the</hi> 
+<lb/>
+roome. 
+<hi rend="italic">It is likely therefore that the etymology and reason of the deriuation of the word</hi> 
+<placeName ref="#europe">Europe</placeName>, 
+<hi rend="italic">which was vnknowen vnto the old writers, is to be sought</hi>
+<lb/>
+<hi rend="italic">and fetched from no other language else, but from that which was most</hi> 
+<unclear>usuall</unclear> 
+<hi rend="italic">in this part of the world. For that the inhabitants of any country should take</hi>
+<lb/>
+<hi rend="italic">the name of their natiue soile from strangers, it is so absurd and hard to be beleeued, that there cannot any thing more foolish or contrary to truth be inuent-</hi>
+<lb/>
+ed 
+<hi rend="italic">or deuised. Wherefore I thinke it good, concerning this matter, heere to lay downe the iudgement of</hi> 
+<persName ref="#goropius">Goropius Becanus</persName>, 
+<hi rend="italic">our countryman, who thinketh</hi>
+<lb/>
+<hi rend="italic">it to be so named, not of a woman, (which is probable, either neuer was, or neuer came heere) but</hi> 
+<unclear>a</unclear> 
+<hi rend="italic">latitudine videndi, of the largenesse of his prospect (as</hi>
+<lb/>
+<hi rend="italic">he speaketh) namely, because (I do cite his owne words out of the 9. booke of his</hi> 
+<persName ref="#originesAuthor">Origines</persName>) 
+<hi rend="italic">it doth not only looke toward</hi> 
+<placeName ref="#asia">Asia</placeName>, 
+<hi rend="italic">on the East and South:</hi> 
+<placeName ref="#africa">Africa</placeName>,
+<lb/>
+<hi rend="italic">on the South and West: but also the New-found-world beyond the</hi> 
+<placeName ref="#hyperborei">Hyperborei</placeName>, 
+<hi rend="italic">on the West and North. Neither shall any man perswade me, that</hi> 
+<placeName ref="#europe">Europe</placeName>
+<lb/>
+<hi rend="italic">had the name from</hi> 
+<placeName ref="#greece">Greece</placeName> 
+<hi rend="italic">or the Greeke language, seeing that it was first inhabited of the</hi> 
+<note type="group of people">Cimbers</note> 
+(<hi rend="italic">Cimmerij, descended from</hi> 
+<persName ref="#gomer">Gomer</persName>, 
+<hi rend="italic">the elder brother)</hi>
+<lb/>
+<hi rend="italic">before it was possessed of the</hi> 
+<note type="group of people">Greeks</note> 
+(<unclear>Iones</unclear>, 
+<hi rend="italic">come from</hi> 
+<persName ref="#jawan">Iawan</persName> 
+<hi rend="italic">a yonger brother) but the 4. son of</hi> 
+<persName ref="#yapheth">Yapheth</persName>) 
+<hi rend="italic">we make a dipthong by setting the 5. vowel of the</hi> 
+<note type="group of people">Latines</note> 
+<hi rend="italic">before the 2. which neither the</hi> 
+<note type="group of people">Latins</note> 
+<hi rend="italic">nor</hi> 
+<note type="group of people">Greeks</note> 
+<hi rend="italic">do admit. Therefore if so be at any time they change the words in which this did light, for</hi> We,
+<lb/>
+<hi rend="italic">they put</hi> Eu; 
+<hi rend="italic">turning it backward. Therefore our men do term it</hi> 
+<unclear>Verop</unclear>, 
+<hi rend="italic">not</hi> Europ, 
+<hi rend="italic">whereby they vnderstand a worthy company of men: for</hi> Wer 
+<hi rend="italic">(a mono-</hi>
+<lb/>
+syllable 
+<hi rend="italic">pronounced like a dipthong) signifieth lofty, great, excellent &amp; that which is best in euery kind of thing: which notwithstanding some do write</hi> ur, 
+<lb/>
+<hi rend="italic">without a dipthong, yet with a long vowell. Therefore, as of</hi> 
+<persName ref="#terves">Terues</persName>, 
+<hi rend="italic">they formed</hi> 
+<persName ref="#tereus">Tereus</persName>, 
+<hi rend="italic">so of</hi> 
+<persName ref="#werop">Werop</persName>, 
+<hi rend="italic">the</hi> 
+<note type="group of people">Latines</note> 
+<hi rend="italic">and</hi> 
+<note type="group of people">Greeks</note> 
+<hi rend="italic">haue made</hi> 
+<placeName ref="#europe">Europe</placeName>: 
+<hi rend="italic">so named of</hi>
+<lb/>
+<hi rend="italic">the excellency of the Nation, which doth farre surpasse all the other men of the World. For</hi> 
+<unclear><persName ref="#hop">Hop</persName></unclear>, 
+<hi rend="italic">as I haue shewed before, signifieth a company or multitude of men.</hi>
+<lb/>
+<hi rend="italic">More of this word thou maist see in his</hi> 
+<persName ref="#goropius">8.</persName> 
+<hi rend="italic">booke. Thus farre out of his workes which are foorth in print: that which followeth, is taken out of a booke of his</hi>
+<lb/>
+<hi rend="italic">which he also hath set foorth, yet not imprinted, but such as he vsed priuatly, and hath many additions in sundrie places in the margin written with his owne</hi>
+<lb/>
+hand, 
+<hi rend="italic">which he had prepared against the second edition. But I waighing, saith he, and comparing this name with that which I haue read in holy Scripture, a-</hi>
+<lb/>
+nother 
+<hi rend="italic">reason farre more excellent, and better commeth into my mind. We see that to</hi> 
+<persName ref="#yapheth">Yaphet</persName> 
+<hi rend="italic">was promised enlargement or a farre spreading of his posterity,</hi>
+<lb/>
+<hi rend="italic">or as some other interpret the word, ioy and gladnesse: which then he truly had enioied, when as</hi> 
+<persName ref="#christ">Christ</persName> 
+<hi rend="italic">had redeemed vs by his death and pretious bloud (which</hi>
+<lb/>
+<hi rend="italic">blessing doth agree to this part of the world, rather than to any other vnder heauen beside: and therefore all other countries generallie do call</hi> 
+<placeName ref="#europe">Europe</placeName>: THE
+<lb/>
+KINGDOME 
+<hi rend="italic">OF THE</hi> 
+<note type="group of people">CHRISTIANS</note>: 
+<hi rend="italic">and the</hi> 
+<note type="group of people">Europeans</note>, 
+<hi rend="italic">are called of the</hi> 
+<note type="group of people">Turkes</note> 
+<hi rend="italic">and</hi> 
+<note type="group of people">Arabians</note>, 
+<hi rend="italic">GAIVVR, that is,</hi> 
+<note type="group of people">Christians</note>. 
+<hi rend="italic">E, therefore,</hi>
+<lb/>
+<hi rend="italic">doth signifie a lawfull contract and mariage:</hi> VR, 
+<hi rend="italic">excellent: and</hi> HOP, 
+<hi rend="italic">hope: whereupon it commeth to passe, that</hi> 
+<placeName ref="#europe">Europe</placeName> 
+<hi rend="italic">signifieth</hi> The excellent hope
+<lb/>
+of 
+<hi rend="italic">a lawfull mariage. which is proper to this portion of the world which</hi> 
+<persName ref="#noah">Noah</persName> 
+<hi rend="italic">gaue to</hi> 
+<persName ref="#yapheth">Iapheth</persName> 
+<hi rend="italic">his sonne to inhabite. For although that the posterity of</hi> 
+<persName ref="#sem">Sem</persName>
+<lb/>
+<hi rend="italic">was by</hi> 
+<persName ref="#abraham">Abraham</persName>, 
+<hi rend="italic">for many ages wedded to God, yet at length he put her away and diuorced her from him. But the wedlocke whereby God, by</hi> 
+<persName ref="#christ">Christ</persName> 
+<hi rend="italic">is wed-</hi>
+<lb/>
+ded to 
+<placeName ref="#europe">Europe</placeName> 
+<hi rend="italic">his Church, shall neuer be dissolued: so that</hi> 
+<placeName ref="#europe">Europe</placeName> 
+<hi rend="italic">may most properly be said to be</hi> 
+<persName ref="#yapheth">Iaphets</persName> 
+<hi rend="italic">portion. But of this word we will speake more in</hi>
+<lb/>
+our 
+<placeName ref="#francica">Francica</placeName>. 
+<hi rend="italic">Thus farre</hi> 
+<persName ref="#goropius">Goropius</persName>. 
+<hi rend="italic">Which I haue very willingly communicated to the courteous Reader, leauing it to the censure of the learned to be iud-</hi>
+<lb/>
+ged. 
+<hi rend="italic">Yet I know that these things haue been very bitterly skoffed at already by a certaine learned man, but one wholly ignorant of this tongue, and therefore of</hi>
+<lb/>
+lesse 
+<hi rend="italic">iudgement in this argument. There are some which do think that this</hi> 
+<placeName ref="#europe">Europe</placeName> 
+<hi rend="italic">was in the holy Scripture called</hi> 
+<persName ref="#iapetia">IAPETIA</persName>. 
+<hi rend="italic">Thus farre of</hi> 
+<placeName ref="#europe">Europe</placeName>, 
+<hi rend="italic">to</hi>
+<lb/>
+which 
+<hi rend="italic">before I do altogether leaue, I will adioyne out of</hi> 
+<persName ref="#herodotus">Herodotus</persName> 
+<hi rend="italic">in his</hi> 
+<persName ref="#polymnia">Polymnia</persName>, 
+<hi rend="italic">the words of</hi> 
+<persName ref="#mardonius">Mardonius</persName> 
+<hi rend="italic">to</hi> 
+<persName ref="#darius">Darius</persName> 
+<hi rend="italic">spoken of this country.</hi> 
+<hi rend="italic">That it is a</hi>
+<lb/>
+country 
+<hi rend="italic">most goodly and beautifull, bearing all maner of excellent fruitfull trees, and those in their kind the best: and to be such that it were pi-</hi>
+<lb/>
+ty 
+<hi rend="italic">that any man but a king only should possesse.</hi>
 </ab>
 
 </div></body></text>
