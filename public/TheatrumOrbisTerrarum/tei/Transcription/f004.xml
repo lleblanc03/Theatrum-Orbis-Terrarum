@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f004"/>
     <ab>
-    <head>
-        <figure rend="middle-top">
+        <p rend="middle-top">
+            <head>
             <figDesc xml:lang="la">
                 <lb/>THEA
                 <lb/>TRVM
@@ -9,8 +9,8 @@
                 <lb/>TERRA
                 <lb/>RVM
             </figDesc>
-        </figure>
-       </head> 
+            </head> 
+        </p>
     </ab>
     <ab>
         <figure rend="middle-top">
