@@ -447,17 +447,17 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 -->
 
 <pb facs="#f004" />
-    <ab>
+<ab>
         <figure rend="middle-top">
-            <head>
             <figDesc xml:lang="la">
+                <head>
                 <lb />THEA
                 <lb />TRVM
                 <lb />ORBIS
                 <lb />TERRA
                 <lb />RVM
+                </head> 
             </figDesc>
-            </head> 
         </figure>
     </ab>
     <ab>
