@@ -50,6 +50,7 @@
 
 <pb facs="#f004"/>
     <ab>
+    <head>
         <figure rend="middle-top">
             <figDesc xml:lang="la">
                 <lb/>THEA
@@ -59,6 +60,7 @@
                 <lb/>RVM
             </figDesc>
         </figure>
+       </head> 
     </ab>
     <ab>
         <figure rend="middle-top">
