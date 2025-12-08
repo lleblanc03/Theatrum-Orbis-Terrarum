@@ -749,42 +749,42 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
         <lb/>gently surueyed, from <placeName ref="#heluetia">Heluetia</placeName> or <placeName ref="#switzerland">Switzerland</placeName> we passed over the Mountaines into <placeName ref="#italy">Italy</placeName>, which is the next countrey unto
         <lb/>it Eastward, purposing also to view all the Provinces thereof seuerally. From thence we croffed the Sea, sayl'd into
         <lb/><placeName ref="#greece">Greece</placeName>. Whereupon going into <placeName ref="#slauonia">Slauonia</placeName>, we surueyed all the Countreys seuerally which do vulgarly speake the Slaunian
-            <figure rend="right">tongue,</figure>
+            <figure rend="bottom-right">tongue,</figure>
     </ab>
 
 <pb facs="#f012" />
-<ab>
 <personalstmt><!--Transcribed and encoded Seq. 13/f012 - Valerie Hernandez FSU 28'--></personalstmt>
-<lb /> tongue, ( to wit, <placeName ref="#hungary">Hungary</placeName>, <placeName ref="#transsyluania">Transsyluania</placeName>,<placeName ref="#polonia"> Polonia</placeName>, <placeName ref="#scandia">Scandia</placeName>, and <placeName ref="#rusia">Rusia</placeName>.) Thus hausing finished <placeName ref="#europe">Europe</placeName>, we come vn-
-<lb />to the <placeName ref="#isthmus">Isthmus</placeName> or <placeName ref="#straight-land">Straight-land</placeName>, which is betweene the head of the <placeName ref="#river-tanais">River Tanais</placeName> and the <placeName ref="#north-sea">North sea</placeName>, which is in deed the
-<lb />bound of <placeName ref="#europe">Europe</placeName> and <placeName ref="#asia">Asia</placeName> : from it we step into <placeName ref="#asia">Asia</placeName>. Which, after we have a while beheld, we left, and so passed into <placeName ref="#africa">Afri-
-<lb />ca</placeName>, by the <placeName ref="#streights">Streights</placeName>, or narrow piece of the <placeName ref="#mainland">Mainland</placeName>, which runneth between the <placeName ref="#bay-of-arabia">Bay of Arabia</placeName>, and the <placeName ref="#gulfe-of-damiata">gulfe of Damiata</placeName>,
-<lb />(Sirbonus Lacus) made by the ouerflowing of the <placeName ref="#midland-sea">Midland-sea</placeName>. From thence passing through <placeName ref="#egypt">Egypt</placeName> and <placeName ref="#barbary">Barbary</placeName> wee
-<lb />came vnto the <placeName ref="#streights-of-gibraltar">Streights of Gibraltar</placeName>, which we crossed, and at the length came home againe to our owne natiue countrey from
-<lb />whence we first set foote; like vnto a trauailer or a Pilgrime, which hath viewed and trauailed through many and sundry
-<lb />seuerall Nations and Countreys, pasing out of one into another, orderly as they lay and we situate one by another, ouer-
-<lb />skipping none, at last returneth lasely and ioyfully from whence he first set foorth.
-<lb /> Thus farre of the Mappes themselues: Now let vs speake a word or two of the backside of the same. Because we thought
-<lb />it would be a thing nothing pleasing to the Reader or Beholder, to see the backsides of the leaues altogether bare and empty;
-<lb />we determined there to make a certaine briefe and short declaration and Historical discourse of euery Mappe, in the same
-<lb />manner and order as we said we obserued in the Mappes themselues; omitting nor concealing any mans name, that we had oc-
-<lb />casion to vse. Moreouer to these also we have added a Table of the names of all the Authors, that euer wee knew or had;
-<lb />out of which, those that are so disposed, may fetch a more ample and larger <unclear reason="faded">discowse</unclear> and description of the seurall Countreys
-<lb />handled by them.  Wherefore the students of Geography shall haue here, in the Authours thus named in order, and in the 
-<lb />Catalogue of the Authours of the Geographicall Tables or Mappes, which we have set before this our worke, and lastly in 
-<lb />these Tables themselues, a certaine shoppe, as it were, furnished with all kinde of instruments necessarily required in such 
-<lb />like business : out of which, if peraduenture there may seeme any thing wanting, in his iudgement , either to be finishing of 
-<lb />any Booke of that argument, or more fuller descriptions of any Countreys whatsoeuer, very easily, or in deed without any la-
-<lb />bour at all be may see, from whence it may be and by be fetched.
-<lb />	These things they are which I thought good to admonish the Reader of. It remaineth now, that wee doe entreate every 
-<lb />man, to take this our labour and entertaine it, with no other minde then it was by vs both begunne and finished, at the length 
-<lb />set out and Imprinted. Farewell, and wish well to<persName ref="#francis-hogenberg">Francis Hogenberg</persName>, <persName ref="#ferdinand">Ferdinand</persName>, and <persName ref="#ambrofe-arfen">Ambrofe Arfen</persName>, by whose skil-
-<lb />full bands and extraordinary great paines and diligence almost all these Mappes were engrauen and cut.
-<lb />	From <placeName ref="#antwerp">Antwerp</placeName>, this present yeere <date when="1570">1570</date>.
-<lb />
-<lb />
-<lb />			THE
-</ab>
+    <ab>
+        <lb /> tongue, ( to wit, <placeName ref="#hungary">Hungary</placeName>, <placeName ref="#transylvania">Transsyluania</placeName>,<placeName ref="#pland"> Polonia</placeName>, <placeName ref="#scandinavia">Scandia</placeName>, and <placeName ref="#russia">Rusia</placeName>.) Thus hausing finished <placeName ref="#europe">Europe</placeName>, we come vn-
+        <lb />to the Isthmus or Straight-land, which is betweene the head of the River Tanais and the <placeName ref="#northSea">North sea</placeName>, which is in deed the
+        <lb />bound of <placeName ref="#europe">Europe</placeName> and <placeName ref="#asia">Asia</placeName> : from it we step into <placeName ref="#asia">Asia</placeName>. Which, after we have a while beheld, we left, and so passed into <placeName ref="#africa">Afri-
+        <lb />ca</placeName>, by the Streights, or narrow piece of the Mainland, which runneth between the <placeName ref="#arabia">Bay of Arabia</placeName>, and the <placeName ref="#egypt">gulfe of Damiata</placeName>,
+        <lb />(Sirbonus Lacus) made by the ouerflowing of the Midland-sea. From thence passing through <placeName ref="#egypt">Egypt</placeName> and <placeName ref="#barbary">Barbary</placeName> wee
+        <lb />came vnto the <placeName ref="#gibraltar">Streights of Gibraltar</placeName>, which we crossed, and at the length came home againe to our owne natiue countrey from
+        <lb />whence we first set foote; like vnto a trauailer or a Pilgrime, which hath viewed and trauailed through many and sundry
+        <lb />seuerall Nations and Countreys, pasing out of one into another, orderly as they lay and we situate one by another, ouer-
+        <lb />skipping none, at last returneth lasely and ioyfully from whence he first set foorth.
+        <lb />   Thus farre of the Mappes themselues: Now let vs speake a word or two of the backside of the same. Because we thought
+        <lb />it would be a thing nothing pleasing to the Reader or Beholder, to see the backsides of the leaues altogether bare and empty;
+        <lb />we determined there to make a certaine briefe and short declaration and Historical discourse of euery Mappe, in the same
+        <lb />manner and order as we said we obserued in the Mappes themselues; omitting nor concealing any mans name, that we had oc-
+        <lb />casion to vse. Moreouer to these also we have added a Table of the names of all the Authors, that euer wee knew or had;
+        <lb />out of which, those that are so disposed, may fetch a more ample and larger <unclear reason="faded">discowse</unclear> and description of the seurall Countreys
+        <lb />handled by them.  Wherefore the students of Geography shall haue here, in the Authours thus named in order, and in the 
+        <lb />Catalogue of the Authours of the Geographicall Tables or Mappes, which we have set before this our worke, and lastly in 
+        <lb />these Tables themselues, a certaine shoppe, as it were, furnished with all kinde of instruments necessarily required in such 
+        <lb />like business : out of which, if peraduenture there may seeme any thing wanting, in his iudgement , either to be finishing of 
+        <lb />any Booke of that argument, or more fuller descriptions of any Countreys whatsoeuer, very easily, or in deed without any la-
+        <lb />bour at all be may see, from whence it may be and by be fetched.
+        <lb />   These things they are which I thought good to admonish the Reader of. It remaineth now, that wee doe entreate every 
+        <lb />man, to take this our labour and entertaine it, with no other minde then it was by vs both begunne and finished, at the length 
+        <lb />set out and Imprinted. Farewell, and wish well to<persName ref="#francisHogenberg">Francis Hogenberg</persName>, <persName ref="#ferdinand">Ferdinand</persName>, and <persName ref="#ambrofeArfen">Ambrofe Arfen</persName>, by whose skil-
+        <lb />full bands and extraordinary great paines and diligence almost all these Mappes were engrauen and cut.
+        <lb />	From <placeName ref="#antwerp">Antwerp</placeName>, this present yeere <date when="1570">1570</date>.
+        <lb />
+        <lb />
+        <lb /><figure rend="bottom-right">THE</figure>
+    </ab>
 
 <pb facs="#f013" />
 <ab>
