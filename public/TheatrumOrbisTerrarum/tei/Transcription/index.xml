@@ -150,7 +150,15 @@
             <lb/><placeName ref="#france">FRANCE</placeName> AND <placeName ref="#ireland">IRE-
             <lb/>LAND</placeName>, DEFEN-
             <lb/>DER OF THE FAITH, &amp;c.
+        </figure>
+    </ab>
+    <ab>
+        <figure rend="middle-top">
             <lb/><persName ref="#johnNorton">IOHN NORTON</persName>
+        </figure>
+    </ab>
+    <ab>
+        <figure rend="middle-top">
             <lb/>HIS MA-
             <lb/>IESTIES MOST 
             <lb/>HVMBLE AND
@@ -164,10 +172,11 @@
         </figure>
     </ab>
     <ab>
-        <lb/>
+        <figure rend="middle-top">
             <figureDesc>
-                [fleurons]
+            <lb/>    [fleurons]
             </figureDesc>
+        </figure>
     </ab>
 
 <pb facs="#f008"/>
