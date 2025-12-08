@@ -1,54 +1,54 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f017"/>
 <lb/> <personalstmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></personalstmt>
 <ab>
-    <p rend="middle-top"> <foreign xml:lang="la">TYPVS ORBIS TERRAVM.</foreign></p>
+    <figDesc><foreign xml:lang="la"><head>TYPVS ORBIS TERRAVM.</head></foreign></figDesc>
         <lb/>
         <lb/>HOMI 
         <lb/>NES HAC LEGE 
-<lb/>SVNT GENERATI, 
-<lb/>QVI TVERENTVR
-<lb/>ILLVM GLOBVM,
-<lb/>QVEM IN HOC TEM 
-<lb/>PLO MEDIVM VI
-<lb/>DES, QVAE TER 
-<lb/>RA DICITVR. 
-<lb/><hi rend="italic"><persName ref="#cicero">Cicero</persName>.</hi>
-<lb/>
-<lb/>EQVS 
-<lb/>VEHENDI 
-<lb/>CAVSA, ARANDI 
-<lb/>BOS, VENAN'DI
-<lb/>ET CVSTODIENDI 
-<lb/>CANIS, HOMO AV 
-<lb/>TEM ORTVS AD 
-<lb/>MVNDVM CON 
-<lb/>TEMPLANDVM. 
-<lb/><hi rend="italic"><persName ref="#cicero">Cicero</persName>.</hi>
-<lb/>
-<lb/>HOC 
-<lb/>EST PVNCTVM, 
-<lb/>QVOD INTER TOT. 
-<lb/>GENTES FERRO 
-<lb/>ET IGNI DIVIDI 
-<lb/>TVR,O QVAM RIDI 
-<lb/>CVLI SVNT MOR 
-<lb/>TALIVM TER
-<lb/>MINI?
-<lb/><hi rend="italic"><persName ref="#seneca">Seneca</persName>.</hi>
-<lb/>
-<lb/>QVID EI POTEST VIDERI MAGNV <note type="editorial"><!--There is a rip in the page here--></note> IN REBVS HVMANIS, CVI AETER
-<lb/>NITAS OMNIS, TOTIVSQVE MVNDI <note type="editorial"><!--There is a rip in the page here--></note> NOTA SIT MAGNITVDO. <persName ref="#cicero">CICERO</persName>
-<lb/>
-<lb/>VTINAM
-<lb/>QVEMADMO 
-<lb/>DVM VNIVERSA 
-<lb/>MVNDI FACIES 
-<lb/>IN CONSPECTVM 
-<lb/>VENIT, ITA PHI 
-<lb/>LOSOPHIA TOTA 
-<lb/>NOBIS POSSET 
-<lb/>OCCVRRERE. 
-<lb/><hi rend="italic"><persName ref="#seneca">Seneca</persName>.</hi>
+        <lb/>SVNT GENERATI, 
+        <lb/>QVI TVERENTVR
+        <lb/>ILLVM GLOBVM,
+        <lb/>QVEM IN HOC TEM 
+        <lb/>PLO MEDIVM VI
+        <lb/>DES, QVAE TER 
+        <lb/>RA DICITVR. 
+        <lb/><hi rend="italic"><persName ref="#cicero">Cicero</persName>.</hi>
+        <lb/>
+        <lb/>EQVS 
+        <lb/>VEHENDI 
+        <lb/>CAVSA, ARANDI 
+        <lb/>BOS, VENAN'DI
+        <lb/>ET CVSTODIENDI 
+        <lb/>CANIS, HOMO AV 
+        <lb/>TEM ORTVS AD 
+        <lb/>MVNDVM CON 
+        <lb/>TEMPLANDVM. 
+        <lb/><hi rend="italic"><persName ref="#cicero">Cicero</persName>.</hi>
+        <lb/>
+        <lb/>HOC 
+        <lb/>EST PVNCTVM, 
+        <lb/>QVOD INTER TOT. 
+        <lb/>GENTES FERRO 
+        <lb/>ET IGNI DIVIDI 
+        <lb/>TVR,O QVAM RIDI 
+        <lb/>CVLI SVNT MOR 
+        <lb/>TALIVM TER
+        <lb/>MINI?
+        <lb/><hi rend="italic"><persName ref="#seneca">Seneca</persName>.</hi>
+        <lb/>
+        <lb/>QVID EI POTEST VIDERI MAGNV <note type="editorial"><!--There is a rip in the page here--></note> IN REBVS HVMANIS, CVI AETER
+        <lb/>NITAS OMNIS, TOTIVSQVE MVNDI <note type="editorial"><!--There is a rip in the page here--></note> NOTA SIT MAGNITVDO. <persName ref="#cicero">CICERO</persName>
+        <lb/>
+        <lb/>VTINAM
+        <lb/>QVEMADMO 
+        <lb/>DVM VNIVERSA 
+        <lb/>MVNDI FACIES 
+        <lb/>IN CONSPECTVM 
+        <lb/>VENIT, ITA PHI 
+        <lb/>LOSOPHIA TOTA 
+        <lb/>NOBIS POSSET 
+        <lb/>OCCVRRERE. 
+        <lb/><hi rend="italic"><persName ref="#seneca">Seneca</persName>.</hi>
 </ab>
 
 </div></body></text>

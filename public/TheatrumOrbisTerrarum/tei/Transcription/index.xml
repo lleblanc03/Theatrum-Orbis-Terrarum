@@ -615,65 +615,65 @@
 <pb facs="#f017"/>
 <lb/> <personalstmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></personalstmt>
 <ab>
-    <p rend="middle-top"> <foreign xml:lang="la">TYPVS ORBIS TERRAVM.</foreign></p>
+    <figDesc><foreign xml:lang="la"><head>TYPVS ORBIS TERRAVM.</head></foreign></figDesc>
         <lb/>
         <lb/>HOMI 
         <lb/>NES HAC LEGE 
-<lb/>SVNT GENERATI, 
-<lb/>QVI TVERENTVR
-<lb/>ILLVM GLOBVM,
-<lb/>QVEM IN HOC TEM 
-<lb/>PLO MEDIVM VI
-<lb/>DES, QVAE TER 
-<lb/>RA DICITVR. 
-<lb/><hi rend="italic"><persName ref="#cicero">Cicero</persName>.</hi>
-<lb/>
-<lb/>EQVS 
-<lb/>VEHENDI 
-<lb/>CAVSA, ARANDI 
-<lb/>BOS, VENAN'DI
-<lb/>ET CVSTODIENDI 
-<lb/>CANIS, HOMO AV 
-<lb/>TEM ORTVS AD 
-<lb/>MVNDVM CON 
-<lb/>TEMPLANDVM. 
-<lb/><hi rend="italic"><persName ref="#cicero">Cicero</persName>.</hi>
-<lb/>
-<lb/>HOC 
-<lb/>EST PVNCTVM, 
-<lb/>QVOD INTER TOT. 
-<lb/>GENTES FERRO 
-<lb/>ET IGNI DIVIDI 
-<lb/>TVR,O QVAM RIDI 
-<lb/>CVLI SVNT MOR 
-<lb/>TALIVM TER
-<lb/>MINI?
-<lb/><hi rend="italic"><persName ref="#seneca">Seneca</persName>.</hi>
-<lb/>
-<lb/>QVID EI POTEST VIDERI MAGNV <note type="editorial"><!--There is a rip in the page here--></note> IN REBVS HVMANIS, CVI AETER
-<lb/>NITAS OMNIS, TOTIVSQVE MVNDI <note type="editorial"><!--There is a rip in the page here--></note> NOTA SIT MAGNITVDO. <persName ref="#cicero">CICERO</persName>
-<lb/>
-<lb/>VTINAM
-<lb/>QVEMADMO 
-<lb/>DVM VNIVERSA 
-<lb/>MVNDI FACIES 
-<lb/>IN CONSPECTVM 
-<lb/>VENIT, ITA PHI 
-<lb/>LOSOPHIA TOTA 
-<lb/>NOBIS POSSET 
-<lb/>OCCVRRERE. 
-<lb/><hi rend="italic"><persName ref="#seneca">Seneca</persName>.</hi>
+        <lb/>SVNT GENERATI, 
+        <lb/>QVI TVERENTVR
+        <lb/>ILLVM GLOBVM,
+        <lb/>QVEM IN HOC TEM 
+        <lb/>PLO MEDIVM VI
+        <lb/>DES, QVAE TER 
+        <lb/>RA DICITVR. 
+        <lb/><hi rend="italic"><persName ref="#cicero">Cicero</persName>.</hi>
+        <lb/>
+        <lb/>EQVS 
+        <lb/>VEHENDI 
+        <lb/>CAVSA, ARANDI 
+        <lb/>BOS, VENAN'DI
+        <lb/>ET CVSTODIENDI 
+        <lb/>CANIS, HOMO AV 
+        <lb/>TEM ORTVS AD 
+        <lb/>MVNDVM CON 
+        <lb/>TEMPLANDVM. 
+        <lb/><hi rend="italic"><persName ref="#cicero">Cicero</persName>.</hi>
+        <lb/>
+        <lb/>HOC 
+        <lb/>EST PVNCTVM, 
+        <lb/>QVOD INTER TOT. 
+        <lb/>GENTES FERRO 
+        <lb/>ET IGNI DIVIDI 
+        <lb/>TVR,O QVAM RIDI 
+        <lb/>CVLI SVNT MOR 
+        <lb/>TALIVM TER
+        <lb/>MINI?
+        <lb/><hi rend="italic"><persName ref="#seneca">Seneca</persName>.</hi>
+        <lb/>
+        <lb/>QVID EI POTEST VIDERI MAGNV <note type="editorial"><!--There is a rip in the page here--></note> IN REBVS HVMANIS, CVI AETER
+        <lb/>NITAS OMNIS, TOTIVSQVE MVNDI <note type="editorial"><!--There is a rip in the page here--></note> NOTA SIT MAGNITVDO. <persName ref="#cicero">CICERO</persName>
+        <lb/>
+        <lb/>VTINAM
+        <lb/>QVEMADMO 
+        <lb/>DVM VNIVERSA 
+        <lb/>MVNDI FACIES 
+        <lb/>IN CONSPECTVM 
+        <lb/>VENIT, ITA PHI 
+        <lb/>LOSOPHIA TOTA 
+        <lb/>NOBIS POSSET 
+        <lb/>OCCVRRERE. 
+        <lb/><hi rend="italic"><persName ref="#seneca">Seneca</persName>.</hi>
 </ab>
 
 <pb facs="#f018"/>
 <ab>
 <lb/><personalstmt><!--We, Audrey Gauthier and Haley Jensen, transcribed and encoded seq 19 of this text at Framingham State University.--></personalstmt>
 <lb/><figure rend="middle-top">
-    <head><placeName ref="#europe">Evrope</placeName></head>
+    <figDesc><head><placeName ref="#europe">Evrope</placeName></head></figDesc>
 </figure>
 <lb/>
 <p>
-    In the diuision of the world, diuers haue placed <placeName ref="#africa">Africa</placeName> in the third part : some few haue made no more but <placeName ref="#asia">Asia</placeName> and <placeName ref="#europe">Europe</placeName> only ; and <placeName ref="#africa">Africa</placeName> they make a part of <placeName ref="#europe">Europe</placeName>, saith <persName ref="#salustius">Salustius</persName>. This is that which <persName ref="#stPaulinus">S. Paulinus</persName> in <placeName ref="#aulonius">Aulonius</placeName>, out o
+    <lb/>In the diuision of the world, diuers haue placed <placeName ref="#africa">Africa</placeName> in the third part : some few haue made no more but <placeName ref="#asia">Asia</placeName> and <placeName ref="#europe">Europe</placeName> only ; and <placeName ref="#africa">Africa</placeName> they make a part of <placeName ref="#europe">Europe</placeName>, saith <persName ref="#salustius">Salustius</persName>. This is that which <persName ref="#stPaulinus">S. Paulinus</persName> in <placeName ref="#aulonius">Aulonius</placeName>, out o
     <lb/> the opinion of the same Saluit, thus writeth of : <foreign xml:lang="la">Europam Afiamque duo vel maxima terrae Membra, quibus Lybiam
     <lb/>dubie Sallustius addit, Europæ admixtram : poffit quum tertia dici</foreign> : <placeName ref="#europe">Europe</placeName> and <placeName ref="#asia">Asia</placeName> vast, the Earthly globe between 
     <lb/>them share. Yet whether <placeName ref="#africa">Africke</placeName> should a part of this our <placeName ref="#europe">Europe</placeName> be ; or make a third part by it selfe, Saluit doth doubt 
