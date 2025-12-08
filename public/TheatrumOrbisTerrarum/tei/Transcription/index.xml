@@ -183,9 +183,9 @@
 <ab>
     <lb/><!-- Following transcription is partial. TEI by KAB to see if adding attributes to persName tags will work, and to test centering text, etc. -->
         <figure rend="middle-top">
-            <head>
-                THE LIFE OF 
-            </head>
+        <figDesc>
+            <head>THE LIFE OF</head>
+        </figDesc>
         <lb/>
             <persName ref="#ortelius">
                 ABRAHAM ORTELL
