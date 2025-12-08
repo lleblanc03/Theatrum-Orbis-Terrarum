@@ -1,10 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="Transcription"><body><div><pb facs="#f017"/>
 <lb/> <personalstmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></personalstmt>
 <ab>
-<lb/><figure rend="middle-top"> <foreign xml:lang="la">TYPVS ORBIS TERRAVM.</foreign></figure>
-<lb/>
-<lb/>HOMI 
-<lb/>NES HAC LEGE 
+    <p rend="middle-top"> <foreign xml:lang="la">TYPVS ORBIS TERRAVM.</foreign></p>
+        <lb/>
+        <lb/>HOMI 
+        <lb/>NES HAC LEGE 
 <lb/>SVNT GENERATI, 
 <lb/>QVI TVERENTVR
 <lb/>ILLVM GLOBVM,

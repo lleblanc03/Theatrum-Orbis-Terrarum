@@ -6,21 +6,38 @@ Link that has the live editioncrafter
 https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 
 -->
-      <teiHeader>
-          <fileDesc>
-              <titleStmt>
-                  <title>
-                      Theatrum Orbis Terrarum
-                  </title>
-              </titleStmt>
-              <publicationStmt>
-                  <p></p>
-              </publicationStmt>
-              <sourceDesc>
-                  <p></p>
-              </sourceDesc>
-          </fileDesc>
-      </teiHeader>
+       <!-- The teiHeader contains metadata about the document. -->
+    <teiHeader>
+        <fileDesc>
+            <!-- titleStmt = title and authorship information -->
+            <titleStmt>
+                <title type="main"><foreign xml:lang="la">Theatrum orbis terrarum Abrahami Orteli Antverp</foreign>; Theatre of the whole world; The theatre of the whole world</title>
+                <title type="short">Theatrum Orbis Terrarum</title>
+                <author type="main"><persName ref='ortelius'> Abraham Ortelius</persName></author>  
+            </titleStmt>
+            <publicationStmt>
+                <printer>Iohn Norton</printer>
+                <date type="year">1606</date>
+                <place>London</place>
+            </publicationStmt>
+            <editionStmt>Proof of concept edition published by The Kit Marlowe Project v.0, <date type="month">December</date> <date type="year">2025</date>, www.kitmarlowe.org.
+            <sourceDesc>
+                Transcribed from digital facsimile edition made available by Harvard University of<title>Theatrum orbis terrarum Abrahami Orteli Antverp ; Theatre of the whole world ; The theatre of the whole world</title>, attributed to <printer>Iohn Norton</printer>, created <date type="year">1606</date>in <place>London</place>.
+                <sourceDesc>6 leaves : port., 115 [i.e. 118] double maps ; 47 cm. 
+                    <biblDesc>Harvard Map Collection (Pusey Library): MO 1.1606 pf*</biblDesc>
+                    <ptr target="https://curiosity.lib.harvard.edu/scanned-maps/catalog/44-990088585650203941"></ptr>
+                </sourceDesc>
+                <publicationStmt>
+                    <respStmt>This edition was created using EditionCrafter, an open-source publication platform made available in GitHub by <orgName>Performant Software</orgName>. <resp role="principal">Nick Laicona</resp> at Performant was especially helpful as we adapted their code to facilitate an undergraduate transcription and encoding project.
+                    <resp role="webDev">Lindsey LeBlanc</resp>adapted the EditionCrafter platform and designed an interoperable plugin for WordPress to facilitate publication of mini-editions like this one on the Kit Marlowe Project website.
+                        <resp role="projDir">Kristen Abbott Bennett</resp> supervised a class of eighteen students enrolled in DGHM 110X: "Introduction to Digital Humanities" at Framingham State University who took the first pass at transcribing and lightly encoding Ortelius' work to create this first "proof of concept" edition. We were assisted by Meghan Spargo (Framingham class of 2026) who helped proofread students' contributions.
+                        Intellectual copyright in this edition is held by <orgName>The Kit Marlowe Project</orgName>. The XML files of the semi-diplomatic transcription and the modern texts are licensed for reuse under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 license</ref>, which means that they are freely downloadable without permission under the following conditions: (1) credit must be given to the <resp role="projDir">Project Director</resp>, <persName>Kristen Abbott Bennett</persName>, or <resp role="webDev">Web Developer</resp>, <persName>Lindsey LeBlanc</persName>, in any subsequent use of the files and/or data; (2) derivatives (e.g., adapted scripts for performance) must be shared under the same CC BY-NC-SA 4.0 license; and (3) commercial uses are not permitted without the knowledge and consent of the Project Director.</respStmt>
+                </publicationStmt>
+            </sourceDesc>
+            </editionStmt>
+        </fileDesc>
+    </teiHeader>
+
 
       <facsimile sameAs="https://iiif.lib.harvard.edu/manifests/drs:50211907">
 <!--                  <surface xml:id="f000" ulx="0" uly="0" lrx="4090" lry="5638" sameAs="https://iiif.lib.harvard.edu/manifests/drs:50211907/canvas/canvas-50211908.json" ><label>(seq. 1)</label><graphic mimeType="application/json" url="https://ids.lib.harvard.edu/ids/iiif/50211908"/></surface>
@@ -806,7 +823,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <personalstmt><!--I, Meghan Spargo, transcribed and tagged Seq.17 of this text.--> </personalstmt>
 
 <ab>
-    <p rend="middle-top">
+    <p rend="top">
         <figDesc>
             <head>
                 <lb />A DESCRIPTION OF THE
@@ -1013,10 +1030,10 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <pb facs="#f017" />
 <lb /> <personalstmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></personalstmt>
 <ab>
-<lb /><figure rend="middle-top"> <foreign xml:lang="la">TYPVS ORBIS TERRAVM.</foreign></figure>
-<lb />
-<lb />HOMI 
-<lb />NES HAC LEGE 
+    <p rend="middle-top"> <foreign xml:lang="la">TYPVS ORBIS TERRAVM.</foreign></p>
+        <lb />
+        <lb />HOMI 
+        <lb />NES HAC LEGE 
 <lb />SVNT GENERATI, 
 <lb />QVI TVERENTVR
 <lb />ILLVM GLOBVM,
