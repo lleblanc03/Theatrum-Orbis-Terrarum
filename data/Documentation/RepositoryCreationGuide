@@ -1,0 +1,151 @@
+<!--
+1. Create Your Repository from the Template
+    Go to repository
+    Click "Use this template" → "Create a repository"
+    On the Create a Repository page
+            Include all branches (important)
+        Select the Owner (can be yourself)
+        Name the repository
+        Set visibility to Public
+        Click Create Repository
+            Your repository will now generate.
+
+2. Update Required GitHub Settings
+    Go to Settings
+    Click Actions → General
+    Ensure the following options are selected
+        Action Permissions
+            Allow all actions and reusable workflows
+        Approval for running fork pull requests
+            Require approval for first-time contributors
+        Workflow Permissions
+            Read and write permissions
+            Allow GitHub Actions to create and approve pull requests (EXTREMELY important)
+        SAVE all settings using the Save buttons.
+
+3. Open a Codespace
+    Go back to the Code ( <> ) tab
+    Click the green <> Code button
+    Under Codespaces, click Create codespace on main
+        Wait a minute—your Codespace will load.
+
+4. Make Sure You Are in Bash
+    The terminal prompt should look like
+        @username ➜ /workspaces/[codespace-name] (main) $
+
+5. Install EditionCrafter Package
+    In the terminal, run
+        npm install @cu-mkp/editioncrafter
+            This installs the EditionCrafter command-line tools required for IIIF and processing.
+
+6. Generate Your IIIF Manifest File
+    In the Codespace terminal
+        cd data
+        ls
+        editioncrafter iiif -i [your manifest link] -o [name].xml
+
+        Example
+            editioncrafter iiif -i https://iiif.lib.harvard.edu/manifests/drs:50211907 -o OrteliDocument.xml
+   
+    Your .xml file (all pages included) will appear inside the data folder.
+
+7. Add Transcriptions
+    In the left-hand file tree, right-click data → New Folder
+        Name it transcriptions
+            Right-click transcriptions → New File…
+    File naming rules (IMPORTANT)
+        Subtract 1 from the sequence number
+            seq. 11 → f010.txt
+            seq. 9 → f008.txt
+            seq. 20 → f019.txt
+                Must match the folio numbers in your XML.
+    Paste or type the transcription text into each .txt file.
+
+8. Rebuild the XML Including Transcriptions
+    In the terminal
+        Press up arrow to recall your previous manifest command
+            It will look like
+                editioncrafter iiif -i https://iiif.lib.harvard.edu/... -o OrteliDocument.xml
+            Add the transcription flag
+                -t transcriptions
+
+    Full example
+        editioncrafter iiif -i https://iiif.lib.harvard.edu/manifests/drs:50211907 -o OrteliDocument.xml -t transcriptions
+
+    Your .xml file will now contain all transcriptions at the bottom.
+
+9. Update XML Structure
+    In the XML file, find
+        <text xml:id="text">
+    Change it to
+        <text xml:id="transcription">
+            (Not “transcriptions”. Must be exactly “transcription”.)
+
+10. Configure for Publishing
+    Edit astro.config.mjs
+        Find
+            base '/<BASE_DIR>'
+        Replace with your repository name
+            Example
+                base '/Orteli'
+    Edit data/config.json
+        Update only the marked lines
+            {
+                "id" "ec",
+                "documentName" "Your Document Name",
+                "iiifManifest" "/[repo name]/[xml file name]/iiif/manifest.json",
+                "transcriptionTypes" {
+                "transcription" "Transcription"
+                },
+            "viewerUrl" "/[repo name]"
+            }
+
+    Example
+        {
+            "id" "ec",
+            "documentName" "Orteli Document",
+            "iiifManifest" "/Orteli/test/iiif/manifest.json",
+            "transcriptionTypes" {
+                "transcription" "Transcription"
+            },
+        "viewerUrl" "/Orteli"
+        }       
+
+11. Process the Edition
+    Make sure you're in the root folder, not /data
+        cd ..
+
+    Run
+        editioncrafter process -i data/[your xml].xml -o public -u [base url]
+            How to find the base URL
+                Go to Settings → Pages
+                Look for “Your site is live at…”
+                Copy that link into the command
+
+        Example
+            editioncrafter process -i data/TheatrumOrbisTerrarum.xml -o public -u https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
+
+            A folder named after your .xml file will appear under public, containing
+                html/
+                iiif/
+                tei/
+                    If it ends up inside data, something went wrong.
+
+12. Commit and Push the Changes
+    Click Source Control (three-circle icon)
+        In the message box, type
+            Initial Draft
+    Click Commit
+        If asked about staged changes, click Yes or Always
+    Then click Sync Changes
+        Approve any pop-ups (OK, don't show again, etc.)
+
+13. Final Deployment
+    Go to your GitHub repository
+    Click the Actions tab
+        Your site should be building (may take 1 or 2 minutes)
+    When finished, open pages-build-deployment
+    Under deploy, click the link to open your edition
+    
+    You now have a fully functioning EditionCrafter project live on GitHub Pages
+-->

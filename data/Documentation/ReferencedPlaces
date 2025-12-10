@@ -1,0 +1,682 @@
+<listPlace>
+
+    <place xml:id="antwerp">
+        <placeName>Antwerp</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="london">
+        <placeName>London</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="britain">
+        <placeName>Great Britain</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="france">
+        <placeName>France</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="ireland">
+        <placeName>Ireland</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="ausburg">
+        <placeName>Ausburg</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="bayern">
+        <placeName>Bayern</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="egypt">
+        <placeName>Egypt</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="palestine">
+        <placeName>Palestine</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="spain">
+        <placeName>Spain</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="europe">
+        <placeName>Europe</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="asia">
+        <placeName>Asia</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="earth">
+        <placeName>Earth</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="phasis">
+        <placeName>Phasis River</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="euxinesea">
+        <placeName>Euxine Sea</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="marmaiore">
+        <placeName>Mar Maiore</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="trapezonda">
+        <placeName>Trapezonda</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="fasso">
+        <placeName>Fasso</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="phazzeth">
+        <placeName>Phazzeth</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="pontuseuxinus">
+        <placeName>Pontus Euxinus</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="caspiansea">
+        <placeName>Caspian Sea</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="marDeCachu">
+        <placeName>Mar de Cachu</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="mareHyrcanum">
+        <placeName>Mare Hyrcanum</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="hyrcanianSea">
+        <placeName>Hyrcanian Sea</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="maeotisPalus">
+        <placeName>Maeotis Palus</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="fenneMaeotis">
+        <placeName>Fenne Maeotis</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="marDelleZabbache">
+        <placeName>Mar delle Zabbache</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="mardellaTana">
+        <placeName>Mardella Tana</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="croniumSea">
+        <placeName>Cronium Sea</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="riphaeanWoods">
+        <placeName>Riphaean Woods</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="riphaeanHills">
+        <placeName>Riphaean Hills</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="montesAlpes">
+        <placeName>Montes Alpes</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="alpes">
+        <placeName>Alpes</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="dacia">
+        <placeName>Dacia</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="moscovy">
+        <placeName>Moscovy</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="cingulummundi">
+        <placeName>Cingulum Mundi (Girdle of the World)</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="zonaOrbis">
+        <placeName>Zona Orbis</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="africa">
+        <placeName>Africa</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="barbaria">
+        <placeName>Barbaria</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="numidia">
+        <placeName>Numidia</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="libya">
+        <placeName>Libya</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="barca">
+        <placeName>Barca</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="atlanticSea">
+        <placeName>Atlantic Sea</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="atlantickOcean">
+        <placeName>Atlantick Ocean</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="caphsa">
+        <placeName>Caphsa</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="desertsLibya">
+        <placeName>Deserts of Libya</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="sura">
+        <placeName>Sura</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="nigritania">
+        <placeName>Nigritania</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="niger">
+        <placeName>River Niger</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="guinee">
+        <placeName>Guinee</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="kingdomGago">
+        <placeName>Kingdom of Gago</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="abassia">
+        <placeName>Abassia</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="gulfArabia">
+        <placeName>Gulf of Arabia</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="capeBonaSperanza">
+        <placeName>Cape of Bona Speranza (Cape of Good Hope)</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="calecut">
+        <placeName>Calecut</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="eastIndia">
+        <placeName>East India</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="zangibar">
+        <placeName>Zangibar</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="zanel">
+        <placeName>Zanel</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="mollala">
+        <placeName>Mollala</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="colchis">
+        <placeName>Colchis</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="america">
+        <placeName>America</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="quarequa">
+        <placeName>Quarequa</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="aphrice">
+        <placeName>Aphrice</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="mareRubrum">
+        <placeName>Mare Rubrum</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="redSea">
+        <placeName>Red Sea</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="kingdomCongo">
+        <placeName>Kingdom of Congo</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="southPole">
+        <placeName>South Pole</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="madagascar">
+        <placeName>Madagascar</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="canaries">
+        <placeName>Canaries</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="capeVerdeIsles">
+        <placeName>Cape Verde Isles</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="stThomas">
+        <placeName>St. Thomas</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="ethiopia">
+        <placeName>Ethiopia</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="etymologies">
+        <placeName>Etymologies</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="newSpain">
+        <placeName>New Spain</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="compostella">
+        <placeName>Compostella</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="colima">
+        <placeName>Colima</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="guadalajara">
+        <placeName>Guadalajara</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="gallicia">
+        <placeName>New Gallicia</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="mecboacan">
+        <placeName>Mecboacan</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="sacatula">
+        <placeName>Sacatula</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="mexico">
+        <placeName>Mexico</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="venice">
+        <placeName>Venice</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="china">
+        <placeName>China</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="culiacán">
+        <placeName>Culiacán</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="newGalicia">
+        <placeName>New Galicia</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="s.Micheal.Villages">
+        <placeName>S. Michael (Villages)</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="cuba">
+        <placeName>Cuba</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="fernandina">
+        <placeName>Fernandina</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="jonna">
+        <placeName>Jonna</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="galliaNarbonenst">
+        <placeName>Gallia Narbonenst</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="prouence">
+        <placeName>Prouence</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="hispaniola">
+        <placeName>Hispaniola</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="quisqueya">
+        <placeName>Quisqueya</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="haiti">
+        <placeName>Haiti</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="cipanga">
+        <placeName>Cipanga</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="sanDomingo">
+        <placeName>San Domingo</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+    <place xml:id="cucuyo">
+        <placeName>Cucuyo</placeName>
+        <location><geo></geo></location>
+        <country></country>
+        <note></note>
+    </place>
+
+</listPlace>

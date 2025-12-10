@@ -1,0 +1,138 @@
+<persName> — Names of People
+    Use for every name.
+    Example: <persName ref="#ortelius">Abraham Ortelius</persName>
+
+    Metadata may be defined in <listPerson>:
+
+    <listPerson>
+        <person xml:id="ortelius">
+            <persName>Abraham Ortelius</persName>
+            <sex value="male"/>
+            <birth when="1527" place="#antwerp"/>
+            <death when="1598" place="#antwerp"/>
+            <occupation>Cartographer</occupation>
+        </person>
+    </listPerson>
+
+<placeName> — Geographic Names
+
+    Use for cities, rivers, regions, seas, mountains.
+    Example: <placeName ref="#antwerp">Antwerp</placeName>
+
+    List form:
+
+    <listPlace>
+        <place xml:id="antwerp">
+            <placeName>Antwerp</placeName>
+            <location><geo></geo></location>
+            <country></country>
+        </place>
+    </listPlace>
+
+<hi> — Typography and Emphasis
+
+    Marks italics or other typographic shifts.
+    Example: <hi rend="italic">The Theatre of the Whole World</hi>
+
+<figure> — Maps, Ornaments, and Headings
+
+    Used heavily for map titles, center text, and ornaments.
+
+    <figure type="ornament">
+        <head>Fleuron</head>
+        <figDesc>Decorative floral ornament</figDesc>
+    </figure>
+
+<date> — Dates
+
+    Example: <date when="1606">1606</date>
+
+    Supports ranges:
+        <date from="1500" to="1520"/>
+
+        <date notBefore="1500" notAfter="1520"/>
+
+<fw> — Page Furniture (Headers, Page Numbers, Catchwords)
+
+    Running headers:
+        <fw type="header" place="top">THEATRVM ORBIS TERRARVM</fw>
+
+    Page numbers:
+        <fw type="pageNum" place="top">5</fw>
+
+    Catchwords:
+        <fw type="catch" place="bottom">WORLD</fw>
+
+<unclear> — Uncertain or Illegible Text
+
+    Example: <unclear reason="faded" cert="low">Ortelius</unclear>
+
+    Attributes:
+        reason: faded, smudged, torn
+
+    cert: low, medium, high
+
+<supplied> — Missing or Supplied Text
+
+    Example: <supplied reason="lost">ABRAHAMI</supplied>
+
+    Optional: resp="#editorID"
+
+<choice> — Alternative Readings
+
+    Original vs. regularized:
+
+    <choice>
+        <orig>IOHN</orig>
+        <reg>John</reg>
+    </choice>
+
+
+    Unclear vs. supplied:
+
+    <choice>
+        <unclear>Orteli...</unclear>
+        <supplied reason="lost">Ortelius</supplied>
+    </choice>
+
+<p rend=""> — Column and Layout Control
+
+    Used for two-column page formatting.
+
+    Positions include:
+        top, left-top, left-middle, left-bottom,
+        right-top, right-middle, right-bottom, bottom.
+
+    Example:
+        <p rend="left-top">Text positioned at the top left.</p>
+
+<foreign> — Foreign-Language Text
+
+    Example: <foreign xml:lang="la">DE MVNDO</foreign>
+
+    Declare languages when needed:
+
+        <langUsage>
+            <language ident="la" xml:id="lang-lat">Latin</language>
+        </langUsage>
+
+<title> — Titles of Works and Maps
+
+    Example:
+        <title type="map">Europae Tabula</title>
+
+    Types may include: work, map, book, article.
+
+<personalstmt> — Transcriber Statements
+
+    Example: <personalstmt><!--Transcribed by X--></personalstmt>
+
+<note> — Editorial or Historical Notes
+
+    Examples:
+        <note type="editorial" resp="#leblanc">...</note>
+        <note type="historical">...</note>
+
+<signature> — Signature Marks
+
+    Example: <signature>xyz</signature>

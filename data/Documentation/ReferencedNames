@@ -1,0 +1,588 @@
+<listPerson>
+
+    <person xml:id="ortelius">
+        <persName>Abraham Ortelius</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="johnnorton">
+        <persName>John Norton</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="jamesi">
+        <persName>James I</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="philipii">
+        <persName>Philip II</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="cicero">
+        <persName>Cicero</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="seneca">
+        <persName>Seneca</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="salustius">
+        <persName>Salustius</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="stpaulinus">
+        <persName>St. Paulinus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="philostratus">
+        <persName>Philostratus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="isocrates">
+        <persName>Isocrates</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="varro">
+        <persName>Varro</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="eratosthenes">
+        <persName>Eratosthenes</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="staugustine">
+        <persName>St. Augustine</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="lucane">
+        <persName>Lucane</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="orosius">
+        <persName>Orosius</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="strabo">
+        <persName>Strabo</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="silenus">
+        <persName>Silenus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="elianus">
+        <persName>Elianus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="midas">
+        <persName>Midas</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="aristotle">
+        <persName>Aristotle</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="plato">
+        <persName>Plato</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="herodotus">
+        <persName>Herodotus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="pliny">
+        <persName>Pliny</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="mela">
+        <persName>Mela</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="dionysius">
+        <persName>Dionysius</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="plutarch">
+        <persName>Plutarch</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="alexander">
+        <persName>Alexander</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="iornandes">
+        <persName>Iornandes</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="arrianus">
+        <persName>Arrianus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="diodorus">
+        <persName>Diodorus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="polybius">
+        <persName>Polybius</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="ptolemy">
+        <persName>Ptolemy</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="orpheus">
+        <persName>Orpheus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="isidorus">
+        <persName>Isidorus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="seneca2">
+        <persName>Seneca</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="herberstein">
+        <persName>Baro Herberstein</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="pauloderborne">
+        <persName>Paul Oderborne</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="antonywied">
+        <persName>Antony Wied</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="jenkinson">
+        <persName>Master Jenkinson</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="paulusvenetus">
+        <persName>M. Paulus Venetus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="lewesbarthema">
+        <persName>Lewes Barthema</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="johnmandeville">
+        <persName>John Mandeville</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="iacobusnauarca">
+        <persName>Iacobus Nauarca</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="johnleo">
+        <persName>John Leo</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="presterjohn">
+        <persName>Prester John</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="vascodegama">
+        <persName>Vasco de Gama</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="afer">
+        <persName>Afer</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="pindarus">
+        <persName>Pindarus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="caesar">
+        <persName>Caesar</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="solinus">
+        <persName>Solinus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="herodotus2">
+        <persName>Herodotus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="caesarscaliger">
+        <persName>Caesar Scaliger</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="isidore">
+        <persName>Isidore</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="hanno">
+        <persName>Hanno</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="iambulus">
+        <persName>Iambulus</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="bartholomeusdeglanvilla">
+        <persName>Bartholomeus de Glanvilla</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="franciscusalvares">
+        <persName>Franciscus Alvares</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="johnramusio">
+        <persName>John Ramusio</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+
+    <person xml:id="jeromefracastorius">
+        <persName>Jerome Fracastorius</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="corlez">
+        <persName>Fernando Corlez</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="gousaluodeouiedo">
+        <persName>Gousaluo de Ouiedo</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="jeromebenzo">
+        <persName>Jerome Benzo</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+    <person xml:id="petermartyr">
+        <persName>Peter Martyr</persName>
+        <sex value=""/>
+        <birth when="" place="#"/>
+        <death when="" place="#"/>
+        <occupation></occupation>
+        <note></note>
+    </person>
+
+</listPerson>

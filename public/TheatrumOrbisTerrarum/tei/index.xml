@@ -40,7 +40,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 
 
       <facsimile sameAs="https://iiif.lib.harvard.edu/manifests/drs:50211907">
-<!--                  <surface xml:id="f000" ulx="0" uly="0" lrx="4090" lry="5638" sameAs="https://iiif.lib.harvard.edu/manifests/drs:50211907/canvas/canvas-50211908.json" ><label>(seq. 1)</label><graphic mimeType="application/json" url="https://ids.lib.harvard.edu/ids/iiif/50211908"/></surface>
+<!--      <surface xml:id="f000" ulx="0" uly="0" lrx="4090" lry="5638" sameAs="https://iiif.lib.harvard.edu/manifests/drs:50211907/canvas/canvas-50211908.json" ><label>(seq. 1)</label><graphic mimeType="application/json" url="https://ids.lib.harvard.edu/ids/iiif/50211908"/></surface>
           <surface xml:id="f001" ulx="0" uly="0" lrx="4015" lry="5662" sameAs="https://iiif.lib.harvard.edu/manifests/drs:50211907/canvas/canvas-50211909.json" ><label>(seq. 2)</label><graphic mimeType="application/json" url="https://ids.lib.harvard.edu/ids/iiif/50211909"/></surface>
           <surface xml:id="f002" ulx="0" uly="0" lrx="3902" lry="5554" sameAs="https://iiif.lib.harvard.edu/manifests/drs:50211907/canvas/canvas-50211910.json" ><label>(seq. 3)</label><graphic mimeType="application/json" url="https://ids.lib.harvard.edu/ids/iiif/50211910"/></surface>
           <surface xml:id="f003" ulx="0" uly="0" lrx="4090" lry="5649" sameAs="https://iiif.lib.harvard.edu/manifests/drs:50211907/canvas/canvas-50211911.json" ><label>(seq. 4)</label><graphic mimeType="application/json" url="https://ids.lib.harvard.edu/ids/iiif/50211911"/></surface>
@@ -822,14 +822,8 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <pb facs="#f016" />
 <respStmt><!--I, Meghan Spargo, transcribed and tagged Seq.17 of this text.--> </respStmt>
 <ab>
-    <p rend="middle-top">
-        <figDesc>
-            <head>
                 <lb />A DESCRIPTION OF THE
                 <lb />WHOLE WORLD.
-            </head>
-        </figDesc>
-    </p>
 </ab>
 <ab>
     <lb /> 
@@ -858,174 +852,6 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
     <lb />
     <lb />
 </ab>
-<p rend="left-bottom">
-    <persName ref="#ptolemy">PTOLEMEY</persName> 
-    <placeName ref="#alexandria">ALEXANDRIA.</placeName>
-    <lb/>    
-    <persName ref="#pliny">CAIVS PLINIVS</persName> 2, 3, 4, 5, and 6 books of his Natural history.
-    <lb/>
-    <persName ref="#aristotle">ARISTOTELES</persName>
-    <foreign xml:lang="la">DE MVNDO</foreign>
-    written and dedicated to 
-    <hi rend="italic"><persName ref="#alexanderTheGreat">Alexander the Great</persName></hi>.
-    <lb/>
-    <persName ref="#strabo">STRABO</persName> in 17. books.
-    <lb/>
-    <persName ref="#solinus">SOLINVS POLYHISTO<supplied reason="unclear">R</supplied></persName>.
-    <lb/>
-    <persName ref="#pomponiusMela">POMPONIVS MELA</persName>.
-    <lb/>
-    <persName ref="#dionysiusAfer">DIONYSIVS APHER</persName> and his Expositor.
-    <lb/>
-    <persName ref="#eustathius">EVSTATHIVS</persName>.
-    <lb/>
-    <persName ref="#apuleius">APVLEIVS</persName> in his booke of the World.
-    <lb/>
-    <persName ref="#diodorus">DIODORVS SICVLVS</persName> in his fiue former books.
-    <lb/>
-    <persName ref="#martianusCapella">MARTIANVS CAPELLA</persName>.
-    <lb/>
-    <persName ref="#paulusOrosius">PAVLVS OROSIVS</persName> in the beginning of his History.
-    <lb/>
-    <persName ref="#aethicus">AETHICVS</persName> and another of that name surnamed 
-    <persName ref="#aethicusSophista">SOPHISTA</persName>, not
-    <lb/>yet printed.
-    <lb/>
-    <persName ref="#juliusPrimus">IVLIVS</persName> the Oratour called by 
-    <hi rend="italic"><persName ref="#cassiodorus">Cassiodore</persName></hi>, PRIMVS.
-    <lb/>
-    <persName ref="#berosus">BEROSVS</persName> described the antiquitie of the World.
-    <lb/>
-    <persName ref="#antoniusAugustus">ANTONIVS AVGVSTVS</persName> (if the title be true) set downe the
-    <lb/>Iournals of the Romane empire.
-    <lb/>
-    <persName ref="#sextusAvienus">SEXTVS AVIENVS</persName>, the sea coasts.
-    <lb/>
-    <persName ref="#stephanusByzantinus">STEPHANVS</persName>, the cities.
-    <lb/>
-    <persName ref="#vicusSequester">VIKIVS SEQVESTER</persName>, in an Alphabeticall order, the Riuers,
-    <lb/>Fountaines, Lakes, Woods, Hilles, and Nations thereof.
-    <lb/>
-    <hi style="text-align: center">By new Writers, as</hi>
-    <lb/>
-    <persName ref="#raphaelVolaterranus">RAPHAEL VOLATERANVS</persName>.
-    <lb/>
-    <persName ref="#abilfeda">ABILFEDEA ISHMAEL</persName>, in the Arabian tongue.
-    <lb/>
-    <persName ref="#ioannesHonterus">IOANNES HONTERVS</persName>; and 
-    <persName ref="#hieronymusOliverius">HIERONYMVS OLIVERIV<supplied reason="illegible">S</supplied></persName>:
-    <lb/>both in verse.
-    <lb/>
-    <persName ref="#bartholomaeus">BARTHOLIMVS</persName> in the eighth booke of 
-    <hi rend="italic"><placeName ref="#austria">Austria</placeName></hi>.
-    <lb/>
-    <persName ref="#sebastianMunster">SEBASTIAN MVNSTER</persName>, that learned Diuine, diligent Histori-
-    <lb/>an, painfull Hebrician and Linguist, well studied in all maner
-    <lb/>of learning, and vnto whom the learned Student is so much
-    <lb/>beholding.
-    <lb/>
-    <persName ref="#antoniusFlorence">ANTONIVS</persName> the Archbishop of 
-    <hi rend="italic"><placeName ref="#florence">Florence</placeName></hi>, in his Historie, in the
-    <lb/>third chapter of the first Title.
-    <lb/>
-    <persName ref="#dominicvsNiger">DOMINICVS NIGER</persName>.
-    <lb/>
-    <persName ref="#johannesAventinus">IOHN AVENTINE</persName> in his second booke of his Annals.
-    <lb/>
-    <persName ref="#johnCamers">IOHN CAMERS</persName> in his Commentaries vpon 
-    <hi rend="italic"><persName ref="#solinus">Solinus</persName></hi>.
-    <lb/>
-    <persName ref="#georgeRythaimer">GEORGE RYTHAIMER</persName>.
-    <lb/>
-    <persName ref="#joachimVadian">IOACHIM VADIAN</persName>.
-    <lb/>
-    <persName ref="#petrusJoannesOlivarius">PETRVS IOANNES OLIVARIVS</persName> vpon 
-    <hi rend="italic"><persName ref="#mela">Mela</persName></hi>.
-    <lb/>
-    <persName ref="#laurentivusCorvinus">LAVRENTIVS CORVINVS NOVOF</persName>.
-    <lb/>
-    <persName ref="#antoniusVeronensis">ANTONIVS VERONENSIS</persName>.
-</p>
-
-<p rend="right-bottom">
-    <persName ref="#gualterusLudovicus">GVALTERVS LVDOVICVS</persName>, in his Mirrour or Looking-glasse
-    <lb/>of the World.
-    <lb/>
-    <persName ref="#isidore">S. ISIDORE</persName> of <placeName ref="#seville">SIVILL</placeName> in 
-    <hi rend="italic"><placeName ref="#spaine">Spaine</placeName></hi>.
-    <lb/>
-    <persName ref="#michaelVillanova">MICHAEL</persName> of <placeName ref="#villanova">VILLANOVA</placeName>, in his Commentary vpon 
-    <hi rend="italic">Ptolemey</hi>.
-    <lb/>
-    <persName ref="#zachariasLilius">ZACHARIAS LILIVS VICENT</persName>.
-    <lb/>
-    <persName ref="#hieronymusGirava">HIERONYMVS GIRAVA</persName> in the Spanish tongue.
-    <lb/>
-    <persName ref="#alexanderCitolinus">ALEXANDER CITOLINVS</persName>, in his 
-    <hi rend="italic">Typocosmia</hi> or Pattern of the
-    <lb/>World written in the Italian tongue.
-    <lb/>
-    <persName ref="#vincentiusBelvacensis">VINCENTIVS BELVACENSIS</persName> in the Mirrour of Histories the
-    <lb/>second booke.
-    <lb/>
-    <persName ref="#postellus">GVILIELMVS POSTELLVS</persName> 
-    <hi rend="italic">Barentonius</hi>.
-    <lb/>
-    <persName ref="#johnMandeville">Sr. IOHN MANDEVILL</persName> and his companion of his trauels.
-    <lb/>
-    <persName ref="#odericus">ODERICVS</persName> of <placeName ref="#friuli">FRIVLY</placeName>.
-    <lb/>
-    <persName ref="#michaelNeander">MICHAEL NEANDER</persName> of 
-    <hi rend="italic"><placeName ref="#soraw">Soraw</placeName></hi>.
-    <lb/>
-    <persName ref="#gaudentiusMerula">GAVDENTIVS MERVLA</persName> in his 5. booke of memorable things.
-    <lb/>
-    <persName ref="#franciscusMonachus">FRANCISCVS MONACHI</persName>, in his Epistle to the 
-    <persName ref="#archbishopPanormus">Archbishop of
-        <hi rend="italic"><placeName ref="#panormus">Panormus</placeName></hi>
-    </persName>.
-    <lb/>
-    <persName ref="#andreasThevet">ANDREAS THEVETVS</persName>, 
-    <persName ref="#franciscusBelleforestius">FRANCISVS BELLEFORESTIVS</persName>,
-    <lb/>and <persName ref="#petrusHeynsius">PETRVS HEYNSIVS</persName>, in French: but this latter also in
-    <lb/>Dutch rythmes of verse.
-    <lb/>
-    <persName ref="#laurentiusAnaniensis">LAVRENTIVS ANANIENSIS</persName>, in the Italian tongue.
-    <lb/>
-    <persName ref="#antoniusPinetus">ANTONIVS PINETVS</persName>, in French: and he hath withal set
-    <lb/>forth many Tables and Mappes (as the title sheweth) of Coun-
-    <lb/>tries, Cities and Townes, aswell of 
-    <hi rend="italic"><placeName ref="#europe">Europe</placeName></hi>, as of 
-    <hi rend="italic"><placeName ref="#africa">Afrike</placeName></hi>, 
-    <hi rend="italic"><placeName ref="#asia">Asia</placeName></hi>
-    <lb/>and <hi rend="italic"><placeName ref="#america">America</placeName></hi>.
-    <lb/>
-    <persName ref="#juliusBallinus">IVLIVS BALLINVS</persName>, hath put forth the Plots and drafts of the
-    <lb/>most famous Cities of the whole world, with a briefe historical
-    <lb/>discourse, written in the Tuscane tongue. The same is done by
-    <lb/><persName ref="#georgiusBruno">GEORGIVS BRVNO</persName>, in Latine, but much more beautifully and
-    <lb/>curiously.
-    <lb/>
-    <persName ref="#benedictusBordonus">BENEDICTVS BORDONIVS</persName>, hath described all the Ilands of
-    <lb/>the World. So also hath
-    <lb/><persName ref="#thomasPorcacchius">THOMAS PORCACCIVS</persName>: both in the Italian tongue.
-    <lb/>
-    <persName ref="#wolfgangusLasius">WOLFGANGVS LASIVS</persName>, and
-    <lb/><persName ref="#goropius">IOANNES GOROPIVS BECANVS</persName>, the originall and shifting
-    <lb/>of the nations of the same.
-    <lb/>
-    <persName ref="#petriusAppianus">PETRVS APPIANVS</persName>, and
-    <persName ref="#amantius">BARTHOLOMAEVS AMANTIVS</persName>, haue gathered the ancient In-
-    <lb/>scriptions: and so hath
-    <persName ref="#martinusSmetius">MARTINVS SMETIVS</persName>, but with greater diligence and care than
-    <lb/>ordinary.
-    <lb/>
-    <persName ref="#joannesBohemus">IOANNES BOHEMVS</persName>, and 
-    <persName ref="#alexanderSardus">ALEXANDER SARDVS</persName> haue writ-
-    <lb/>ten of the maners, rites and customes of all nations and people
-    <lb/>of it. The same hath
-    <persName ref="#franciscusBelleforestius2">FRANCISCVS BELLEFORESTIVS</persName> done in the French tongue.
-</p>
 
 <pb facs="#f017" />
 <lb /> <respStmt><!--We, Haley Jensen and Audrey Gauthier, worked on seq. 18 of this text--></respStmt>
@@ -1093,8 +919,8 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
     <lb />dubie Sallustius addit, Europæ admixtram : poffit quum tertia dici</foreign> : <placeName ref="#europe">Europe</placeName> and <placeName ref="#asia">Asia</placeName> vast, the Earthly globe between 
     <lb />them share. Yet whether <placeName ref="#africa">Africke</placeName> should a part of this our <placeName ref="#europe">Europe</placeName> be ; or make a third part by it selfe, Saluit doth doubt 
     <lb />I see. But <persName ref="#philostratus">Philostratus</persName> also in <persName ref="#isocrates">Isocrates</persName> doth diuide the world into <placeName ref="#asia">Asia</placeName> and <placeName ref="#europe">Europe</placeName> : yea <persName ref="#isocrates">Isocrates</persName> himself, in his Pane-
-    <lb />gyricos. Moreouer in <persName ref="#varro">Varroes</persName> booke <foreign xml:lang="la">De lingua Latina</foreign> these words are read ; As all the world is diuided into <placeName ref="#heaven">Heaven</placeName>
-    <lb />and <placeName ref="#earth">Earth</placeName> : so <placeName ref="#heaven">Heaven</placeName> is seuered into his quarters : and the <placeName ref="#earth">Earth</placeName> into <placeName ref="#asia">Asia</placeName> and <placeName ref="#europe">Europe</placeName>. Againe the same author in his 
+    <lb />gyricos. Moreouer in <persName ref="#varro">Varroes</persName> booke <foreign xml:lang="la">De lingua Latina</foreign> these words are read ; As all the world is diuided into Heaven
+    <lb />and <placeName ref="#earth">Earth</placeName> : so Heaven is seuered into his quarters : and the <placeName ref="#earth">Earth</placeName> into <placeName ref="#asia">Asia</placeName> and <placeName ref="#europe">Europe</placeName>. Againe the same author in his 
     <lb />booke of Husbandrie writeth thus : first, when as the world, by <persName ref="#eratosthenes">Eratosthenes</persName>, was very fully and naturally divided into 
     <lb />two parts, the one toward the South, <placeName ref="#asia">Asia</placeName> doubtlesse he meaneth the other in the north <placeName ref="#europe">Europe</placeName> we call it. <persName ref="#stAugustine">S. Augu-
     <lb />stine</persName> in his 16. booke <foreign xml:lang="la">De Ciuitate Dei</foreign> : <persName ref="#lucane">Lucane</persName> in his 9. booke: and <persName ref="#orosius">Orosius</persName> in the first booke of his history, haue the like
@@ -1108,17 +934,17 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
     <lb />into the <placeName ref="#euxineSea">Euxine sea</placeName>, <placeName ref="#marMaiore">Mar Maiore</placeName>, or <foreign xml:lang="la">Maurothalassa</foreign>, as the greeks call it) neere <placeName ref="#trapezonda">Trapezonda</placeName> : some mappes do now call that riuer <placeName ref="#fasso">Fasso</placeName>, others <placeName ref="#phazzeth">Phaz-
     <lb />zeth</placeName>: the Scythians, (as <persName ref="#thevet">Theuet</persName> reporteth, Debbaffethca) or which is all one, by that ithmos or neckland which is between the forefaid <placeName ref="#marMaiore">Mar Maiore</placeName> or 
     <lb /><placeName ref="#pontusEuxinus">Pontus Euxinus</placeName>, and the <placeName ref="#caspianSea">Caspian sea</placeName> (<placeName ref="#marDeCachu">Mar de Cachu</placeName>, the ancient called it <placeName ref="#mareHyrcanum">Mare Hyrcanum</placeName>, the <placeName ref="#hyrcanianSea">Hyrcanie sea</placeName>) which formerly all old writers thought to 
-    <lb />be but a bay or gulfe of the Scythian or Northren ocean, as <persName ref="#strabo">Strabo</persName>, <persName ref="#pliny">Pliny</persName>, <persName ref="#mela">Mela</persName>, <persName ref="#dionysiusF">Dionysius</persName>, <persName ref="#plutarch">Plutarch</persName> (in the life of <persName ref="#alexander">Alexander</persName> and in his discourse of the 
+    <lb />be but a bay or gulfe of the Scythian or Northren ocean, as <persName ref="#strabo">Strabo</persName>, <persName ref="#pliny">Pliny</persName>, <persName ref="#mela">Mela</persName>, <persName ref="#dionysius">Dionysius</persName>, <persName ref="#plutarch">Plutarch</persName> (in the life of <persName ref="#alexander">Alexander</persName> and in his discourse of the 
     <lb />face in the sphere of the Moone) and <persName ref="#iornandes">Iornandes</persName> a more late writer, have first recorded. Yet all of them were deceiued. Only <persName ref="#herodotus">Herodotus</persName> truly (as this 
     <lb />our latter age doth approve and find to be so) doth affirme this to be a sea of it selfe, and to have neither in-let nor out-let, or to be intermeddled with any other 
-    <lb />sea. <persName ref="#dionysiusF">Dionysius</persName>, <persName ref="#arrianus">Arrianus</persName>, <persName ref="#diodorus">Diodorus</persName>, <persName ref="#polybius">Polybius</persName>, <persName ref="#iornandes">Iornandes</persName> and <persName ref="#ptolemy">Ptolemey</persName> have diuided it from <placeName ref="#asia">Asia</placeName> by the riuer <placeName ref="#tanais">Tanais</placeName> (<placeName ref="#don">Don</placeName> or <placeName ref="#tana">Tana</placeName>, as now the 
+    <lb />sea. <persName ref="#dionysius">Dionysius</persName>, <persName ref="#arrianus">Arrianus</persName>, <persName ref="#diodorus">Diodorus</persName>, <persName ref="#polybius">Polybius</persName>, <persName ref="#iornandes">Iornandes</persName> and <persName ref="#ptolemy">Ptolemey</persName> have diuided it from <placeName ref="#asia">Asia</placeName> by the riuer <placeName ref="#tanais">Tanais</placeName> (<placeName ref="#don">Don</placeName> or <placeName ref="#tana">Tana</placeName>, as now the 
     <lb />Italians name it) who think that both the rise of this riuer, and the land Northward from where it commeth, are both unknown and uncertaine. All 
     <lb />doubt where to place and lay their bounds : as indeed who never perfectly knew those places toward the East and North, not being then discovered, but only 
     <lb />described by them, from the fabulous reports of others: as for example, the <placeName ref="#riphaean">Riphæan</placeName> and <placeName ref="#hyperborean">Hyperboræan</placeName> mountaines, which are fained inventions of the 
     <lb />Greekes, as <persName ref="#strabo">Strabo</persName> writeth: together with <placeName ref="#aluaniMontes">Aluani montes</placeName>, heere described by <persName ref="#ptolemy">Ptolemey</persName>, where not only these mountaines, but also no other at this 
     <lb />day, are to be seene: but in their places diuers huge and vast woods, great fennes and bogges, or large champion plaines. <persName ref="#orpheus">Orpheus</persName> also long since described 
     <lb />in this part of the continent I meane, between <placeName ref="#maeotisPalus">Mæotis palus</placeName>, the <placeName ref="#fenneMaeotis">fenne Mæotis</placeName>, (now called <placeName ref="#marDelleZabbache">Mar delle Zabbache</placeName>, and <placeName ref="#mardellaTana">Mardella Tana</placeName>) and the <placeName ref="#croniumSea">sea
-    <lb />Cronium</placeName>, an huge wood. Likewise, <persName ref="#dionysiusF">Dionysius</persName> after heereabouts placeth an infinite wood, as he termeth it, from whence he saith <placeName ref="#tanais">Tanais</placeName> or <placeName ref="#don">Don</placeName> doth
+    <lb />Cronium</placeName>, an huge wood. Likewise, <persName ref="#dionysius">Dionysius</persName> after heereabouts placeth an infinite wood, as he termeth it, from whence he saith <placeName ref="#tanais">Tanais</placeName> or <placeName ref="#don">Don</placeName> doth
     <lb />spring, which after many windings and turnings at last falleth into the forenamed <placeName ref="#fenneMaeotis">fenne Maeotis</placeName>. <persName ref="#isidorus">Isidorus</persName> heere hath the <placeName ref="#riphaeanWoods">Riphaean woods</placeName>, in which he
     <lb />saith <placeName ref="#tanais">Tanais</placeName> doth first take the beginning. That <placeName ref="#danube">Donaw</placeName> (Danubis) doth diuide <placeName ref="#asia">Asia</placeName> from <placeName ref="#europe">Europe</placeName>, <persName ref="#seneca">Seneca</persName> in the sixth booke Naturall doth manifestly
     <lb />affirm; of which his opinion, what do we thinke, we will, God willing, set downe in the discourse to the Mappe of <placeName ref="#dacia">Dacia</placeName>. Hitherto we see the forenamed au-
@@ -1189,7 +1015,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <lb /><hi rend="italic">sic describere conabar <persName>Abrah, Ortelius</persName></hi></foreign></p>
 </ab>
 <ab>
-<lb /><p red="left-bottom"><foreign xml:lang="la">CLARISS, D, NICOLAO
+<lb /><p rend="left-bottom"><foreign xml:lang="la">CLARISS, D, NICOLAO
 <lb />ROCCOXIO I,V,L, PATRICIO <placeName>ANTVERP</placeName>
 <lb />EIVSDEMQ. VRBIS SENATORI, HANC
 <lb />ANTIQV<note type="letter"><!--this is the weird ae letter-->AE</note> EVROP<note type="letter"><!--this is the weird ae letter-->AE</note>, NOVAM TABVLAM,
@@ -1204,7 +1030,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <lb />BRABANTI
 <lb /><note type="letter"><!--this is the weird ae letter-->AE</note> CANCEL
 <lb />LARIAE</foreign>
-<lb /><hi rend="italic"><date when="1595">[1595.]</date></hi></p>
+<lb /><hi rend="italic"><date when="1595">1595.</date></hi></p>
 </ab>
 
 <pb facs="#f020" />
@@ -1212,7 +1038,7 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <ab>
 <lb />
 <hi rend="italic">saith, have seriously thought: nor in</hi> 
-<placeName ref="#spaine">Spaine</placeName>, 
+<placeName ref="#spain">Spaine</placeName>, 
 <hi rend="italic">as</hi> 
 <persName ref="#ae"><note type="letter"><!--ash or aesc-->AE</note></persName> 
 <hi rend="italic">beleeued: nor in certaine rockes at the further end of the gulfe of</hi> 
@@ -1463,7 +1289,7 @@ ly
 <hi rend="italic">did not inhabit.</hi> 
 <lb />
 <hi rend="italic">For in</hi> 
-<placeName ref="#spaine">Spaine</placeName> 
+<placeName ref="#spain">Spaine</placeName> 
 <hi rend="italic">toward the West, and beyond Hercules pillars are the</hi> 
 <note type="group of people">Celt<note type="letter">ae</note></note> 
 <hi rend="italic">as</hi> 
@@ -2065,7 +1891,7 @@ ty
     <lb />Among the ancient Writers none have particularly described this region. But concerning the 
     <lb />same saith <persName ref="#isidore">Isidore</persName> in his <placeName ref="#etymologies">Etymologies</placeName>; <persName ref="#hanno">Hanno</persName> his navigation about <placeName ref="#africa">Africa</placeName>, in diversities; and 
     <lb /><persName ref="#iambulus">Iambulus</persName> his voyages, in <persName ref="#diodorusSiculus">Diodorus Siculus</persName>; and likewise <persName ref="#herodotus">Herodotus</persName> his Melpomene. 
-    <lb /><persName ref="#bartholomeusGlanvilla">Bartholomeus de Glanvilla</persName> in his <placeName ref="#imageWorld">Image of the World</placeName> reporteth the like. Of late Writers reade 
+    <lb /><persName ref="#bartholomeusGlanvilla">Bartholomeus de Glanvilla</persName> in his Image of the World reporteth the like. Of late Writers reade 
     <lb />also the Commentaries of <persName ref="#vascoDeGama">Vasco de Gama</persName>, <persName ref="#franciscusAlvares">Franciscus Alvares</persName>, who travelled <placeName ref="#aethiopia">Æthiopia</placeName>. But of 
     <lb />all others <persName ref="#johnLeo">John Leo</persName> hath most exactly described it; as also <persName ref="#andreasThevet">Andrew Thevet</persName>, and <persName ref="#franciscusAlvares">Francis Alvarez</persName>, 
     <lb />both travellers of <placeName ref="#africa">Africa</placeName>. Concerning the <placeName ref="#nilus">river Nilus</placeName>, the greatest in all the world, you have the 
@@ -2120,7 +1946,7 @@ ty
 <lb />long. It is a countrey very mountainous and beset here and there with most lofty
 <lb />and cragged rocks. So great is the diuersity of languages in these regions, that one
 <lb />cannot vnderstand another without an Interpreter. The principall Colonies to
-<lb />be seene in this Table, which in <placeName ref="#spaine">New Spaine</placeName> haue been planted by the Spaniards, 
+<lb />be seene in this Table, which in <placeName ref="#spain">New Spaine</placeName> haue been planted by the Spaniards, 
 <lb />are first <placeName ref="#compostella">Compostella</placeName>, the feat of a bishop, and one of the Kings counsels. <placeName ref="#colima">Colima</placeName>, 
 <lb />by another name called the city of the Purification. <placeName ref="#guadalajara">Guadalajara</placeName>, a towne most fa-
 <lb />mous, and head of the Kingdome of <placeName ref="#gallicia">New Gallicia</placeName>. <placeName ref="#mecboacan">Mecboacan</placeName>, a Bishops sea also.
@@ -2159,7 +1985,7 @@ ty
 <respStmt> <!--Transcribed and encoded by Tyrell Fuller. --> </respStmt>
 <lb /><figure rend="middle-top"><figDesc><head>The Prouince of <placeName ref="#culiacán">CVLIACAN</placeName></head></figDesc></figure>
 <lb />THis Prouince of <placeName ref="#culiacán">CVLIACAN</placeName> is part of the kingdome of <placeName ref="#newGalicia">New Galicia</placeName>. It was discouered
-<lb />vnder the gouernment of [Charles the fifth], in the year <date when="1530">1530</date>. In this region is one only colonie
+<lb />vnder the gouernment of Charles the fifth, in the year <date when="1530">1530</date>. In this region is one only colonie
 <lb />of Spaniards called, The towne of <placeName ref="#s.Micheal.Villages">S. Michael. Villages</placeName> here are very many, bujlt by the
 <lb />inhabitants; all which before the Spaniards arriuall were at their own libertie: yeelding obedience
 <lb />to no King or Gouernour. The region is indifferently furnished with things necessary. Out of the
@@ -2403,11 +2229,11 @@ ty
 <lb />IESTIES MOST 
 <lb />HVMBLE AND
 <lb />FAITHFVLL SER-
-<lb />[V]ANT CONSECRATETH
+<lb />VANT CONSECRATETH
 <lb />THESE IMMORTALL LA-
 <lb />BOVRS OF ABRAHAM
-<lb />[OR]TELIVS, TRANS-
-<lb />[L]ATED INTO
+<lb />ORTELIVS, TRANS-
+<lb />LATED INTO
 <lb />ENGLISH
 </ab>
 <ab>

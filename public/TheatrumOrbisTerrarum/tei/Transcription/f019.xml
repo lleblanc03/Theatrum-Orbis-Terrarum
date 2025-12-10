@@ -6,7 +6,7 @@
 <lb/><hi rend="italic">sic describere conabar <persName>Abrah, Ortelius</persName></hi></foreign></p>
 </ab>
 <ab>
-<lb/><p red="left-bottom"><foreign xml:lang="la">CLARISS, D, NICOLAO
+<lb/><p rend="left-bottom"><foreign xml:lang="la">CLARISS, D, NICOLAO
 <lb/>ROCCOXIO I,V,L, PATRICIO <placeName>ANTVERP</placeName>
 <lb/>EIVSDEMQ. VRBIS SENATORI, HANC
 <lb/>ANTIQV<note type="letter"><!--this is the weird ae letter-->AE</note> EVROP<note type="letter"><!--this is the weird ae letter-->AE</note>, NOVAM TABVLAM,
@@ -21,7 +21,7 @@
 <lb/>BRABANTI
 <lb/><note type="letter"><!--this is the weird ae letter-->AE</note> CANCEL
 <lb/>LARIAE</foreign>
-<lb/><hi rend="italic"><date when="1595">[1595.]</date></hi></p>
+<lb/><hi rend="italic"><date when="1595">1595.</date></hi></p>
 </ab>
 
 </div></body></text>
