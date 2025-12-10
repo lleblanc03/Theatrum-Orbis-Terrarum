@@ -822,10 +822,10 @@ https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
 <pb facs="#f016" />
 <respStmt><!--I, Meghan Spargo, transcribed and tagged Seq.17 of this text.--> </respStmt>
 <ab>
-    <fw type="header" place="top">
-                <lb />A DESCRIPTION OF THE
-                <lb />WHOLE WORLD.
-    </fw>
+    <head>
+        <lb />A DESCRIPTION OF THE
+        <lb />WHOLE WORLD.
+    </head>
 </ab>
 <ab>
     <lb /> 
