@@ -1,0 +1,18 @@
+This digital edition was created through a structured, multi-stage setup process that combined technical 
+configuration, IIIF integration, and collaborative editorial work. The project began with establishing a dedicated 
+repository using the EditionCrafter React template, which provided the framework for processing IIIF manifests, 
+displaying synchronized text and images, and ultimately publishing the edition on GitHub Pages. The repository was 
+configured with the necessary GitHub Actions permissions, and a Codespace environment was opened to allow 
+contributors to work in a shared  workspace.
+
+Once the infrastructure was set up, the IIIF manifest for the source document was imported and converted into a 
+project XML file using the EditionCrafter iiif command. Each page of the source document was assigned to an 
+individual student transcriber, who reproduced the text as faithfully as possible. Page images were consulted 
+continuously to ensure accuracy, and all expanded abbreviations, uncertain readings, and editorial decisions were 
+documented through appropriate TEI tags and attributes. After transcription, the text underwent a collaborative 
+verification stage. Transcribers and editors compared the encoded text to the facsimiles, checked for consistency in 
+markup, and resolved discrepancies. 
+
+The edition will continue to evolve as new transcriptions are complete and markup is refined. Documentation and 
+encoding practices remain living components of the project and will continue to develop under the ongoing guidance 
+and editorial supervision of Dr. Bennett, whose continued efforts ensure the accuracy and consistency of the edition.
