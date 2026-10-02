@@ -3,7 +3,9 @@
   <!--
 Link that has the live editioncrafter
 
-https://lleblanc03.github.io/Theatrum-Orbis-Terrarum/
+https://kmabennett.github.io/Theatrum-Orbis-Terrarum-Master/
+
+iiif Manifest ling -> https://kmabennett.github.io/Theatrum-Orbis-Terrarum-Master//TheatrumOrbisTerrarum/iiif/manifest.json
 
 -->
        <!-- The teiHeader contains metadata about the document. -->
@@ -2082,10 +2084,7 @@ ty
 
 <pb facs="#f026" />
 <ab>
-<lb /><respStmt><!--I, Grace Avery, worked on seq, 27 of this text.--></respStmt> 
-<lb />AMERICAE SIVE
-<lb />NOVI ORBIS, NO-
-<lb />VA DESCRIPTIO.
+<lb />--TEI Transcription for Seq.27
 </ab>
 
 <pb facs="#f027" />
